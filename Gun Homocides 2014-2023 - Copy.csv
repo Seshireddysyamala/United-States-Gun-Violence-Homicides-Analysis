@@ -1,0 +1,5662 @@
+﻿Date,States,Homocides
+10/1/2014,Alaska,7
+10/1/2014,Alabama,0
+10/1/2014,Arkansas,14
+10/1/2014,Arizona,32
+10/1/2014,California,149
+10/1/2014,Colorado,15
+10/1/2014,Connecticut,6
+10/1/2014,District of Columbia,9
+10/1/2014,Delaware,2
+10/1/2014,Florida,0
+10/1/2014,Georgia,43
+10/1/2014,Hawaii,0
+10/1/2014,Iowa,2
+10/1/2014,Idaho,4
+10/1/2014,Illinois,33
+10/1/2014,Indiana,37
+10/1/2014,Kansas,7
+10/1/2014,Kentucky,16
+10/1/2014,Louisiana,30
+10/1/2014,Massachusetts,11
+10/1/2014,Maryland,26
+10/1/2014,Maine,2
+10/1/2014,Michigan,38
+10/1/2014,Minnesota,5
+10/1/2014,Missouri,46
+10/1/2014,Mississippi,19
+10/1/2014,Montana,2
+10/1/2014,Nebraska,6
+10/1/2014,North Carolina,45
+10/1/2014,North Dakota,1
+10/1/2014,New Hampshire,2
+10/1/2014,New Jersey,30
+10/1/2014,New Mexico,17
+10/1/2014,Nevada,14
+10/1/2014,New York,70
+10/1/2014,Ohio,37
+10/1/2014,Oklahoma,20
+10/1/2014,Oregon,7
+10/1/2014,Pennsylvania,59
+10/1/2014,Rhode Island,1
+10/1/2014,South Carolina,23
+10/1/2014,South Dakota,0
+10/1/2014,Tennessee,29
+10/1/2014,Texas,99
+10/1/2014,Utah,2
+10/1/2014,Virginia,27
+10/1/2014,Vermont,0
+10/1/2014,Washington,17
+10/1/2014,Wisconsin,14
+10/1/2014,West Virginia,6
+10/1/2014,Wyoming,1
+11/1/2014,Alaska,4
+11/1/2014,Alabama,0
+11/1/2014,Arkansas,9
+11/1/2014,Arizona,17
+11/1/2014,California,143
+11/1/2014,Colorado,10
+11/1/2014,Connecticut,5
+11/1/2014,District of Columbia,5
+11/1/2014,Delaware,6
+11/1/2014,Florida,0
+11/1/2014,Georgia,54
+11/1/2014,Hawaii,2
+11/1/2014,Iowa,4
+11/1/2014,Idaho,3
+11/1/2014,Illinois,37
+11/1/2014,Indiana,20
+11/1/2014,Kansas,4
+11/1/2014,Kentucky,12
+11/1/2014,Louisiana,24
+11/1/2014,Massachusetts,8
+11/1/2014,Maryland,18
+11/1/2014,Maine,2
+11/1/2014,Michigan,48
+11/1/2014,Minnesota,4
+11/1/2014,Missouri,46
+11/1/2014,Mississippi,10
+11/1/2014,Montana,1
+11/1/2014,Nebraska,3
+11/1/2014,North Carolina,42
+11/1/2014,North Dakota,2
+11/1/2014,New Hampshire,3
+11/1/2014,New Jersey,40
+11/1/2014,New Mexico,14
+11/1/2014,Nevada,18
+11/1/2014,New York,47
+11/1/2014,Ohio,45
+11/1/2014,Oklahoma,13
+11/1/2014,Oregon,12
+11/1/2014,Pennsylvania,43
+11/1/2014,Rhode Island,2
+11/1/2014,South Carolina,36
+11/1/2014,South Dakota,4
+11/1/2014,Tennessee,23
+11/1/2014,Texas,109
+11/1/2014,Utah,3
+11/1/2014,Virginia,34
+11/1/2014,Vermont,2
+11/1/2014,Washington,18
+11/1/2014,Wisconsin,7
+11/1/2014,West Virginia,5
+11/1/2014,Wyoming,1
+12/1/2014,Alaska,4
+12/1/2014,Alabama,0
+12/1/2014,Arkansas,10
+12/1/2014,Arizona,22
+12/1/2014,California,152
+12/1/2014,Colorado,7
+12/1/2014,Connecticut,9
+12/1/2014,District of Columbia,13
+12/1/2014,Delaware,5
+12/1/2014,Florida,0
+12/1/2014,Georgia,48
+12/1/2014,Hawaii,3
+12/1/2014,Iowa,7
+12/1/2014,Idaho,2
+12/1/2014,Illinois,42
+12/1/2014,Indiana,28
+12/1/2014,Kansas,14
+12/1/2014,Kentucky,12
+12/1/2014,Louisiana,44
+12/1/2014,Massachusetts,10
+12/1/2014,Maryland,34
+12/1/2014,Maine,5
+12/1/2014,Michigan,44
+12/1/2014,Minnesota,8
+12/1/2014,Missouri,46
+12/1/2014,Mississippi,17
+12/1/2014,Montana,2
+12/1/2014,Nebraska,5
+12/1/2014,North Carolina,45
+12/1/2014,North Dakota,1
+12/1/2014,New Hampshire,1
+12/1/2014,New Jersey,21
+12/1/2014,New Mexico,9
+12/1/2014,Nevada,12
+12/1/2014,New York,72
+12/1/2014,Ohio,33
+12/1/2014,Oklahoma,11
+12/1/2014,Oregon,2
+12/1/2014,Pennsylvania,60
+12/1/2014,Rhode Island,5
+12/1/2014,South Carolina,30
+12/1/2014,South Dakota,0
+12/1/2014,Tennessee,23
+12/1/2014,Texas,128
+12/1/2014,Utah,4
+12/1/2014,Virginia,34
+12/1/2014,Vermont,0
+12/1/2014,Washington,12
+12/1/2014,Wisconsin,11
+12/1/2014,West Virginia,8
+12/1/2014,Wyoming,3
+1/1/2015,Alaska,6
+1/1/2015,Alabama,0
+1/1/2015,Arkansas,16
+1/1/2015,Arizona,21
+1/1/2015,California,139
+1/1/2015,Colorado,10
+1/1/2015,Connecticut,5
+1/1/2015,District of Columbia,8
+1/1/2015,Delaware,12
+1/1/2015,Florida,0
+1/1/2015,Georgia,47
+1/1/2015,Hawaii,3
+1/1/2015,Iowa,7
+1/1/2015,Idaho,5
+1/1/2015,Illinois,36
+1/1/2015,Indiana,19
+1/1/2015,Kansas,11
+1/1/2015,Kentucky,22
+1/1/2015,Louisiana,34
+1/1/2015,Massachusetts,18
+1/1/2015,Maryland,35
+1/1/2015,Maine,1
+1/1/2015,Michigan,45
+1/1/2015,Minnesota,8
+1/1/2015,Missouri,36
+1/1/2015,Mississippi,12
+1/1/2015,Montana,0
+1/1/2015,Nebraska,8
+1/1/2015,North Carolina,39
+1/1/2015,North Dakota,0
+1/1/2015,New Hampshire,0
+1/1/2015,New Jersey,30
+1/1/2015,New Mexico,7
+1/1/2015,Nevada,12
+1/1/2015,New York,58
+1/1/2015,Ohio,38
+1/1/2015,Oklahoma,21
+1/1/2015,Oregon,3
+1/1/2015,Pennsylvania,59
+1/1/2015,Rhode Island,0
+1/1/2015,South Carolina,27
+1/1/2015,South Dakota,3
+1/1/2015,Tennessee,31
+1/1/2015,Texas,107
+1/1/2015,Utah,4
+1/1/2015,Virginia,33
+1/1/2015,Vermont,0
+1/1/2015,Washington,19
+1/1/2015,Wisconsin,20
+1/1/2015,West Virginia,8
+1/1/2015,Wyoming,0
+2/1/2015,Alaska,4
+2/1/2015,Alabama,0
+2/1/2015,Arkansas,18
+2/1/2015,Arizona,20
+2/1/2015,California,114
+2/1/2015,Colorado,12
+2/1/2015,Connecticut,2
+2/1/2015,District of Columbia,8
+2/1/2015,Delaware,5
+2/1/2015,Florida,0
+2/1/2015,Georgia,42
+2/1/2015,Hawaii,5
+2/1/2015,Iowa,3
+2/1/2015,Idaho,1
+2/1/2015,Illinois,18
+2/1/2015,Indiana,17
+2/1/2015,Kansas,2
+2/1/2015,Kentucky,22
+2/1/2015,Louisiana,25
+2/1/2015,Massachusetts,8
+2/1/2015,Maryland,19
+2/1/2015,Maine,0
+2/1/2015,Michigan,37
+2/1/2015,Minnesota,2
+2/1/2015,Missouri,38
+2/1/2015,Mississippi,8
+2/1/2015,Montana,5
+2/1/2015,Nebraska,0
+2/1/2015,North Carolina,50
+2/1/2015,North Dakota,0
+2/1/2015,New Hampshire,0
+2/1/2015,New Jersey,15
+2/1/2015,New Mexico,12
+2/1/2015,Nevada,10
+2/1/2015,New York,38
+2/1/2015,Ohio,27
+2/1/2015,Oklahoma,8
+2/1/2015,Oregon,5
+2/1/2015,Pennsylvania,38
+2/1/2015,Rhode Island,2
+2/1/2015,South Carolina,21
+2/1/2015,South Dakota,2
+2/1/2015,Tennessee,28
+2/1/2015,Texas,86
+2/1/2015,Utah,7
+2/1/2015,Virginia,18
+2/1/2015,Vermont,0
+2/1/2015,Washington,16
+2/1/2015,Wisconsin,13
+2/1/2015,West Virginia,9
+2/1/2015,Wyoming,1
+3/1/2015,Alaska,14
+3/1/2015,Alabama,1
+3/1/2015,Arkansas,4
+3/1/2015,Arizona,21
+3/1/2015,California,142
+3/1/2015,Colorado,14
+3/1/2015,Connecticut,13
+3/1/2015,District of Columbia,10
+3/1/2015,Delaware,2
+3/1/2015,Florida,0
+3/1/2015,Georgia,39
+3/1/2015,Hawaii,1
+3/1/2015,Iowa,3
+3/1/2015,Idaho,5
+3/1/2015,Illinois,35
+3/1/2015,Indiana,26
+3/1/2015,Kansas,11
+3/1/2015,Kentucky,13
+3/1/2015,Louisiana,49
+3/1/2015,Massachusetts,13
+3/1/2015,Maryland,31
+3/1/2015,Maine,2
+3/1/2015,Michigan,60
+3/1/2015,Minnesota,10
+3/1/2015,Missouri,38
+3/1/2015,Mississippi,7
+3/1/2015,Montana,3
+3/1/2015,Nebraska,5
+3/1/2015,North Carolina,40
+3/1/2015,North Dakota,3
+3/1/2015,New Hampshire,3
+3/1/2015,New Jersey,22
+3/1/2015,New Mexico,11
+3/1/2015,Nevada,11
+3/1/2015,New York,36
+3/1/2015,Ohio,30
+3/1/2015,Oklahoma,28
+3/1/2015,Oregon,6
+3/1/2015,Pennsylvania,47
+3/1/2015,Rhode Island,2
+3/1/2015,South Carolina,37
+3/1/2015,South Dakota,0
+3/1/2015,Tennessee,30
+3/1/2015,Texas,97
+3/1/2015,Utah,1
+3/1/2015,Virginia,33
+3/1/2015,Vermont,0
+3/1/2015,Washington,23
+3/1/2015,Wisconsin,23
+3/1/2015,West Virginia,6
+3/1/2015,Wyoming,0
+4/1/2015,Alaska,3
+4/1/2015,Alabama,0
+4/1/2015,Arkansas,12
+4/1/2015,Arizona,29
+4/1/2015,California,137
+4/1/2015,Colorado,10
+4/1/2015,Connecticut,8
+4/1/2015,District of Columbia,8
+4/1/2015,Delaware,8
+4/1/2015,Florida,0
+4/1/2015,Georgia,48
+4/1/2015,Hawaii,3
+4/1/2015,Iowa,6
+4/1/2015,Idaho,0
+4/1/2015,Illinois,37
+4/1/2015,Indiana,21
+4/1/2015,Kansas,7
+4/1/2015,Kentucky,14
+4/1/2015,Louisiana,36
+4/1/2015,Massachusetts,8
+4/1/2015,Maryland,29
+4/1/2015,Maine,0
+4/1/2015,Michigan,45
+4/1/2015,Minnesota,9
+4/1/2015,Missouri,35
+4/1/2015,Mississippi,22
+4/1/2015,Montana,2
+4/1/2015,Nebraska,1
+4/1/2015,North Carolina,29
+4/1/2015,North Dakota,0
+4/1/2015,New Hampshire,1
+4/1/2015,New Jersey,31
+4/1/2015,New Mexico,5
+4/1/2015,Nevada,15
+4/1/2015,New York,45
+4/1/2015,Ohio,41
+4/1/2015,Oklahoma,19
+4/1/2015,Oregon,1
+4/1/2015,Pennsylvania,38
+4/1/2015,Rhode Island,1
+4/1/2015,South Carolina,36
+4/1/2015,South Dakota,2
+4/1/2015,Tennessee,28
+4/1/2015,Texas,105
+4/1/2015,Utah,5
+4/1/2015,Virginia,35
+4/1/2015,Vermont,1
+4/1/2015,Washington,8
+4/1/2015,Wisconsin,23
+4/1/2015,West Virginia,5
+4/1/2015,Wyoming,4
+5/1/2015,Alaska,11
+5/1/2015,Alabama,0
+5/1/2015,Arkansas,19
+5/1/2015,Arizona,31
+5/1/2015,California,148
+5/1/2015,Colorado,9
+5/1/2015,Connecticut,7
+5/1/2015,District of Columbia,16
+5/1/2015,Delaware,4
+5/1/2015,Florida,0
+5/1/2015,Georgia,40
+5/1/2015,Hawaii,3
+5/1/2015,Iowa,4
+5/1/2015,Idaho,2
+5/1/2015,Illinois,49
+5/1/2015,Indiana,18
+5/1/2015,Kansas,9
+5/1/2015,Kentucky,13
+5/1/2015,Louisiana,41
+5/1/2015,Massachusetts,13
+5/1/2015,Maryland,38
+5/1/2015,Maine,3
+5/1/2015,Michigan,60
+5/1/2015,Minnesota,13
+5/1/2015,Missouri,38
+5/1/2015,Mississippi,22
+5/1/2015,Montana,5
+5/1/2015,Nebraska,7
+5/1/2015,North Carolina,36
+5/1/2015,North Dakota,3
+5/1/2015,New Hampshire,6
+5/1/2015,New Jersey,21
+5/1/2015,New Mexico,14
+5/1/2015,Nevada,22
+5/1/2015,New York,56
+5/1/2015,Ohio,48
+5/1/2015,Oklahoma,21
+5/1/2015,Oregon,4
+5/1/2015,Pennsylvania,64
+5/1/2015,Rhode Island,8
+5/1/2015,South Carolina,35
+5/1/2015,South Dakota,3
+5/1/2015,Tennessee,29
+5/1/2015,Texas,139
+5/1/2015,Utah,4
+5/1/2015,Virginia,36
+5/1/2015,Vermont,1
+5/1/2015,Washington,17
+5/1/2015,Wisconsin,25
+5/1/2015,West Virginia,3
+5/1/2015,Wyoming,0
+6/1/2015,Alaska,1
+6/1/2015,Alabama,0
+6/1/2015,Arkansas,17
+6/1/2015,Arizona,13
+6/1/2015,California,180
+6/1/2015,Colorado,12
+6/1/2015,Connecticut,10
+6/1/2015,District of Columbia,18
+6/1/2015,Delaware,3
+6/1/2015,Florida,0
+6/1/2015,Georgia,47
+6/1/2015,Hawaii,2
+6/1/2015,Iowa,10
+6/1/2015,Idaho,4
+6/1/2015,Illinois,49
+6/1/2015,Indiana,25
+6/1/2015,Kansas,11
+6/1/2015,Kentucky,19
+6/1/2015,Louisiana,43
+6/1/2015,Massachusetts,10
+6/1/2015,Maryland,40
+6/1/2015,Maine,1
+6/1/2015,Michigan,50
+6/1/2015,Minnesota,14
+6/1/2015,Missouri,49
+6/1/2015,Mississippi,9
+6/1/2015,Montana,4
+6/1/2015,Nebraska,7
+6/1/2015,North Carolina,53
+6/1/2015,North Dakota,4
+6/1/2015,New Hampshire,0
+6/1/2015,New Jersey,39
+6/1/2015,New Mexico,9
+6/1/2015,Nevada,10
+6/1/2015,New York,54
+6/1/2015,Ohio,43
+6/1/2015,Oklahoma,19
+6/1/2015,Oregon,13
+6/1/2015,Pennsylvania,44
+6/1/2015,Rhode Island,0
+6/1/2015,South Carolina,36
+6/1/2015,South Dakota,2
+6/1/2015,Tennessee,26
+6/1/2015,Texas,109
+6/1/2015,Utah,7
+6/1/2015,Virginia,21
+6/1/2015,Vermont,1
+6/1/2015,Washington,17
+6/1/2015,Wisconsin,21
+6/1/2015,West Virginia,5
+6/1/2015,Wyoming,2
+7/1/2015,Alaska,3
+7/1/2015,Alabama,0
+7/1/2015,Arkansas,25
+7/1/2015,Arizona,27
+7/1/2015,California,169
+7/1/2015,Colorado,22
+7/1/2015,Connecticut,14
+7/1/2015,District of Columbia,16
+7/1/2015,Delaware,5
+7/1/2015,Florida,0
+7/1/2015,Georgia,54
+7/1/2015,Hawaii,1
+7/1/2015,Iowa,1
+7/1/2015,Idaho,2
+7/1/2015,Illinois,57
+7/1/2015,Indiana,24
+7/1/2015,Kansas,13
+7/1/2015,Kentucky,22
+7/1/2015,Louisiana,51
+7/1/2015,Massachusetts,13
+7/1/2015,Maryland,47
+7/1/2015,Maine,4
+7/1/2015,Michigan,32
+7/1/2015,Minnesota,11
+7/1/2015,Missouri,48
+7/1/2015,Mississippi,14
+7/1/2015,Montana,6
+7/1/2015,Nebraska,4
+7/1/2015,North Carolina,36
+7/1/2015,North Dakota,0
+7/1/2015,New Hampshire,1
+7/1/2015,New Jersey,41
+7/1/2015,New Mexico,8
+7/1/2015,Nevada,9
+7/1/2015,New York,57
+7/1/2015,Ohio,52
+7/1/2015,Oklahoma,30
+7/1/2015,Oregon,12
+7/1/2015,Pennsylvania,67
+7/1/2015,Rhode Island,2
+7/1/2015,South Carolina,41
+7/1/2015,South Dakota,0
+7/1/2015,Tennessee,32
+7/1/2015,Texas,102
+7/1/2015,Utah,6
+7/1/2015,Virginia,21
+7/1/2015,Vermont,1
+7/1/2015,Washington,30
+7/1/2015,Wisconsin,27
+7/1/2015,West Virginia,4
+7/1/2015,Wyoming,3
+8/1/2015,Alaska,3
+8/1/2015,Alabama,0
+8/1/2015,Arkansas,14
+8/1/2015,Arizona,29
+8/1/2015,California,164
+8/1/2015,Colorado,11
+8/1/2015,Connecticut,12
+8/1/2015,District of Columbia,21
+8/1/2015,Delaware,4
+8/1/2015,Florida,0
+8/1/2015,Georgia,48
+8/1/2015,Hawaii,3
+8/1/2015,Iowa,7
+8/1/2015,Idaho,4
+8/1/2015,Illinois,56
+8/1/2015,Indiana,35
+8/1/2015,Kansas,11
+8/1/2015,Kentucky,14
+8/1/2015,Louisiana,36
+8/1/2015,Massachusetts,12
+8/1/2015,Maryland,49
+8/1/2015,Maine,2
+8/1/2015,Michigan,72
+8/1/2015,Minnesota,11
+8/1/2015,Missouri,47
+8/1/2015,Mississippi,15
+8/1/2015,Montana,0
+8/1/2015,Nebraska,6
+8/1/2015,North Carolina,43
+8/1/2015,North Dakota,0
+8/1/2015,New Hampshire,2
+8/1/2015,New Jersey,35
+8/1/2015,New Mexico,5
+8/1/2015,Nevada,22
+8/1/2015,New York,57
+8/1/2015,Ohio,53
+8/1/2015,Oklahoma,15
+8/1/2015,Oregon,4
+8/1/2015,Pennsylvania,59
+8/1/2015,Rhode Island,6
+8/1/2015,South Carolina,49
+8/1/2015,South Dakota,1
+8/1/2015,Tennessee,44
+8/1/2015,Texas,106
+8/1/2015,Utah,8
+8/1/2015,Virginia,38
+8/1/2015,Vermont,6
+8/1/2015,Washington,20
+8/1/2015,Wisconsin,13
+8/1/2015,West Virginia,6
+8/1/2015,Wyoming,1
+9/1/2015,Alaska,3
+9/1/2015,Alabama,1
+9/1/2015,Arkansas,14
+9/1/2015,Arizona,21
+9/1/2015,California,174
+9/1/2015,Colorado,19
+9/1/2015,Connecticut,8
+9/1/2015,District of Columbia,14
+9/1/2015,Delaware,4
+9/1/2015,Florida,0
+9/1/2015,Georgia,57
+9/1/2015,Hawaii,2
+9/1/2015,Iowa,12
+9/1/2015,Idaho,3
+9/1/2015,Illinois,58
+9/1/2015,Indiana,26
+9/1/2015,Kansas,9
+9/1/2015,Kentucky,11
+9/1/2015,Louisiana,32
+9/1/2015,Massachusetts,8
+9/1/2015,Maryland,38
+9/1/2015,Maine,2
+9/1/2015,Michigan,50
+9/1/2015,Minnesota,16
+9/1/2015,Missouri,48
+9/1/2015,Mississippi,21
+9/1/2015,Montana,3
+9/1/2015,Nebraska,4
+9/1/2015,North Carolina,46
+9/1/2015,North Dakota,2
+9/1/2015,New Hampshire,1
+9/1/2015,New Jersey,37
+9/1/2015,New Mexico,7
+9/1/2015,Nevada,18
+9/1/2015,New York,61
+9/1/2015,Ohio,38
+9/1/2015,Oklahoma,19
+9/1/2015,Oregon,6
+9/1/2015,Pennsylvania,70
+9/1/2015,Rhode Island,5
+9/1/2015,South Carolina,25
+9/1/2015,South Dakota,9
+9/1/2015,Tennessee,46
+9/1/2015,Texas,97
+9/1/2015,Utah,6
+9/1/2015,Virginia,50
+9/1/2015,Vermont,0
+9/1/2015,Washington,18
+9/1/2015,Wisconsin,20
+9/1/2015,West Virginia,7
+9/1/2015,Wyoming,1
+10/1/2015,Alaska,3
+10/1/2015,Alabama,0
+10/1/2015,Arkansas,13
+10/1/2015,Arizona,25
+10/1/2015,California,169
+10/1/2015,Colorado,16
+10/1/2015,Connecticut,6
+10/1/2015,District of Columbia,14
+10/1/2015,Delaware,6
+10/1/2015,Florida,0
+10/1/2015,Georgia,48
+10/1/2015,Hawaii,1
+10/1/2015,Iowa,4
+10/1/2015,Idaho,1
+10/1/2015,Illinois,29
+10/1/2015,Indiana,26
+10/1/2015,Kansas,13
+10/1/2015,Kentucky,23
+10/1/2015,Louisiana,43
+10/1/2015,Massachusetts,4
+10/1/2015,Maryland,52
+10/1/2015,Maine,1
+10/1/2015,Michigan,39
+10/1/2015,Minnesota,19
+10/1/2015,Missouri,49
+10/1/2015,Mississippi,10
+10/1/2015,Montana,4
+10/1/2015,Nebraska,5
+10/1/2015,North Carolina,60
+10/1/2015,North Dakota,2
+10/1/2015,New Hampshire,0
+10/1/2015,New Jersey,31
+10/1/2015,New Mexico,10
+10/1/2015,Nevada,13
+10/1/2015,New York,58
+10/1/2015,Ohio,44
+10/1/2015,Oklahoma,22
+10/1/2015,Oregon,8
+10/1/2015,Pennsylvania,57
+10/1/2015,Rhode Island,2
+10/1/2015,South Carolina,31
+10/1/2015,South Dakota,2
+10/1/2015,Tennessee,42
+10/1/2015,Texas,96
+10/1/2015,Utah,3
+10/1/2015,Virginia,28
+10/1/2015,Vermont,0
+10/1/2015,Washington,12
+10/1/2015,Wisconsin,23
+10/1/2015,West Virginia,6
+10/1/2015,Wyoming,1
+11/1/2015,Alaska,5
+11/1/2015,Alabama,1
+11/1/2015,Arkansas,16
+11/1/2015,Arizona,22
+11/1/2015,California,151
+11/1/2015,Colorado,19
+11/1/2015,Connecticut,10
+11/1/2015,District of Columbia,17
+11/1/2015,Delaware,3
+11/1/2015,Florida,0
+11/1/2015,Georgia,53
+11/1/2015,Hawaii,4
+11/1/2015,Iowa,10
+11/1/2015,Idaho,2
+11/1/2015,Illinois,38
+11/1/2015,Indiana,31
+11/1/2015,Kansas,15
+11/1/2015,Kentucky,27
+11/1/2015,Louisiana,44
+11/1/2015,Massachusetts,11
+11/1/2015,Maryland,41
+11/1/2015,Maine,5
+11/1/2015,Michigan,35
+11/1/2015,Minnesota,13
+11/1/2015,Missouri,38
+11/1/2015,Mississippi,12
+11/1/2015,Montana,3
+11/1/2015,Nebraska,6
+11/1/2015,North Carolina,30
+11/1/2015,North Dakota,3
+11/1/2015,New Hampshire,1
+11/1/2015,New Jersey,28
+11/1/2015,New Mexico,3
+11/1/2015,Nevada,14
+11/1/2015,New York,46
+11/1/2015,Ohio,47
+11/1/2015,Oklahoma,20
+11/1/2015,Oregon,7
+11/1/2015,Pennsylvania,62
+11/1/2015,Rhode Island,2
+11/1/2015,South Carolina,33
+11/1/2015,South Dakota,3
+11/1/2015,Tennessee,35
+11/1/2015,Texas,113
+11/1/2015,Utah,3
+11/1/2015,Virginia,36
+11/1/2015,Vermont,0
+11/1/2015,Washington,12
+11/1/2015,Wisconsin,17
+11/1/2015,West Virginia,5
+11/1/2015,Wyoming,4
+12/1/2015,Alaska,7
+12/1/2015,Alabama,0
+12/1/2015,Arkansas,10
+12/1/2015,Arizona,21
+12/1/2015,California,176
+12/1/2015,Colorado,19
+12/1/2015,Connecticut,14
+12/1/2015,District of Columbia,12
+12/1/2015,Delaware,6
+12/1/2015,Florida,0
+12/1/2015,Georgia,45
+12/1/2015,Hawaii,1
+12/1/2015,Iowa,7
+12/1/2015,Idaho,1
+12/1/2015,Illinois,35
+12/1/2015,Indiana,18
+12/1/2015,Kansas,10
+12/1/2015,Kentucky,19
+12/1/2015,Louisiana,53
+12/1/2015,Massachusetts,13
+12/1/2015,Maryland,56
+12/1/2015,Maine,2
+12/1/2015,Michigan,59
+12/1/2015,Minnesota,7
+12/1/2015,Missouri,36
+12/1/2015,Mississippi,8
+12/1/2015,Montana,3
+12/1/2015,Nebraska,9
+12/1/2015,North Carolina,46
+12/1/2015,North Dakota,0
+12/1/2015,New Hampshire,0
+12/1/2015,New Jersey,23
+12/1/2015,New Mexico,5
+12/1/2015,Nevada,22
+12/1/2015,New York,49
+12/1/2015,Ohio,41
+12/1/2015,Oklahoma,23
+12/1/2015,Oregon,11
+12/1/2015,Pennsylvania,60
+12/1/2015,Rhode Island,1
+12/1/2015,South Carolina,31
+12/1/2015,South Dakota,1
+12/1/2015,Tennessee,46
+12/1/2015,Texas,121
+12/1/2015,Utah,3
+12/1/2015,Virginia,42
+12/1/2015,Vermont,1
+12/1/2015,Washington,24
+12/1/2015,Wisconsin,12
+12/1/2015,West Virginia,7
+12/1/2015,Wyoming,1
+1/1/2016,Alaska,8
+1/1/2016,Alabama,1
+1/1/2016,Arkansas,22
+1/1/2016,Arizona,30
+1/1/2016,California,155
+1/1/2016,Colorado,7
+1/1/2016,Connecticut,3
+1/1/2016,District of Columbia,6
+1/1/2016,Delaware,6
+1/1/2016,Florida,0
+1/1/2016,Georgia,49
+1/1/2016,Hawaii,5
+1/1/2016,Iowa,2
+1/1/2016,Idaho,2
+1/1/2016,Illinois,71
+1/1/2016,Indiana,20
+1/1/2016,Kansas,5
+1/1/2016,Kentucky,16
+1/1/2016,Louisiana,33
+1/1/2016,Massachusetts,16
+1/1/2016,Maryland,30
+1/1/2016,Maine,2
+1/1/2016,Michigan,41
+1/1/2016,Minnesota,5
+1/1/2016,Missouri,46
+1/1/2016,Mississippi,12
+1/1/2016,Montana,2
+1/1/2016,Nebraska,3
+1/1/2016,North Carolina,47
+1/1/2016,North Dakota,0
+1/1/2016,New Hampshire,1
+1/1/2016,New Jersey,27
+1/1/2016,New Mexico,6
+1/1/2016,Nevada,18
+1/1/2016,New York,47
+1/1/2016,Ohio,56
+1/1/2016,Oklahoma,13
+1/1/2016,Oregon,4
+1/1/2016,Pennsylvania,53
+1/1/2016,Rhode Island,1
+1/1/2016,South Carolina,25
+1/1/2016,South Dakota,2
+1/1/2016,Tennessee,40
+1/1/2016,Texas,103
+1/1/2016,Utah,3
+1/1/2016,Virginia,45
+1/1/2016,Vermont,0
+1/1/2016,Washington,17
+1/1/2016,Wisconsin,12
+1/1/2016,West Virginia,6
+1/1/2016,Wyoming,4
+2/1/2016,Alaska,4
+2/1/2016,Alabama,0
+2/1/2016,Arkansas,13
+2/1/2016,Arizona,25
+2/1/2016,California,125
+2/1/2016,Colorado,9
+2/1/2016,Connecticut,5
+2/1/2016,District of Columbia,10
+2/1/2016,Delaware,6
+2/1/2016,Florida,0
+2/1/2016,Georgia,45
+2/1/2016,Hawaii,0
+2/1/2016,Iowa,2
+2/1/2016,Idaho,7
+2/1/2016,Illinois,56
+2/1/2016,Indiana,19
+2/1/2016,Kansas,6
+2/1/2016,Kentucky,14
+2/1/2016,Louisiana,21
+2/1/2016,Massachusetts,6
+2/1/2016,Maryland,37
+2/1/2016,Maine,0
+2/1/2016,Michigan,48
+2/1/2016,Minnesota,2
+2/1/2016,Missouri,19
+2/1/2016,Mississippi,10
+2/1/2016,Montana,9
+2/1/2016,Nebraska,3
+2/1/2016,North Carolina,42
+2/1/2016,North Dakota,2
+2/1/2016,New Hampshire,0
+2/1/2016,New Jersey,25
+2/1/2016,New Mexico,7
+2/1/2016,Nevada,22
+2/1/2016,New York,39
+2/1/2016,Ohio,38
+2/1/2016,Oklahoma,15
+2/1/2016,Oregon,14
+2/1/2016,Pennsylvania,31
+2/1/2016,Rhode Island,1
+2/1/2016,South Carolina,18
+2/1/2016,South Dakota,1
+2/1/2016,Tennessee,42
+2/1/2016,Texas,100
+2/1/2016,Utah,9
+2/1/2016,Virginia,31
+2/1/2016,Vermont,2
+2/1/2016,Washington,18
+2/1/2016,Wisconsin,10
+2/1/2016,West Virginia,2
+2/1/2016,Wyoming,0
+3/1/2016,Alaska,1
+3/1/2016,Alabama,1
+3/1/2016,Arkansas,10
+3/1/2016,Arizona,26
+3/1/2016,California,133
+3/1/2016,Colorado,9
+3/1/2016,Connecticut,6
+3/1/2016,District of Columbia,11
+3/1/2016,Delaware,8
+3/1/2016,Florida,0
+3/1/2016,Georgia,48
+3/1/2016,Hawaii,4
+3/1/2016,Iowa,8
+3/1/2016,Idaho,1
+3/1/2016,Illinois,62
+3/1/2016,Indiana,34
+3/1/2016,Kansas,11
+3/1/2016,Kentucky,19
+3/1/2016,Louisiana,38
+3/1/2016,Massachusetts,14
+3/1/2016,Maryland,27
+3/1/2016,Maine,2
+3/1/2016,Michigan,37
+3/1/2016,Minnesota,4
+3/1/2016,Missouri,33
+3/1/2016,Mississippi,13
+3/1/2016,Montana,7
+3/1/2016,Nebraska,1
+3/1/2016,North Carolina,61
+3/1/2016,North Dakota,2
+3/1/2016,New Hampshire,2
+3/1/2016,New Jersey,21
+3/1/2016,New Mexico,9
+3/1/2016,Nevada,13
+3/1/2016,New York,52
+3/1/2016,Ohio,42
+3/1/2016,Oklahoma,18
+3/1/2016,Oregon,3
+3/1/2016,Pennsylvania,54
+3/1/2016,Rhode Island,4
+3/1/2016,South Carolina,33
+3/1/2016,South Dakota,0
+3/1/2016,Tennessee,37
+3/1/2016,Texas,133
+3/1/2016,Utah,1
+3/1/2016,Virginia,37
+3/1/2016,Vermont,0
+3/1/2016,Washington,12
+3/1/2016,Wisconsin,21
+3/1/2016,West Virginia,6
+3/1/2016,Wyoming,1
+4/1/2016,Alaska,0
+4/1/2016,Alabama,0
+4/1/2016,Arkansas,10
+4/1/2016,Arizona,25
+4/1/2016,California,159
+4/1/2016,Colorado,17
+4/1/2016,Connecticut,6
+4/1/2016,District of Columbia,9
+4/1/2016,Delaware,5
+4/1/2016,Florida,0
+4/1/2016,Georgia,51
+4/1/2016,Hawaii,4
+4/1/2016,Iowa,6
+4/1/2016,Idaho,1
+4/1/2016,Illinois,59
+4/1/2016,Indiana,30
+4/1/2016,Kansas,3
+4/1/2016,Kentucky,29
+4/1/2016,Louisiana,42
+4/1/2016,Massachusetts,6
+4/1/2016,Maryland,48
+4/1/2016,Maine,1
+4/1/2016,Michigan,56
+4/1/2016,Minnesota,9
+4/1/2016,Missouri,40
+4/1/2016,Mississippi,15
+4/1/2016,Montana,4
+4/1/2016,Nebraska,8
+4/1/2016,North Carolina,56
+4/1/2016,North Dakota,2
+4/1/2016,New Hampshire,0
+4/1/2016,New Jersey,31
+4/1/2016,New Mexico,8
+4/1/2016,Nevada,27
+4/1/2016,New York,43
+4/1/2016,Ohio,51
+4/1/2016,Oklahoma,15
+4/1/2016,Oregon,4
+4/1/2016,Pennsylvania,57
+4/1/2016,Rhode Island,0
+4/1/2016,South Carolina,28
+4/1/2016,South Dakota,4
+4/1/2016,Tennessee,35
+4/1/2016,Texas,104
+4/1/2016,Utah,6
+4/1/2016,Virginia,38
+4/1/2016,Vermont,0
+4/1/2016,Washington,19
+4/1/2016,Wisconsin,23
+4/1/2016,West Virginia,2
+4/1/2016,Wyoming,0
+5/1/2016,Alaska,5
+5/1/2016,Alabama,0
+5/1/2016,Arkansas,16
+5/1/2016,Arizona,24
+5/1/2016,California,156
+5/1/2016,Colorado,19
+5/1/2016,Connecticut,7
+5/1/2016,District of Columbia,16
+5/1/2016,Delaware,2
+5/1/2016,Florida,0
+5/1/2016,Georgia,50
+5/1/2016,Hawaii,6
+5/1/2016,Iowa,2
+5/1/2016,Idaho,5
+5/1/2016,Illinois,83
+5/1/2016,Indiana,25
+5/1/2016,Kansas,9
+5/1/2016,Kentucky,19
+5/1/2016,Louisiana,47
+5/1/2016,Massachusetts,13
+5/1/2016,Maryland,43
+5/1/2016,Maine,1
+5/1/2016,Michigan,57
+5/1/2016,Minnesota,10
+5/1/2016,Missouri,42
+5/1/2016,Mississippi,14
+5/1/2016,Montana,2
+5/1/2016,Nebraska,11
+5/1/2016,North Carolina,53
+5/1/2016,North Dakota,3
+5/1/2016,New Hampshire,3
+5/1/2016,New Jersey,36
+5/1/2016,New Mexico,13
+5/1/2016,Nevada,11
+5/1/2016,New York,54
+5/1/2016,Ohio,50
+5/1/2016,Oklahoma,22
+5/1/2016,Oregon,8
+5/1/2016,Pennsylvania,55
+5/1/2016,Rhode Island,5
+5/1/2016,South Carolina,38
+5/1/2016,South Dakota,2
+5/1/2016,Tennessee,38
+5/1/2016,Texas,133
+5/1/2016,Utah,7
+5/1/2016,Virginia,40
+5/1/2016,Vermont,0
+5/1/2016,Washington,15
+5/1/2016,Wisconsin,19
+5/1/2016,West Virginia,11
+5/1/2016,Wyoming,2
+6/1/2016,Alaska,3
+6/1/2016,Alabama,0
+6/1/2016,Arkansas,24
+6/1/2016,Arizona,33
+6/1/2016,California,184
+6/1/2016,Colorado,13
+6/1/2016,Connecticut,6
+6/1/2016,District of Columbia,10
+6/1/2016,Delaware,4
+6/1/2016,Florida,0
+6/1/2016,Georgia,68
+6/1/2016,Hawaii,2
+6/1/2016,Iowa,5
+6/1/2016,Idaho,3
+6/1/2016,Illinois,90
+6/1/2016,Indiana,24
+6/1/2016,Kansas,10
+6/1/2016,Kentucky,23
+6/1/2016,Louisiana,43
+6/1/2016,Massachusetts,12
+6/1/2016,Maryland,40
+6/1/2016,Maine,3
+6/1/2016,Michigan,43
+6/1/2016,Minnesota,11
+6/1/2016,Missouri,49
+6/1/2016,Mississippi,10
+6/1/2016,Montana,1
+6/1/2016,Nebraska,1
+6/1/2016,North Carolina,47
+6/1/2016,North Dakota,1
+6/1/2016,New Hampshire,1
+6/1/2016,New Jersey,26
+6/1/2016,New Mexico,17
+6/1/2016,Nevada,19
+6/1/2016,New York,54
+6/1/2016,Ohio,55
+6/1/2016,Oklahoma,18
+6/1/2016,Oregon,13
+6/1/2016,Pennsylvania,74
+6/1/2016,Rhode Island,3
+6/1/2016,South Carolina,26
+6/1/2016,South Dakota,1
+6/1/2016,Tennessee,41
+6/1/2016,Texas,137
+6/1/2016,Utah,6
+6/1/2016,Virginia,37
+6/1/2016,Vermont,0
+6/1/2016,Washington,13
+6/1/2016,Wisconsin,17
+6/1/2016,West Virginia,7
+6/1/2016,Wyoming,1
+7/1/2016,Alaska,9
+7/1/2016,Alabama,0
+7/1/2016,Arkansas,22
+7/1/2016,Arizona,36
+7/1/2016,California,168
+7/1/2016,Colorado,18
+7/1/2016,Connecticut,9
+7/1/2016,District of Columbia,12
+7/1/2016,Delaware,8
+7/1/2016,Florida,0
+7/1/2016,Georgia,67
+7/1/2016,Hawaii,4
+7/1/2016,Iowa,6
+7/1/2016,Idaho,5
+7/1/2016,Illinois,89
+7/1/2016,Indiana,28
+7/1/2016,Kansas,6
+7/1/2016,Kentucky,22
+7/1/2016,Louisiana,68
+7/1/2016,Massachusetts,7
+7/1/2016,Maryland,58
+7/1/2016,Maine,2
+7/1/2016,Michigan,63
+7/1/2016,Minnesota,11
+7/1/2016,Missouri,49
+7/1/2016,Mississippi,12
+7/1/2016,Montana,1
+7/1/2016,Nebraska,3
+7/1/2016,North Carolina,47
+7/1/2016,North Dakota,0
+7/1/2016,New Hampshire,2
+7/1/2016,New Jersey,34
+7/1/2016,New Mexico,13
+7/1/2016,Nevada,24
+7/1/2016,New York,63
+7/1/2016,Ohio,64
+7/1/2016,Oklahoma,15
+7/1/2016,Oregon,6
+7/1/2016,Pennsylvania,65
+7/1/2016,Rhode Island,6
+7/1/2016,South Carolina,34
+7/1/2016,South Dakota,1
+7/1/2016,Tennessee,49
+7/1/2016,Texas,141
+7/1/2016,Utah,12
+7/1/2016,Virginia,33
+7/1/2016,Vermont,0
+7/1/2016,Washington,17
+7/1/2016,Wisconsin,22
+7/1/2016,West Virginia,8
+7/1/2016,Wyoming,0
+8/1/2016,Alaska,3
+8/1/2016,Alabama,1
+8/1/2016,Arkansas,14
+8/1/2016,Arizona,31
+8/1/2016,California,190
+8/1/2016,Colorado,14
+8/1/2016,Connecticut,9
+8/1/2016,District of Columbia,17
+8/1/2016,Delaware,1
+8/1/2016,Florida,0
+8/1/2016,Georgia,61
+8/1/2016,Hawaii,2
+8/1/2016,Iowa,5
+8/1/2016,Idaho,4
+8/1/2016,Illinois,113
+8/1/2016,Indiana,34
+8/1/2016,Kansas,4
+8/1/2016,Kentucky,37
+8/1/2016,Louisiana,55
+8/1/2016,Massachusetts,10
+8/1/2016,Maryland,40
+8/1/2016,Maine,2
+8/1/2016,Michigan,58
+8/1/2016,Minnesota,12
+8/1/2016,Missouri,64
+8/1/2016,Mississippi,13
+8/1/2016,Montana,0
+8/1/2016,Nebraska,2
+8/1/2016,North Carolina,42
+8/1/2016,North Dakota,2
+8/1/2016,New Hampshire,1
+8/1/2016,New Jersey,38
+8/1/2016,New Mexico,12
+8/1/2016,Nevada,18
+8/1/2016,New York,70
+8/1/2016,Ohio,70
+8/1/2016,Oklahoma,38
+8/1/2016,Oregon,15
+8/1/2016,Pennsylvania,77
+8/1/2016,Rhode Island,1
+8/1/2016,South Carolina,24
+8/1/2016,South Dakota,2
+8/1/2016,Tennessee,32
+8/1/2016,Texas,120
+8/1/2016,Utah,3
+8/1/2016,Virginia,36
+8/1/2016,Vermont,0
+8/1/2016,Washington,13
+8/1/2016,Wisconsin,27
+8/1/2016,West Virginia,10
+8/1/2016,Wyoming,4
+9/1/2016,Alaska,3
+9/1/2016,Alabama,0
+9/1/2016,Arkansas,17
+9/1/2016,Arizona,26
+9/1/2016,California,162
+9/1/2016,Colorado,19
+9/1/2016,Connecticut,7
+9/1/2016,District of Columbia,14
+9/1/2016,Delaware,6
+9/1/2016,Florida,0
+9/1/2016,Georgia,48
+9/1/2016,Hawaii,1
+9/1/2016,Iowa,5
+9/1/2016,Idaho,3
+9/1/2016,Illinois,83
+9/1/2016,Indiana,40
+9/1/2016,Kansas,14
+9/1/2016,Kentucky,18
+9/1/2016,Louisiana,45
+9/1/2016,Massachusetts,10
+9/1/2016,Maryland,54
+9/1/2016,Maine,1
+9/1/2016,Michigan,53
+9/1/2016,Minnesota,9
+9/1/2016,Missouri,47
+9/1/2016,Mississippi,17
+9/1/2016,Montana,0
+9/1/2016,Nebraska,2
+9/1/2016,North Carolina,53
+9/1/2016,North Dakota,0
+9/1/2016,New Hampshire,2
+9/1/2016,New Jersey,37
+9/1/2016,New Mexico,3
+9/1/2016,Nevada,17
+9/1/2016,New York,73
+9/1/2016,Ohio,50
+9/1/2016,Oklahoma,18
+9/1/2016,Oregon,11
+9/1/2016,Pennsylvania,52
+9/1/2016,Rhode Island,1
+9/1/2016,South Carolina,35
+9/1/2016,South Dakota,0
+9/1/2016,Tennessee,46
+9/1/2016,Texas,143
+9/1/2016,Utah,5
+9/1/2016,Virginia,38
+9/1/2016,Vermont,1
+9/1/2016,Washington,22
+9/1/2016,Wisconsin,20
+9/1/2016,West Virginia,5
+9/1/2016,Wyoming,3
+10/1/2016,Alaska,4
+10/1/2016,Alabama,0
+10/1/2016,Arkansas,22
+10/1/2016,Arizona,34
+10/1/2016,California,178
+10/1/2016,Colorado,24
+10/1/2016,Connecticut,2
+10/1/2016,District of Columbia,7
+10/1/2016,Delaware,2
+10/1/2016,Florida,0
+10/1/2016,Georgia,51
+10/1/2016,Hawaii,3
+10/1/2016,Iowa,16
+10/1/2016,Idaho,8
+10/1/2016,Illinois,103
+10/1/2016,Indiana,35
+10/1/2016,Kansas,8
+10/1/2016,Kentucky,25
+10/1/2016,Louisiana,48
+10/1/2016,Massachusetts,19
+10/1/2016,Maryland,41
+10/1/2016,Maine,4
+10/1/2016,Michigan,63
+10/1/2016,Minnesota,9
+10/1/2016,Missouri,52
+10/1/2016,Mississippi,9
+10/1/2016,Montana,2
+10/1/2016,Nebraska,3
+10/1/2016,North Carolina,51
+10/1/2016,North Dakota,1
+10/1/2016,New Hampshire,0
+10/1/2016,New Jersey,27
+10/1/2016,New Mexico,5
+10/1/2016,Nevada,24
+10/1/2016,New York,47
+10/1/2016,Ohio,48
+10/1/2016,Oklahoma,22
+10/1/2016,Oregon,5
+10/1/2016,Pennsylvania,64
+10/1/2016,Rhode Island,1
+10/1/2016,South Carolina,30
+10/1/2016,South Dakota,2
+10/1/2016,Tennessee,45
+10/1/2016,Texas,123
+10/1/2016,Utah,6
+10/1/2016,Virginia,42
+10/1/2016,Vermont,6
+10/1/2016,Washington,16
+10/1/2016,Wisconsin,29
+10/1/2016,West Virginia,7
+10/1/2016,Wyoming,4
+11/1/2016,Alaska,5
+11/1/2016,Alabama,0
+11/1/2016,Arkansas,22
+11/1/2016,Arizona,25
+11/1/2016,California,173
+11/1/2016,Colorado,26
+11/1/2016,Connecticut,9
+11/1/2016,District of Columbia,13
+11/1/2016,Delaware,5
+11/1/2016,Florida,0
+11/1/2016,Georgia,61
+11/1/2016,Hawaii,5
+11/1/2016,Iowa,11
+11/1/2016,Idaho,5
+11/1/2016,Illinois,103
+11/1/2016,Indiana,31
+11/1/2016,Kansas,12
+11/1/2016,Kentucky,23
+11/1/2016,Louisiana,56
+11/1/2016,Massachusetts,9
+11/1/2016,Maryland,42
+11/1/2016,Maine,1
+11/1/2016,Michigan,51
+11/1/2016,Minnesota,13
+11/1/2016,Missouri,46
+11/1/2016,Mississippi,14
+11/1/2016,Montana,3
+11/1/2016,Nebraska,1
+11/1/2016,North Carolina,47
+11/1/2016,North Dakota,1
+11/1/2016,New Hampshire,4
+11/1/2016,New Jersey,39
+11/1/2016,New Mexico,5
+11/1/2016,Nevada,4
+11/1/2016,New York,51
+11/1/2016,Ohio,64
+11/1/2016,Oklahoma,18
+11/1/2016,Oregon,12
+11/1/2016,Pennsylvania,44
+11/1/2016,Rhode Island,3
+11/1/2016,South Carolina,44
+11/1/2016,South Dakota,4
+11/1/2016,Tennessee,37
+11/1/2016,Texas,109
+11/1/2016,Utah,5
+11/1/2016,Virginia,56
+11/1/2016,Vermont,2
+11/1/2016,Washington,19
+11/1/2016,Wisconsin,9
+11/1/2016,West Virginia,7
+11/1/2016,Wyoming,0
+12/1/2016,Alaska,7
+12/1/2016,Alabama,0
+12/1/2016,Arkansas,18
+12/1/2016,Arizona,24
+12/1/2016,California,150
+12/1/2016,Colorado,9
+12/1/2016,Connecticut,9
+12/1/2016,District of Columbia,11
+12/1/2016,Delaware,5
+12/1/2016,Florida,0
+12/1/2016,Georgia,53
+12/1/2016,Hawaii,3
+12/1/2016,Iowa,6
+12/1/2016,Idaho,3
+12/1/2016,Illinois,79
+12/1/2016,Indiana,30
+12/1/2016,Kansas,10
+12/1/2016,Kentucky,20
+12/1/2016,Louisiana,49
+12/1/2016,Massachusetts,11
+12/1/2016,Maryland,34
+12/1/2016,Maine,1
+12/1/2016,Michigan,45
+12/1/2016,Minnesota,4
+12/1/2016,Missouri,50
+12/1/2016,Mississippi,15
+12/1/2016,Montana,4
+12/1/2016,Nebraska,3
+12/1/2016,North Carolina,49
+12/1/2016,North Dakota,1
+12/1/2016,New Hampshire,2
+12/1/2016,New Jersey,38
+12/1/2016,New Mexico,10
+12/1/2016,Nevada,17
+12/1/2016,New York,36
+12/1/2016,Ohio,62
+12/1/2016,Oklahoma,33
+12/1/2016,Oregon,8
+12/1/2016,Pennsylvania,55
+12/1/2016,Rhode Island,3
+12/1/2016,South Carolina,23
+12/1/2016,South Dakota,2
+12/1/2016,Tennessee,55
+12/1/2016,Texas,117
+12/1/2016,Utah,9
+12/1/2016,Virginia,49
+12/1/2016,Vermont,2
+12/1/2016,Washington,14
+12/1/2016,Wisconsin,21
+12/1/2016,West Virginia,9
+12/1/2016,Wyoming,0
+1/1/2017,Alaska,6
+1/1/2017,Alabama,2
+1/1/2017,Arkansas,28
+1/1/2017,Arizona,33
+1/1/2017,California,152
+1/1/2017,Colorado,16
+1/1/2017,Connecticut,10
+1/1/2017,District of Columbia,8
+1/1/2017,Delaware,9
+1/1/2017,Florida,0
+1/1/2017,Georgia,51
+1/1/2017,Hawaii,5
+1/1/2017,Iowa,10
+1/1/2017,Idaho,5
+1/1/2017,Illinois,80
+1/1/2017,Indiana,25
+1/1/2017,Kansas,6
+1/1/2017,Kentucky,24
+1/1/2017,Louisiana,55
+1/1/2017,Massachusetts,13
+1/1/2017,Maryland,54
+1/1/2017,Maine,1
+1/1/2017,Michigan,55
+1/1/2017,Minnesota,11
+1/1/2017,Missouri,52
+1/1/2017,Mississippi,12
+1/1/2017,Montana,6
+1/1/2017,Nebraska,6
+1/1/2017,North Carolina,50
+1/1/2017,North Dakota,1
+1/1/2017,New Hampshire,4
+1/1/2017,New Jersey,29
+1/1/2017,New Mexico,5
+1/1/2017,Nevada,16
+1/1/2017,New York,42
+1/1/2017,Ohio,59
+1/1/2017,Oklahoma,33
+1/1/2017,Oregon,11
+1/1/2017,Pennsylvania,61
+1/1/2017,Rhode Island,0
+1/1/2017,South Carolina,26
+1/1/2017,South Dakota,5
+1/1/2017,Tennessee,42
+1/1/2017,Texas,140
+1/1/2017,Utah,5
+1/1/2017,Virginia,48
+1/1/2017,Vermont,5
+1/1/2017,Washington,27
+1/1/2017,Wisconsin,12
+1/1/2017,West Virginia,12
+1/1/2017,Wyoming,0
+2/1/2017,Alaska,3
+2/1/2017,Alabama,0
+2/1/2017,Arkansas,15
+2/1/2017,Arizona,28
+2/1/2017,California,149
+2/1/2017,Colorado,13
+2/1/2017,Connecticut,8
+2/1/2017,District of Columbia,6
+2/1/2017,Delaware,6
+2/1/2017,Florida,0
+2/1/2017,Georgia,46
+2/1/2017,Hawaii,0
+2/1/2017,Iowa,7
+2/1/2017,Idaho,4
+2/1/2017,Illinois,23
+2/1/2017,Indiana,26
+2/1/2017,Kansas,9
+2/1/2017,Kentucky,30
+2/1/2017,Louisiana,41
+2/1/2017,Massachusetts,14
+2/1/2017,Maryland,29
+2/1/2017,Maine,4
+2/1/2017,Michigan,40
+2/1/2017,Minnesota,6
+2/1/2017,Missouri,32
+2/1/2017,Mississippi,18
+2/1/2017,Montana,0
+2/1/2017,Nebraska,0
+2/1/2017,North Carolina,31
+2/1/2017,North Dakota,0
+2/1/2017,New Hampshire,1
+2/1/2017,New Jersey,15
+2/1/2017,New Mexico,8
+2/1/2017,Nevada,20
+2/1/2017,New York,37
+2/1/2017,Ohio,59
+2/1/2017,Oklahoma,9
+2/1/2017,Oregon,4
+2/1/2017,Pennsylvania,46
+2/1/2017,Rhode Island,2
+2/1/2017,South Carolina,26
+2/1/2017,South Dakota,0
+2/1/2017,Tennessee,32
+2/1/2017,Texas,115
+2/1/2017,Utah,1
+2/1/2017,Virginia,29
+2/1/2017,Vermont,1
+2/1/2017,Washington,15
+2/1/2017,Wisconsin,14
+2/1/2017,West Virginia,6
+2/1/2017,Wyoming,1
+3/1/2017,Alaska,3
+3/1/2017,Alabama,0
+3/1/2017,Arkansas,23
+3/1/2017,Arizona,28
+3/1/2017,California,151
+3/1/2017,Colorado,14
+3/1/2017,Connecticut,4
+3/1/2017,District of Columbia,14
+3/1/2017,Delaware,4
+3/1/2017,Florida,0
+3/1/2017,Georgia,46
+3/1/2017,Hawaii,3
+3/1/2017,Iowa,7
+3/1/2017,Idaho,2
+3/1/2017,Illinois,58
+3/1/2017,Indiana,14
+3/1/2017,Kansas,13
+3/1/2017,Kentucky,24
+3/1/2017,Louisiana,42
+3/1/2017,Massachusetts,7
+3/1/2017,Maryland,42
+3/1/2017,Maine,0
+3/1/2017,Michigan,50
+3/1/2017,Minnesota,1
+3/1/2017,Missouri,28
+3/1/2017,Mississippi,13
+3/1/2017,Montana,3
+3/1/2017,Nebraska,3
+3/1/2017,North Carolina,39
+3/1/2017,North Dakota,0
+3/1/2017,New Hampshire,3
+3/1/2017,New Jersey,27
+3/1/2017,New Mexico,5
+3/1/2017,Nevada,20
+3/1/2017,New York,39
+3/1/2017,Ohio,70
+3/1/2017,Oklahoma,19
+3/1/2017,Oregon,8
+3/1/2017,Pennsylvania,55
+3/1/2017,Rhode Island,0
+3/1/2017,South Carolina,28
+3/1/2017,South Dakota,1
+3/1/2017,Tennessee,40
+3/1/2017,Texas,130
+3/1/2017,Utah,3
+3/1/2017,Virginia,25
+3/1/2017,Vermont,2
+3/1/2017,Washington,18
+3/1/2017,Wisconsin,19
+3/1/2017,West Virginia,7
+3/1/2017,Wyoming,1
+4/1/2017,Alaska,5
+4/1/2017,Alabama,0
+4/1/2017,Arkansas,25
+4/1/2017,Arizona,34
+4/1/2017,California,148
+4/1/2017,Colorado,25
+4/1/2017,Connecticut,9
+4/1/2017,District of Columbia,8
+4/1/2017,Delaware,3
+4/1/2017,Florida,1
+4/1/2017,Georgia,62
+4/1/2017,Hawaii,6
+4/1/2017,Iowa,10
+4/1/2017,Idaho,1
+4/1/2017,Illinois,64
+4/1/2017,Indiana,33
+4/1/2017,Kansas,15
+4/1/2017,Kentucky,21
+4/1/2017,Louisiana,45
+4/1/2017,Massachusetts,12
+4/1/2017,Maryland,37
+4/1/2017,Maine,1
+4/1/2017,Michigan,43
+4/1/2017,Minnesota,10
+4/1/2017,Missouri,51
+4/1/2017,Mississippi,16
+4/1/2017,Montana,3
+4/1/2017,Nebraska,5
+4/1/2017,North Carolina,54
+4/1/2017,North Dakota,0
+4/1/2017,New Hampshire,0
+4/1/2017,New Jersey,24
+4/1/2017,New Mexico,8
+4/1/2017,Nevada,19
+4/1/2017,New York,46
+4/1/2017,Ohio,42
+4/1/2017,Oklahoma,14
+4/1/2017,Oregon,8
+4/1/2017,Pennsylvania,61
+4/1/2017,Rhode Island,2
+4/1/2017,South Carolina,26
+4/1/2017,South Dakota,2
+4/1/2017,Tennessee,45
+4/1/2017,Texas,99
+4/1/2017,Utah,4
+4/1/2017,Virginia,36
+4/1/2017,Vermont,0
+4/1/2017,Washington,22
+4/1/2017,Wisconsin,10
+4/1/2017,West Virginia,9
+4/1/2017,Wyoming,0
+5/1/2017,Alaska,6
+5/1/2017,Alabama,1
+5/1/2017,Arkansas,34
+5/1/2017,Arizona,42
+5/1/2017,California,159
+5/1/2017,Colorado,25
+5/1/2017,Connecticut,7
+5/1/2017,District of Columbia,7
+5/1/2017,Delaware,5
+5/1/2017,Florida,1
+5/1/2017,Georgia,50
+5/1/2017,Hawaii,1
+5/1/2017,Iowa,11
+5/1/2017,Idaho,2
+5/1/2017,Illinois,92
+5/1/2017,Indiana,34
+5/1/2017,Kansas,8
+5/1/2017,Kentucky,29
+5/1/2017,Louisiana,37
+5/1/2017,Massachusetts,16
+5/1/2017,Maryland,50
+5/1/2017,Maine,0
+5/1/2017,Michigan,49
+5/1/2017,Minnesota,12
+5/1/2017,Missouri,44
+5/1/2017,Mississippi,10
+5/1/2017,Montana,6
+5/1/2017,Nebraska,3
+5/1/2017,North Carolina,41
+5/1/2017,North Dakota,2
+5/1/2017,New Hampshire,1
+5/1/2017,New Jersey,28
+5/1/2017,New Mexico,13
+5/1/2017,Nevada,18
+5/1/2017,New York,48
+5/1/2017,Ohio,59
+5/1/2017,Oklahoma,17
+5/1/2017,Oregon,11
+5/1/2017,Pennsylvania,52
+5/1/2017,Rhode Island,3
+5/1/2017,South Carolina,37
+5/1/2017,South Dakota,1
+5/1/2017,Tennessee,44
+5/1/2017,Texas,114
+5/1/2017,Utah,4
+5/1/2017,Virginia,37
+5/1/2017,Vermont,0
+5/1/2017,Washington,21
+5/1/2017,Wisconsin,11
+5/1/2017,West Virginia,5
+5/1/2017,Wyoming,0
+6/1/2017,Alaska,3
+6/1/2017,Alabama,1
+6/1/2017,Arkansas,14
+6/1/2017,Arizona,33
+6/1/2017,California,162
+6/1/2017,Colorado,16
+6/1/2017,Connecticut,5
+6/1/2017,District of Columbia,11
+6/1/2017,Delaware,2
+6/1/2017,Florida,0
+6/1/2017,Georgia,60
+6/1/2017,Hawaii,3
+6/1/2017,Iowa,12
+6/1/2017,Idaho,6
+6/1/2017,Illinois,31
+6/1/2017,Indiana,24
+6/1/2017,Kansas,19
+6/1/2017,Kentucky,31
+6/1/2017,Louisiana,56
+6/1/2017,Massachusetts,13
+6/1/2017,Maryland,34
+6/1/2017,Maine,1
+6/1/2017,Michigan,50
+6/1/2017,Minnesota,15
+6/1/2017,Missouri,63
+6/1/2017,Mississippi,9
+6/1/2017,Montana,3
+6/1/2017,Nebraska,5
+6/1/2017,North Carolina,53
+6/1/2017,North Dakota,0
+6/1/2017,New Hampshire,0
+6/1/2017,New Jersey,25
+6/1/2017,New Mexico,40
+6/1/2017,Nevada,15
+6/1/2017,New York,41
+6/1/2017,Ohio,62
+6/1/2017,Oklahoma,25
+6/1/2017,Oregon,6
+6/1/2017,Pennsylvania,68
+6/1/2017,Rhode Island,3
+6/1/2017,South Carolina,35
+6/1/2017,South Dakota,3
+6/1/2017,Tennessee,52
+6/1/2017,Texas,84
+6/1/2017,Utah,10
+6/1/2017,Virginia,32
+6/1/2017,Vermont,0
+6/1/2017,Washington,15
+6/1/2017,Wisconsin,24
+6/1/2017,West Virginia,6
+6/1/2017,Wyoming,1
+7/1/2017,Alaska,8
+7/1/2017,Alabama,1
+7/1/2017,Arkansas,28
+7/1/2017,Arizona,33
+7/1/2017,California,166
+7/1/2017,Colorado,24
+7/1/2017,Connecticut,12
+7/1/2017,District of Columbia,13
+7/1/2017,Delaware,3
+7/1/2017,Florida,0
+7/1/2017,Georgia,49
+7/1/2017,Hawaii,2
+7/1/2017,Iowa,6
+7/1/2017,Idaho,1
+7/1/2017,Illinois,104
+7/1/2017,Indiana,30
+7/1/2017,Kansas,6
+7/1/2017,Kentucky,19
+7/1/2017,Louisiana,45
+7/1/2017,Massachusetts,19
+7/1/2017,Maryland,50
+7/1/2017,Maine,7
+7/1/2017,Michigan,53
+7/1/2017,Minnesota,13
+7/1/2017,Missouri,62
+7/1/2017,Mississippi,15
+7/1/2017,Montana,6
+7/1/2017,Nebraska,3
+7/1/2017,North Carolina,43
+7/1/2017,North Dakota,2
+7/1/2017,New Hampshire,0
+7/1/2017,New Jersey,34
+7/1/2017,New Mexico,16
+7/1/2017,Nevada,22
+7/1/2017,New York,61
+7/1/2017,Ohio,65
+7/1/2017,Oklahoma,19
+7/1/2017,Oregon,10
+7/1/2017,Pennsylvania,76
+7/1/2017,Rhode Island,3
+7/1/2017,South Carolina,30
+7/1/2017,South Dakota,0
+7/1/2017,Tennessee,53
+7/1/2017,Texas,120
+7/1/2017,Utah,7
+7/1/2017,Virginia,42
+7/1/2017,Vermont,2
+7/1/2017,Washington,16
+7/1/2017,Wisconsin,22
+7/1/2017,West Virginia,8
+7/1/2017,Wyoming,2
+8/1/2017,Alaska,7
+8/1/2017,Alabama,0
+8/1/2017,Arkansas,25
+8/1/2017,Arizona,28
+8/1/2017,California,154
+8/1/2017,Colorado,19
+8/1/2017,Connecticut,12
+8/1/2017,District of Columbia,8
+8/1/2017,Delaware,2
+8/1/2017,Florida,0
+8/1/2017,Georgia,61
+8/1/2017,Hawaii,2
+8/1/2017,Iowa,9
+8/1/2017,Idaho,4
+8/1/2017,Illinois,86
+8/1/2017,Indiana,41
+8/1/2017,Kansas,8
+8/1/2017,Kentucky,21
+8/1/2017,Louisiana,54
+8/1/2017,Massachusetts,18
+8/1/2017,Maryland,46
+8/1/2017,Maine,0
+8/1/2017,Michigan,56
+8/1/2017,Minnesota,9
+8/1/2017,Missouri,60
+8/1/2017,Mississippi,11
+8/1/2017,Montana,6
+8/1/2017,Nebraska,2
+8/1/2017,North Carolina,67
+8/1/2017,North Dakota,3
+8/1/2017,New Hampshire,2
+8/1/2017,New Jersey,31
+8/1/2017,New Mexico,8
+8/1/2017,Nevada,10
+8/1/2017,New York,44
+8/1/2017,Ohio,55
+8/1/2017,Oklahoma,17
+8/1/2017,Oregon,7
+8/1/2017,Pennsylvania,60
+8/1/2017,Rhode Island,0
+8/1/2017,South Carolina,41
+8/1/2017,South Dakota,3
+8/1/2017,Tennessee,47
+8/1/2017,Texas,100
+8/1/2017,Utah,11
+8/1/2017,Virginia,30
+8/1/2017,Vermont,2
+8/1/2017,Washington,13
+8/1/2017,Wisconsin,22
+8/1/2017,West Virginia,9
+8/1/2017,Wyoming,5
+9/1/2017,Alaska,5
+9/1/2017,Alabama,0
+9/1/2017,Arkansas,9
+9/1/2017,Arizona,27
+9/1/2017,California,146
+9/1/2017,Colorado,14
+9/1/2017,Connecticut,12
+9/1/2017,District of Columbia,10
+9/1/2017,Delaware,4
+9/1/2017,Florida,1
+9/1/2017,Georgia,49
+9/1/2017,Hawaii,4
+9/1/2017,Iowa,6
+9/1/2017,Idaho,6
+9/1/2017,Illinois,93
+9/1/2017,Indiana,36
+9/1/2017,Kansas,17
+9/1/2017,Kentucky,17
+9/1/2017,Louisiana,45
+9/1/2017,Massachusetts,23
+9/1/2017,Maryland,47
+9/1/2017,Maine,2
+9/1/2017,Michigan,53
+9/1/2017,Minnesota,14
+9/1/2017,Missouri,50
+9/1/2017,Mississippi,11
+9/1/2017,Montana,3
+9/1/2017,Nebraska,5
+9/1/2017,North Carolina,52
+9/1/2017,North Dakota,0
+9/1/2017,New Hampshire,1
+9/1/2017,New Jersey,30
+9/1/2017,New Mexico,12
+9/1/2017,Nevada,9
+9/1/2017,New York,36
+9/1/2017,Ohio,52
+9/1/2017,Oklahoma,28
+9/1/2017,Oregon,11
+9/1/2017,Pennsylvania,63
+9/1/2017,Rhode Island,1
+9/1/2017,South Carolina,40
+9/1/2017,South Dakota,2
+9/1/2017,Tennessee,43
+9/1/2017,Texas,103
+9/1/2017,Utah,4
+9/1/2017,Virginia,41
+9/1/2017,Vermont,0
+9/1/2017,Washington,14
+9/1/2017,Wisconsin,23
+9/1/2017,West Virginia,7
+9/1/2017,Wyoming,1
+10/1/2017,Alaska,7
+10/1/2017,Alabama,0
+10/1/2017,Arkansas,15
+10/1/2017,Arizona,44
+10/1/2017,California,162
+10/1/2017,Colorado,21
+10/1/2017,Connecticut,10
+10/1/2017,District of Columbia,11
+10/1/2017,Delaware,5
+10/1/2017,Florida,0
+10/1/2017,Georgia,81
+10/1/2017,Hawaii,3
+10/1/2017,Iowa,5
+10/1/2017,Idaho,1
+10/1/2017,Illinois,91
+10/1/2017,Indiana,30
+10/1/2017,Kansas,8
+10/1/2017,Kentucky,20
+10/1/2017,Louisiana,57
+10/1/2017,Massachusetts,14
+10/1/2017,Maryland,40
+10/1/2017,Maine,2
+10/1/2017,Michigan,42
+10/1/2017,Minnesota,6
+10/1/2017,Missouri,54
+10/1/2017,Mississippi,10
+10/1/2017,Montana,3
+10/1/2017,Nebraska,2
+10/1/2017,North Carolina,41
+10/1/2017,North Dakota,0
+10/1/2017,New Hampshire,0
+10/1/2017,New Jersey,24
+10/1/2017,New Mexico,4
+10/1/2017,Nevada,77
+10/1/2017,New York,46
+10/1/2017,Ohio,56
+10/1/2017,Oklahoma,16
+10/1/2017,Oregon,12
+10/1/2017,Pennsylvania,68
+10/1/2017,Rhode Island,2
+10/1/2017,South Carolina,25
+10/1/2017,South Dakota,3
+10/1/2017,Tennessee,38
+10/1/2017,Texas,132
+10/1/2017,Utah,3
+10/1/2017,Virginia,44
+10/1/2017,Vermont,4
+10/1/2017,Washington,21
+10/1/2017,Wisconsin,10
+10/1/2017,West Virginia,9
+10/1/2017,Wyoming,0
+11/1/2017,Alaska,5
+11/1/2017,Alabama,1
+11/1/2017,Arkansas,16
+11/1/2017,Arizona,35
+11/1/2017,California,122
+11/1/2017,Colorado,16
+11/1/2017,Connecticut,5
+11/1/2017,District of Columbia,9
+11/1/2017,Delaware,3
+11/1/2017,Florida,0
+11/1/2017,Georgia,59
+11/1/2017,Hawaii,3
+11/1/2017,Iowa,12
+11/1/2017,Idaho,4
+11/1/2017,Illinois,54
+11/1/2017,Indiana,43
+11/1/2017,Kansas,9
+11/1/2017,Kentucky,18
+11/1/2017,Louisiana,39
+11/1/2017,Massachusetts,7
+11/1/2017,Maryland,34
+11/1/2017,Maine,1
+11/1/2017,Michigan,45
+11/1/2017,Minnesota,9
+11/1/2017,Missouri,59
+11/1/2017,Mississippi,12
+11/1/2017,Montana,3
+11/1/2017,Nebraska,3
+11/1/2017,North Carolina,39
+11/1/2017,North Dakota,1
+11/1/2017,New Hampshire,1
+11/1/2017,New Jersey,28
+11/1/2017,New Mexico,8
+11/1/2017,Nevada,21
+11/1/2017,New York,39
+11/1/2017,Ohio,54
+11/1/2017,Oklahoma,25
+11/1/2017,Oregon,12
+11/1/2017,Pennsylvania,74
+11/1/2017,Rhode Island,4
+11/1/2017,South Carolina,37
+11/1/2017,South Dakota,1
+11/1/2017,Tennessee,50
+11/1/2017,Texas,119
+11/1/2017,Utah,15
+11/1/2017,Virginia,37
+11/1/2017,Vermont,0
+11/1/2017,Washington,21
+11/1/2017,Wisconsin,16
+11/1/2017,West Virginia,6
+11/1/2017,Wyoming,3
+12/1/2017,Alaska,4
+12/1/2017,Alabama,2
+12/1/2017,Arkansas,19
+12/1/2017,Arizona,46
+12/1/2017,California,158
+12/1/2017,Colorado,19
+12/1/2017,Connecticut,15
+12/1/2017,District of Columbia,11
+12/1/2017,Delaware,3
+12/1/2017,Florida,0
+12/1/2017,Georgia,52
+12/1/2017,Hawaii,7
+12/1/2017,Iowa,3
+12/1/2017,Idaho,1
+12/1/2017,Illinois,56
+12/1/2017,Indiana,28
+12/1/2017,Kansas,11
+12/1/2017,Kentucky,16
+12/1/2017,Louisiana,46
+12/1/2017,Massachusetts,15
+12/1/2017,Maryland,49
+12/1/2017,Maine,3
+12/1/2017,Michigan,37
+12/1/2017,Minnesota,5
+12/1/2017,Missouri,47
+12/1/2017,Mississippi,13
+12/1/2017,Montana,0
+12/1/2017,Nebraska,6
+12/1/2017,North Carolina,37
+12/1/2017,North Dakota,0
+12/1/2017,New Hampshire,1
+12/1/2017,New Jersey,30
+12/1/2017,New Mexico,6
+12/1/2017,Nevada,33
+12/1/2017,New York,55
+12/1/2017,Ohio,71
+12/1/2017,Oklahoma,18
+12/1/2017,Oregon,7
+12/1/2017,Pennsylvania,63
+12/1/2017,Rhode Island,1
+12/1/2017,South Carolina,23
+12/1/2017,South Dakota,0
+12/1/2017,Tennessee,47
+12/1/2017,Texas,112
+12/1/2017,Utah,6
+12/1/2017,Virginia,41
+12/1/2017,Vermont,0
+12/1/2017,Washington,21
+12/1/2017,Wisconsin,14
+12/1/2017,West Virginia,13
+12/1/2017,Wyoming,0
+1/1/2018,Alaska,7
+1/1/2018,Alabama,0
+1/1/2018,Arkansas,21
+1/1/2018,Arizona,42
+1/1/2018,California,166
+1/1/2018,Colorado,22
+1/1/2018,Connecticut,10
+1/1/2018,District of Columbia,11
+1/1/2018,Delaware,3
+1/1/2018,Florida,0
+1/1/2018,Georgia,42
+1/1/2018,Hawaii,3
+1/1/2018,Iowa,9
+1/1/2018,Idaho,6
+1/1/2018,Illinois,66
+1/1/2018,Indiana,37
+1/1/2018,Kansas,6
+1/1/2018,Kentucky,20
+1/1/2018,Louisiana,45
+1/1/2018,Massachusetts,10
+1/1/2018,Maryland,35
+1/1/2018,Maine,4
+1/1/2018,Michigan,48
+1/1/2018,Minnesota,11
+1/1/2018,Missouri,42
+1/1/2018,Mississippi,14
+1/1/2018,Montana,4
+1/1/2018,Nebraska,4
+1/1/2018,North Carolina,45
+1/1/2018,North Dakota,0
+1/1/2018,New Hampshire,0
+1/1/2018,New Jersey,20
+1/1/2018,New Mexico,11
+1/1/2018,Nevada,34
+1/1/2018,New York,33
+1/1/2018,Ohio,55
+1/1/2018,Oklahoma,11
+1/1/2018,Oregon,8
+1/1/2018,Pennsylvania,64
+1/1/2018,Rhode Island,4
+1/1/2018,South Carolina,33
+1/1/2018,South Dakota,2
+1/1/2018,Tennessee,46
+1/1/2018,Texas,112
+1/1/2018,Utah,3
+1/1/2018,Virginia,39
+1/1/2018,Vermont,2
+1/1/2018,Washington,21
+1/1/2018,Wisconsin,15
+1/1/2018,West Virginia,8
+1/1/2018,Wyoming,1
+2/1/2018,Alaska,1
+2/1/2018,Alabama,1
+2/1/2018,Arkansas,14
+2/1/2018,Arizona,31
+2/1/2018,California,121
+2/1/2018,Colorado,10
+2/1/2018,Connecticut,8
+2/1/2018,District of Columbia,6
+2/1/2018,Delaware,6
+2/1/2018,Florida,0
+2/1/2018,Georgia,47
+2/1/2018,Hawaii,3
+2/1/2018,Iowa,1
+2/1/2018,Idaho,3
+2/1/2018,Illinois,66
+2/1/2018,Indiana,25
+2/1/2018,Kansas,8
+2/1/2018,Kentucky,31
+2/1/2018,Louisiana,48
+2/1/2018,Massachusetts,13
+2/1/2018,Maryland,19
+2/1/2018,Maine,2
+2/1/2018,Michigan,47
+2/1/2018,Minnesota,8
+2/1/2018,Missouri,32
+2/1/2018,Mississippi,11
+2/1/2018,Montana,3
+2/1/2018,Nebraska,3
+2/1/2018,North Carolina,28
+2/1/2018,North Dakota,0
+2/1/2018,New Hampshire,1
+2/1/2018,New Jersey,19
+2/1/2018,New Mexico,8
+2/1/2018,Nevada,34
+2/1/2018,New York,26
+2/1/2018,Ohio,47
+2/1/2018,Oklahoma,14
+2/1/2018,Oregon,3
+2/1/2018,Pennsylvania,67
+2/1/2018,Rhode Island,1
+2/1/2018,South Carolina,31
+2/1/2018,South Dakota,3
+2/1/2018,Tennessee,30
+2/1/2018,Texas,91
+2/1/2018,Utah,3
+2/1/2018,Virginia,23
+2/1/2018,Vermont,0
+2/1/2018,Washington,17
+2/1/2018,Wisconsin,12
+2/1/2018,West Virginia,6
+2/1/2018,Wyoming,0
+3/1/2018,Alaska,3
+3/1/2018,Alabama,1
+3/1/2018,Arkansas,22
+3/1/2018,Arizona,28
+3/1/2018,California,116
+3/1/2018,Colorado,16
+3/1/2018,Connecticut,4
+3/1/2018,District of Columbia,16
+3/1/2018,Delaware,2
+3/1/2018,Florida,1
+3/1/2018,Georgia,49
+3/1/2018,Hawaii,1
+3/1/2018,Iowa,4
+3/1/2018,Idaho,2
+3/1/2018,Illinois,51
+3/1/2018,Indiana,34
+3/1/2018,Kansas,16
+3/1/2018,Kentucky,20
+3/1/2018,Louisiana,40
+3/1/2018,Massachusetts,7
+3/1/2018,Maryland,27
+3/1/2018,Maine,3
+3/1/2018,Michigan,41
+3/1/2018,Minnesota,12
+3/1/2018,Missouri,50
+3/1/2018,Mississippi,14
+3/1/2018,Montana,3
+3/1/2018,Nebraska,4
+3/1/2018,North Carolina,36
+3/1/2018,North Dakota,1
+3/1/2018,New Hampshire,0
+3/1/2018,New Jersey,27
+3/1/2018,New Mexico,19
+3/1/2018,Nevada,27
+3/1/2018,New York,38
+3/1/2018,Ohio,30
+3/1/2018,Oklahoma,14
+3/1/2018,Oregon,7
+3/1/2018,Pennsylvania,63
+3/1/2018,Rhode Island,1
+3/1/2018,South Carolina,24
+3/1/2018,South Dakota,0
+3/1/2018,Tennessee,30
+3/1/2018,Texas,137
+3/1/2018,Utah,4
+3/1/2018,Virginia,34
+3/1/2018,Vermont,1
+3/1/2018,Washington,22
+3/1/2018,Wisconsin,18
+3/1/2018,West Virginia,9
+3/1/2018,Wyoming,2
+4/1/2018,Alaska,4
+4/1/2018,Alabama,0
+4/1/2018,Arkansas,17
+4/1/2018,Arizona,29
+4/1/2018,California,145
+4/1/2018,Colorado,22
+4/1/2018,Connecticut,5
+4/1/2018,District of Columbia,9
+4/1/2018,Delaware,1
+4/1/2018,Florida,2
+4/1/2018,Georgia,46
+4/1/2018,Hawaii,2
+4/1/2018,Iowa,6
+4/1/2018,Idaho,4
+4/1/2018,Illinois,64
+4/1/2018,Indiana,24
+4/1/2018,Kansas,7
+4/1/2018,Kentucky,23
+4/1/2018,Louisiana,43
+4/1/2018,Massachusetts,10
+4/1/2018,Maryland,49
+4/1/2018,Maine,2
+4/1/2018,Michigan,46
+4/1/2018,Minnesota,6
+4/1/2018,Missouri,44
+4/1/2018,Mississippi,20
+4/1/2018,Montana,3
+4/1/2018,Nebraska,3
+4/1/2018,North Carolina,58
+4/1/2018,North Dakota,1
+4/1/2018,New Hampshire,1
+4/1/2018,New Jersey,30
+4/1/2018,New Mexico,17
+4/1/2018,Nevada,28
+4/1/2018,New York,56
+4/1/2018,Ohio,62
+4/1/2018,Oklahoma,24
+4/1/2018,Oregon,4
+4/1/2018,Pennsylvania,56
+4/1/2018,Rhode Island,1
+4/1/2018,South Carolina,33
+4/1/2018,South Dakota,1
+4/1/2018,Tennessee,35
+4/1/2018,Texas,113
+4/1/2018,Utah,3
+4/1/2018,Virginia,22
+4/1/2018,Vermont,0
+4/1/2018,Washington,13
+4/1/2018,Wisconsin,17
+4/1/2018,West Virginia,2
+4/1/2018,Wyoming,1
+5/1/2018,Alaska,3
+5/1/2018,Alabama,1
+5/1/2018,Arkansas,16
+5/1/2018,Arizona,31
+5/1/2018,California,135
+5/1/2018,Colorado,16
+5/1/2018,Connecticut,11
+5/1/2018,District of Columbia,22
+5/1/2018,Delaware,11
+5/1/2018,Florida,1
+5/1/2018,Georgia,55
+5/1/2018,Hawaii,4
+5/1/2018,Iowa,6
+5/1/2018,Idaho,2
+5/1/2018,Illinois,74
+5/1/2018,Indiana,32
+5/1/2018,Kansas,5
+5/1/2018,Kentucky,16
+5/1/2018,Louisiana,62
+5/1/2018,Massachusetts,19
+5/1/2018,Maryland,34
+5/1/2018,Maine,0
+5/1/2018,Michigan,51
+5/1/2018,Minnesota,5
+5/1/2018,Missouri,41
+5/1/2018,Mississippi,12
+5/1/2018,Montana,3
+5/1/2018,Nebraska,2
+5/1/2018,North Carolina,52
+5/1/2018,North Dakota,7
+5/1/2018,New Hampshire,2
+5/1/2018,New Jersey,29
+5/1/2018,New Mexico,14
+5/1/2018,Nevada,22
+5/1/2018,New York,54
+5/1/2018,Ohio,48
+5/1/2018,Oklahoma,18
+5/1/2018,Oregon,7
+5/1/2018,Pennsylvania,67
+5/1/2018,Rhode Island,0
+5/1/2018,South Carolina,36
+5/1/2018,South Dakota,0
+5/1/2018,Tennessee,47
+5/1/2018,Texas,103
+5/1/2018,Utah,4
+5/1/2018,Virginia,39
+5/1/2018,Vermont,4
+5/1/2018,Washington,16
+5/1/2018,Wisconsin,20
+5/1/2018,West Virginia,6
+5/1/2018,Wyoming,2
+6/1/2018,Alaska,3
+6/1/2018,Alabama,0
+6/1/2018,Arkansas,21
+6/1/2018,Arizona,37
+6/1/2018,California,166
+6/1/2018,Colorado,16
+6/1/2018,Connecticut,9
+6/1/2018,District of Columbia,11
+6/1/2018,Delaware,4
+6/1/2018,Florida,1
+6/1/2018,Georgia,53
+6/1/2018,Hawaii,3
+6/1/2018,Iowa,4
+6/1/2018,Idaho,2
+6/1/2018,Illinois,94
+6/1/2018,Indiana,28
+6/1/2018,Kansas,18
+6/1/2018,Kentucky,24
+6/1/2018,Louisiana,43
+6/1/2018,Massachusetts,13
+6/1/2018,Maryland,39
+6/1/2018,Maine,4
+6/1/2018,Michigan,42
+6/1/2018,Minnesota,10
+6/1/2018,Missouri,45
+6/1/2018,Mississippi,15
+6/1/2018,Montana,2
+6/1/2018,Nebraska,8
+6/1/2018,North Carolina,37
+6/1/2018,North Dakota,3
+6/1/2018,New Hampshire,3
+6/1/2018,New Jersey,20
+6/1/2018,New Mexico,18
+6/1/2018,Nevada,30
+6/1/2018,New York,67
+6/1/2018,Ohio,60
+6/1/2018,Oklahoma,21
+6/1/2018,Oregon,15
+6/1/2018,Pennsylvania,63
+6/1/2018,Rhode Island,2
+6/1/2018,South Carolina,31
+6/1/2018,South Dakota,1
+6/1/2018,Tennessee,52
+6/1/2018,Texas,115
+6/1/2018,Utah,9
+6/1/2018,Virginia,34
+6/1/2018,Vermont,1
+6/1/2018,Washington,25
+6/1/2018,Wisconsin,12
+6/1/2018,West Virginia,5
+6/1/2018,Wyoming,0
+7/1/2018,Alaska,3
+7/1/2018,Alabama,1
+7/1/2018,Arkansas,18
+7/1/2018,Arizona,33
+7/1/2018,California,178
+7/1/2018,Colorado,20
+7/1/2018,Connecticut,2
+7/1/2018,District of Columbia,18
+7/1/2018,Delaware,6
+7/1/2018,Florida,0
+7/1/2018,Georgia,59
+7/1/2018,Hawaii,3
+7/1/2018,Iowa,3
+7/1/2018,Idaho,3
+7/1/2018,Illinois,100
+7/1/2018,Indiana,35
+7/1/2018,Kansas,11
+7/1/2018,Kentucky,22
+7/1/2018,Louisiana,39
+7/1/2018,Massachusetts,11
+7/1/2018,Maryland,39
+7/1/2018,Maine,3
+7/1/2018,Michigan,38
+7/1/2018,Minnesota,8
+7/1/2018,Missouri,55
+7/1/2018,Mississippi,10
+7/1/2018,Montana,5
+7/1/2018,Nebraska,5
+7/1/2018,North Carolina,51
+7/1/2018,North Dakota,1
+7/1/2018,New Hampshire,2
+7/1/2018,New Jersey,26
+7/1/2018,New Mexico,9
+7/1/2018,Nevada,23
+7/1/2018,New York,65
+7/1/2018,Ohio,60
+7/1/2018,Oklahoma,15
+7/1/2018,Oregon,6
+7/1/2018,Pennsylvania,65
+7/1/2018,Rhode Island,1
+7/1/2018,South Carolina,40
+7/1/2018,South Dakota,1
+7/1/2018,Tennessee,53
+7/1/2018,Texas,117
+7/1/2018,Utah,5
+7/1/2018,Virginia,38
+7/1/2018,Vermont,1
+7/1/2018,Washington,26
+7/1/2018,Wisconsin,7
+7/1/2018,West Virginia,4
+7/1/2018,Wyoming,0
+8/1/2018,Alaska,3
+8/1/2018,Alabama,0
+8/1/2018,Arkansas,15
+8/1/2018,Arizona,22
+8/1/2018,California,152
+8/1/2018,Colorado,19
+8/1/2018,Connecticut,5
+8/1/2018,District of Columbia,8
+8/1/2018,Delaware,4
+8/1/2018,Florida,0
+8/1/2018,Georgia,55
+8/1/2018,Hawaii,6
+8/1/2018,Iowa,3
+8/1/2018,Idaho,2
+8/1/2018,Illinois,78
+8/1/2018,Indiana,34
+8/1/2018,Kansas,9
+8/1/2018,Kentucky,11
+8/1/2018,Louisiana,36
+8/1/2018,Massachusetts,12
+8/1/2018,Maryland,42
+8/1/2018,Maine,0
+8/1/2018,Michigan,66
+8/1/2018,Minnesota,10
+8/1/2018,Missouri,51
+8/1/2018,Mississippi,12
+8/1/2018,Montana,3
+8/1/2018,Nebraska,3
+8/1/2018,North Carolina,52
+8/1/2018,North Dakota,1
+8/1/2018,New Hampshire,4
+8/1/2018,New Jersey,30
+8/1/2018,New Mexico,11
+8/1/2018,Nevada,33
+8/1/2018,New York,46
+8/1/2018,Ohio,44
+8/1/2018,Oklahoma,13
+8/1/2018,Oregon,5
+8/1/2018,Pennsylvania,80
+8/1/2018,Rhode Island,1
+8/1/2018,South Carolina,48
+8/1/2018,South Dakota,3
+8/1/2018,Tennessee,40
+8/1/2018,Texas,129
+8/1/2018,Utah,7
+8/1/2018,Virginia,41
+8/1/2018,Vermont,0
+8/1/2018,Washington,13
+8/1/2018,Wisconsin,22
+8/1/2018,West Virginia,5
+8/1/2018,Wyoming,3
+9/1/2018,Alaska,3
+9/1/2018,Alabama,0
+9/1/2018,Arkansas,23
+9/1/2018,Arizona,19
+9/1/2018,California,128
+9/1/2018,Colorado,21
+9/1/2018,Connecticut,13
+9/1/2018,District of Columbia,17
+9/1/2018,Delaware,3
+9/1/2018,Florida,2
+9/1/2018,Georgia,40
+9/1/2018,Hawaii,4
+9/1/2018,Iowa,2
+9/1/2018,Idaho,3
+9/1/2018,Illinois,79
+9/1/2018,Indiana,37
+9/1/2018,Kansas,11
+9/1/2018,Kentucky,18
+9/1/2018,Louisiana,34
+9/1/2018,Massachusetts,7
+9/1/2018,Maryland,63
+9/1/2018,Maine,0
+9/1/2018,Michigan,49
+9/1/2018,Minnesota,15
+9/1/2018,Missouri,45
+9/1/2018,Mississippi,14
+9/1/2018,Montana,4
+9/1/2018,Nebraska,4
+9/1/2018,North Carolina,39
+9/1/2018,North Dakota,2
+9/1/2018,New Hampshire,1
+9/1/2018,New Jersey,24
+9/1/2018,New Mexico,7
+9/1/2018,Nevada,31
+9/1/2018,New York,47
+9/1/2018,Ohio,47
+9/1/2018,Oklahoma,21
+9/1/2018,Oregon,7
+9/1/2018,Pennsylvania,69
+9/1/2018,Rhode Island,3
+9/1/2018,South Carolina,29
+9/1/2018,South Dakota,1
+9/1/2018,Tennessee,53
+9/1/2018,Texas,102
+9/1/2018,Utah,9
+9/1/2018,Virginia,36
+9/1/2018,Vermont,0
+9/1/2018,Washington,17
+9/1/2018,Wisconsin,15
+9/1/2018,West Virginia,11
+9/1/2018,Wyoming,0
+10/1/2018,Alaska,5
+10/1/2018,Alabama,1
+10/1/2018,Arkansas,19
+10/1/2018,Arizona,23
+10/1/2018,California,142
+10/1/2018,Colorado,21
+10/1/2018,Connecticut,7
+10/1/2018,District of Columbia,19
+10/1/2018,Delaware,4
+10/1/2018,Florida,1
+10/1/2018,Georgia,48
+10/1/2018,Hawaii,3
+10/1/2018,Iowa,3
+10/1/2018,Idaho,3
+10/1/2018,Illinois,78
+10/1/2018,Indiana,23
+10/1/2018,Kansas,7
+10/1/2018,Kentucky,13
+10/1/2018,Louisiana,39
+10/1/2018,Massachusetts,13
+10/1/2018,Maryland,50
+10/1/2018,Maine,0
+10/1/2018,Michigan,49
+10/1/2018,Minnesota,5
+10/1/2018,Missouri,49
+10/1/2018,Mississippi,8
+10/1/2018,Montana,6
+10/1/2018,Nebraska,3
+10/1/2018,North Carolina,30
+10/1/2018,North Dakota,0
+10/1/2018,New Hampshire,2
+10/1/2018,New Jersey,15
+10/1/2018,New Mexico,15
+10/1/2018,Nevada,23
+10/1/2018,New York,40
+10/1/2018,Ohio,48
+10/1/2018,Oklahoma,25
+10/1/2018,Oregon,9
+10/1/2018,Pennsylvania,65
+10/1/2018,Rhode Island,1
+10/1/2018,South Carolina,31
+10/1/2018,South Dakota,0
+10/1/2018,Tennessee,48
+10/1/2018,Texas,81
+10/1/2018,Utah,8
+10/1/2018,Virginia,34
+10/1/2018,Vermont,3
+10/1/2018,Washington,24
+10/1/2018,Wisconsin,19
+10/1/2018,West Virginia,8
+10/1/2018,Wyoming,2
+11/1/2018,Alaska,6
+11/1/2018,Alabama,0
+11/1/2018,Arkansas,27
+11/1/2018,Arizona,32
+11/1/2018,California,141
+11/1/2018,Colorado,18
+11/1/2018,Connecticut,7
+11/1/2018,District of Columbia,0
+11/1/2018,Delaware,3
+11/1/2018,Florida,0
+11/1/2018,Georgia,48
+11/1/2018,Hawaii,4
+11/1/2018,Iowa,2
+11/1/2018,Idaho,3
+11/1/2018,Illinois,74
+11/1/2018,Indiana,35
+11/1/2018,Kansas,9
+11/1/2018,Kentucky,22
+11/1/2018,Louisiana,49
+11/1/2018,Massachusetts,12
+11/1/2018,Maryland,28
+11/1/2018,Maine,3
+11/1/2018,Michigan,43
+11/1/2018,Minnesota,8
+11/1/2018,Missouri,38
+11/1/2018,Mississippi,9
+11/1/2018,Montana,2
+11/1/2018,Nebraska,1
+11/1/2018,North Carolina,37
+11/1/2018,North Dakota,1
+11/1/2018,New Hampshire,3
+11/1/2018,New Jersey,26
+11/1/2018,New Mexico,8
+11/1/2018,Nevada,24
+11/1/2018,New York,35
+11/1/2018,Ohio,50
+11/1/2018,Oklahoma,19
+11/1/2018,Oregon,14
+11/1/2018,Pennsylvania,61
+11/1/2018,Rhode Island,1
+11/1/2018,South Carolina,31
+11/1/2018,South Dakota,0
+11/1/2018,Tennessee,37
+11/1/2018,Texas,108
+11/1/2018,Utah,4
+11/1/2018,Virginia,33
+11/1/2018,Vermont,0
+11/1/2018,Washington,23
+11/1/2018,Wisconsin,10
+11/1/2018,West Virginia,6
+11/1/2018,Wyoming,0
+12/1/2018,Alaska,6
+12/1/2018,Alabama,0
+12/1/2018,Arkansas,16
+12/1/2018,Arizona,30
+12/1/2018,California,149
+12/1/2018,Colorado,16
+12/1/2018,Connecticut,9
+12/1/2018,District of Columbia,14
+12/1/2018,Delaware,0
+12/1/2018,Florida,0
+12/1/2018,Georgia,63
+12/1/2018,Hawaii,0
+12/1/2018,Iowa,2
+12/1/2018,Idaho,0
+12/1/2018,Illinois,62
+12/1/2018,Indiana,27
+12/1/2018,Kansas,5
+12/1/2018,Kentucky,33
+12/1/2018,Louisiana,46
+12/1/2018,Massachusetts,10
+12/1/2018,Maryland,46
+12/1/2018,Maine,2
+12/1/2018,Michigan,39
+12/1/2018,Minnesota,6
+12/1/2018,Missouri,66
+12/1/2018,Mississippi,14
+12/1/2018,Montana,3
+12/1/2018,Nebraska,3
+12/1/2018,North Carolina,25
+12/1/2018,North Dakota,0
+12/1/2018,New Hampshire,2
+12/1/2018,New Jersey,21
+12/1/2018,New Mexico,12
+12/1/2018,Nevada,19
+12/1/2018,New York,40
+12/1/2018,Ohio,41
+12/1/2018,Oklahoma,16
+12/1/2018,Oregon,1
+12/1/2018,Pennsylvania,67
+12/1/2018,Rhode Island,0
+12/1/2018,South Carolina,37
+12/1/2018,South Dakota,1
+12/1/2018,Tennessee,48
+12/1/2018,Texas,105
+12/1/2018,Utah,4
+12/1/2018,Virginia,36
+12/1/2018,Vermont,0
+12/1/2018,Washington,25
+12/1/2018,Wisconsin,11
+12/1/2018,West Virginia,7
+12/1/2018,Wyoming,1
+1/1/2019,Alaska,4
+1/1/2019,Alabama,2
+1/1/2019,Arkansas,23
+1/1/2019,Arizona,22
+1/1/2019,California,152
+1/1/2019,Colorado,12
+1/1/2019,Connecticut,13
+1/1/2019,District of Columbia,19
+1/1/2019,Delaware,6
+1/1/2019,Florida,1
+1/1/2019,Georgia,52
+1/1/2019,Hawaii,0
+1/1/2019,Iowa,5
+1/1/2019,Idaho,3
+1/1/2019,Illinois,52
+1/1/2019,Indiana,21
+1/1/2019,Kansas,2
+1/1/2019,Kentucky,19
+1/1/2019,Louisiana,42
+1/1/2019,Massachusetts,11
+1/1/2019,Maryland,44
+1/1/2019,Maine,4
+1/1/2019,Michigan,36
+1/1/2019,Minnesota,10
+1/1/2019,Missouri,50
+1/1/2019,Mississippi,24
+1/1/2019,Montana,0
+1/1/2019,Nebraska,2
+1/1/2019,North Carolina,52
+1/1/2019,North Dakota,2
+1/1/2019,New Hampshire,0
+1/1/2019,New Jersey,13
+1/1/2019,New Mexico,10
+1/1/2019,Nevada,17
+1/1/2019,New York,53
+1/1/2019,Ohio,47
+1/1/2019,Oklahoma,21
+1/1/2019,Oregon,15
+1/1/2019,Pennsylvania,54
+1/1/2019,Rhode Island,6
+1/1/2019,South Carolina,39
+1/1/2019,South Dakota,2
+1/1/2019,Tennessee,42
+1/1/2019,Texas,95
+1/1/2019,Utah,6
+1/1/2019,Virginia,36
+1/1/2019,Vermont,0
+1/1/2019,Washington,24
+1/1/2019,Wisconsin,21
+1/1/2019,West Virginia,3
+1/1/2019,Wyoming,2
+2/1/2019,Alaska,5
+2/1/2019,Alabama,4
+2/1/2019,Arkansas,13
+2/1/2019,Arizona,33
+2/1/2019,California,122
+2/1/2019,Colorado,13
+2/1/2019,Connecticut,8
+2/1/2019,District of Columbia,9
+2/1/2019,Delaware,1
+2/1/2019,Florida,0
+2/1/2019,Georgia,41
+2/1/2019,Hawaii,1
+2/1/2019,Iowa,4
+2/1/2019,Idaho,1
+2/1/2019,Illinois,59
+2/1/2019,Indiana,29
+2/1/2019,Kansas,7
+2/1/2019,Kentucky,20
+2/1/2019,Louisiana,41
+2/1/2019,Massachusetts,11
+2/1/2019,Maryland,28
+2/1/2019,Maine,1
+2/1/2019,Michigan,29
+2/1/2019,Minnesota,9
+2/1/2019,Missouri,35
+2/1/2019,Mississippi,21
+2/1/2019,Montana,3
+2/1/2019,Nebraska,5
+2/1/2019,North Carolina,46
+2/1/2019,North Dakota,1
+2/1/2019,New Hampshire,4
+2/1/2019,New Jersey,20
+2/1/2019,New Mexico,5
+2/1/2019,Nevada,9
+2/1/2019,New York,43
+2/1/2019,Ohio,34
+2/1/2019,Oklahoma,21
+2/1/2019,Oregon,13
+2/1/2019,Pennsylvania,50
+2/1/2019,Rhode Island,0
+2/1/2019,South Carolina,41
+2/1/2019,South Dakota,1
+2/1/2019,Tennessee,31
+2/1/2019,Texas,129
+2/1/2019,Utah,7
+2/1/2019,Virginia,25
+2/1/2019,Vermont,0
+2/1/2019,Washington,12
+2/1/2019,Wisconsin,11
+2/1/2019,West Virginia,6
+2/1/2019,Wyoming,1
+3/1/2019,Alaska,6
+3/1/2019,Alabama,0
+3/1/2019,Arkansas,20
+3/1/2019,Arizona,20
+3/1/2019,California,140
+3/1/2019,Colorado,14
+3/1/2019,Connecticut,7
+3/1/2019,District of Columbia,9
+3/1/2019,Delaware,7
+3/1/2019,Florida,1
+3/1/2019,Georgia,60
+3/1/2019,Hawaii,7
+3/1/2019,Iowa,4
+3/1/2019,Idaho,5
+3/1/2019,Illinois,63
+3/1/2019,Indiana,26
+3/1/2019,Kansas,6
+3/1/2019,Kentucky,17
+3/1/2019,Louisiana,38
+3/1/2019,Massachusetts,8
+3/1/2019,Maryland,46
+3/1/2019,Maine,6
+3/1/2019,Michigan,44
+3/1/2019,Minnesota,5
+3/1/2019,Missouri,38
+3/1/2019,Mississippi,8
+3/1/2019,Montana,7
+3/1/2019,Nebraska,3
+3/1/2019,North Carolina,37
+3/1/2019,North Dakota,2
+3/1/2019,New Hampshire,6
+3/1/2019,New Jersey,17
+3/1/2019,New Mexico,4
+3/1/2019,Nevada,31
+3/1/2019,New York,38
+3/1/2019,Ohio,43
+3/1/2019,Oklahoma,30
+3/1/2019,Oregon,8
+3/1/2019,Pennsylvania,56
+3/1/2019,Rhode Island,4
+3/1/2019,South Carolina,30
+3/1/2019,South Dakota,2
+3/1/2019,Tennessee,38
+3/1/2019,Texas,118
+3/1/2019,Utah,7
+3/1/2019,Virginia,35
+3/1/2019,Vermont,2
+3/1/2019,Washington,17
+3/1/2019,Wisconsin,8
+3/1/2019,West Virginia,5
+3/1/2019,Wyoming,0
+4/1/2019,Alaska,5
+4/1/2019,Alabama,2
+4/1/2019,Arkansas,19
+4/1/2019,Arizona,37
+4/1/2019,California,116
+4/1/2019,Colorado,19
+4/1/2019,Connecticut,3
+4/1/2019,District of Columbia,14
+4/1/2019,Delaware,2
+4/1/2019,Florida,0
+4/1/2019,Georgia,62
+4/1/2019,Hawaii,3
+4/1/2019,Iowa,6
+4/1/2019,Idaho,4
+4/1/2019,Illinois,100
+4/1/2019,Indiana,27
+4/1/2019,Kansas,9
+4/1/2019,Kentucky,20
+4/1/2019,Louisiana,31
+4/1/2019,Massachusetts,3
+4/1/2019,Maryland,35
+4/1/2019,Maine,0
+4/1/2019,Michigan,36
+4/1/2019,Minnesota,6
+4/1/2019,Missouri,39
+4/1/2019,Mississippi,21
+4/1/2019,Montana,3
+4/1/2019,Nebraska,3
+4/1/2019,North Carolina,45
+4/1/2019,North Dakota,5
+4/1/2019,New Hampshire,5
+4/1/2019,New Jersey,16
+4/1/2019,New Mexico,18
+4/1/2019,Nevada,12
+4/1/2019,New York,32
+4/1/2019,Ohio,38
+4/1/2019,Oklahoma,17
+4/1/2019,Oregon,10
+4/1/2019,Pennsylvania,53
+4/1/2019,Rhode Island,1
+4/1/2019,South Carolina,17
+4/1/2019,South Dakota,1
+4/1/2019,Tennessee,54
+4/1/2019,Texas,98
+4/1/2019,Utah,5
+4/1/2019,Virginia,26
+4/1/2019,Vermont,1
+4/1/2019,Washington,24
+4/1/2019,Wisconsin,16
+4/1/2019,West Virginia,10
+4/1/2019,Wyoming,0
+5/1/2019,Alaska,4
+5/1/2019,Alabama,0
+5/1/2019,Arkansas,14
+5/1/2019,Arizona,32
+5/1/2019,California,145
+5/1/2019,Colorado,20
+5/1/2019,Connecticut,8
+5/1/2019,District of Columbia,9
+5/1/2019,Delaware,1
+5/1/2019,Florida,0
+5/1/2019,Georgia,48
+5/1/2019,Hawaii,1
+5/1/2019,Iowa,4
+5/1/2019,Idaho,2
+5/1/2019,Illinois,80
+5/1/2019,Indiana,27
+5/1/2019,Kansas,5
+5/1/2019,Kentucky,18
+5/1/2019,Louisiana,47
+5/1/2019,Massachusetts,14
+5/1/2019,Maryland,54
+5/1/2019,Maine,1
+5/1/2019,Michigan,59
+5/1/2019,Minnesota,9
+5/1/2019,Missouri,52
+5/1/2019,Mississippi,25
+5/1/2019,Montana,1
+5/1/2019,Nebraska,4
+5/1/2019,North Carolina,52
+5/1/2019,North Dakota,4
+5/1/2019,New Hampshire,1
+5/1/2019,New Jersey,33
+5/1/2019,New Mexico,13
+5/1/2019,Nevada,11
+5/1/2019,New York,37
+5/1/2019,Ohio,46
+5/1/2019,Oklahoma,20
+5/1/2019,Oregon,11
+5/1/2019,Pennsylvania,69
+5/1/2019,Rhode Island,1
+5/1/2019,South Carolina,39
+5/1/2019,South Dakota,1
+5/1/2019,Tennessee,37
+5/1/2019,Texas,130
+5/1/2019,Utah,12
+5/1/2019,Virginia,66
+5/1/2019,Vermont,1
+5/1/2019,Washington,16
+5/1/2019,Wisconsin,20
+5/1/2019,West Virginia,10
+5/1/2019,Wyoming,0
+6/1/2019,Alaska,5
+6/1/2019,Alabama,3
+6/1/2019,Arkansas,25
+6/1/2019,Arizona,34
+6/1/2019,California,160
+6/1/2019,Colorado,23
+6/1/2019,Connecticut,8
+6/1/2019,District of Columbia,15
+6/1/2019,Delaware,1
+6/1/2019,Florida,1
+6/1/2019,Georgia,41
+6/1/2019,Hawaii,1
+6/1/2019,Iowa,6
+6/1/2019,Idaho,2
+6/1/2019,Illinois,78
+6/1/2019,Indiana,21
+6/1/2019,Kansas,9
+6/1/2019,Kentucky,27
+6/1/2019,Louisiana,51
+6/1/2019,Massachusetts,14
+6/1/2019,Maryland,51
+6/1/2019,Maine,0
+6/1/2019,Michigan,57
+6/1/2019,Minnesota,10
+6/1/2019,Missouri,51
+6/1/2019,Mississippi,15
+6/1/2019,Montana,1
+6/1/2019,Nebraska,6
+6/1/2019,North Carolina,59
+6/1/2019,North Dakota,2
+6/1/2019,New Hampshire,1
+6/1/2019,New Jersey,24
+6/1/2019,New Mexico,15
+6/1/2019,Nevada,8
+6/1/2019,New York,56
+6/1/2019,Ohio,66
+6/1/2019,Oklahoma,19
+6/1/2019,Oregon,3
+6/1/2019,Pennsylvania,52
+6/1/2019,Rhode Island,2
+6/1/2019,South Carolina,35
+6/1/2019,South Dakota,1
+6/1/2019,Tennessee,48
+6/1/2019,Texas,117
+6/1/2019,Utah,5
+6/1/2019,Virginia,31
+6/1/2019,Vermont,0
+6/1/2019,Washington,17
+6/1/2019,Wisconsin,19
+6/1/2019,West Virginia,6
+6/1/2019,Wyoming,1
+7/1/2019,Alaska,4
+7/1/2019,Alabama,1
+7/1/2019,Arkansas,20
+7/1/2019,Arizona,26
+7/1/2019,California,147
+7/1/2019,Colorado,23
+7/1/2019,Connecticut,10
+7/1/2019,District of Columbia,21
+7/1/2019,Delaware,5
+7/1/2019,Florida,0
+7/1/2019,Georgia,50
+7/1/2019,Hawaii,1
+7/1/2019,Iowa,8
+7/1/2019,Idaho,2
+7/1/2019,Illinois,77
+7/1/2019,Indiana,25
+7/1/2019,Kansas,5
+7/1/2019,Kentucky,23
+7/1/2019,Louisiana,42
+7/1/2019,Massachusetts,13
+7/1/2019,Maryland,59
+7/1/2019,Maine,2
+7/1/2019,Michigan,66
+7/1/2019,Minnesota,14
+7/1/2019,Missouri,67
+7/1/2019,Mississippi,12
+7/1/2019,Montana,2
+7/1/2019,Nebraska,4
+7/1/2019,North Carolina,53
+7/1/2019,North Dakota,2
+7/1/2019,New Hampshire,5
+7/1/2019,New Jersey,19
+7/1/2019,New Mexico,13
+7/1/2019,Nevada,15
+7/1/2019,New York,62
+7/1/2019,Ohio,67
+7/1/2019,Oklahoma,33
+7/1/2019,Oregon,1
+7/1/2019,Pennsylvania,20
+7/1/2019,Rhode Island,3
+7/1/2019,South Carolina,36
+7/1/2019,South Dakota,1
+7/1/2019,Tennessee,52
+7/1/2019,Texas,106
+7/1/2019,Utah,6
+7/1/2019,Virginia,43
+7/1/2019,Vermont,3
+7/1/2019,Washington,25
+7/1/2019,Wisconsin,17
+7/1/2019,West Virginia,10
+7/1/2019,Wyoming,1
+8/1/2019,Alaska,6
+8/1/2019,Alabama,1
+8/1/2019,Arkansas,26
+8/1/2019,Arizona,29
+8/1/2019,California,149
+8/1/2019,Colorado,19
+8/1/2019,Connecticut,11
+8/1/2019,District of Columbia,15
+8/1/2019,Delaware,4
+8/1/2019,Florida,0
+8/1/2019,Georgia,40
+8/1/2019,Hawaii,4
+8/1/2019,Iowa,6
+8/1/2019,Idaho,1
+8/1/2019,Illinois,80
+8/1/2019,Indiana,30
+8/1/2019,Kansas,8
+8/1/2019,Kentucky,11
+8/1/2019,Louisiana,42
+8/1/2019,Massachusetts,19
+8/1/2019,Maryland,46
+8/1/2019,Maine,3
+8/1/2019,Michigan,51
+8/1/2019,Minnesota,12
+8/1/2019,Missouri,60
+8/1/2019,Mississippi,12
+8/1/2019,Montana,3
+8/1/2019,Nebraska,4
+8/1/2019,North Carolina,54
+8/1/2019,North Dakota,2
+8/1/2019,New Hampshire,1
+8/1/2019,New Jersey,22
+8/1/2019,New Mexico,9
+8/1/2019,Nevada,9
+8/1/2019,New York,56
+8/1/2019,Ohio,49
+8/1/2019,Oklahoma,24
+8/1/2019,Oregon,12
+8/1/2019,Pennsylvania,63
+8/1/2019,Rhode Island,2
+8/1/2019,South Carolina,37
+8/1/2019,South Dakota,1
+8/1/2019,Tennessee,33
+8/1/2019,Texas,143
+8/1/2019,Utah,4
+8/1/2019,Virginia,41
+8/1/2019,Vermont,0
+8/1/2019,Washington,17
+8/1/2019,Wisconsin,17
+8/1/2019,West Virginia,7
+8/1/2019,Wyoming,1
+9/1/2019,Alaska,5
+9/1/2019,Alabama,2
+9/1/2019,Arkansas,21
+9/1/2019,Arizona,21
+9/1/2019,California,142
+9/1/2019,Colorado,21
+9/1/2019,Connecticut,11
+9/1/2019,District of Columbia,17
+9/1/2019,Delaware,9
+9/1/2019,Florida,0
+9/1/2019,Georgia,37
+9/1/2019,Hawaii,4
+9/1/2019,Iowa,2
+9/1/2019,Idaho,3
+9/1/2019,Illinois,78
+9/1/2019,Indiana,33
+9/1/2019,Kansas,11
+9/1/2019,Kentucky,24
+9/1/2019,Louisiana,41
+9/1/2019,Massachusetts,10
+9/1/2019,Maryland,50
+9/1/2019,Maine,1
+9/1/2019,Michigan,52
+9/1/2019,Minnesota,17
+9/1/2019,Missouri,44
+9/1/2019,Mississippi,17
+9/1/2019,Montana,2
+9/1/2019,Nebraska,1
+9/1/2019,North Carolina,59
+9/1/2019,North Dakota,0
+9/1/2019,New Hampshire,2
+9/1/2019,New Jersey,24
+9/1/2019,New Mexico,19
+9/1/2019,Nevada,14
+9/1/2019,New York,53
+9/1/2019,Ohio,49
+9/1/2019,Oklahoma,17
+9/1/2019,Oregon,9
+9/1/2019,Pennsylvania,51
+9/1/2019,Rhode Island,1
+9/1/2019,South Carolina,47
+9/1/2019,South Dakota,4
+9/1/2019,Tennessee,47
+9/1/2019,Texas,113
+9/1/2019,Utah,3
+9/1/2019,Virginia,31
+9/1/2019,Vermont,0
+9/1/2019,Washington,10
+9/1/2019,Wisconsin,16
+9/1/2019,West Virginia,11
+9/1/2019,Wyoming,2
+10/1/2019,Alaska,6
+10/1/2019,Alabama,4
+10/1/2019,Arkansas,20
+10/1/2019,Arizona,25
+10/1/2019,California,170
+10/1/2019,Colorado,18
+10/1/2019,Connecticut,7
+10/1/2019,District of Columbia,15
+10/1/2019,Delaware,2
+10/1/2019,Florida,0
+10/1/2019,Georgia,17
+10/1/2019,Hawaii,5
+10/1/2019,Iowa,9
+10/1/2019,Idaho,2
+10/1/2019,Illinois,62
+10/1/2019,Indiana,36
+10/1/2019,Kansas,3
+10/1/2019,Kentucky,14
+10/1/2019,Louisiana,33
+10/1/2019,Massachusetts,21
+10/1/2019,Maryland,48
+10/1/2019,Maine,2
+10/1/2019,Michigan,48
+10/1/2019,Minnesota,9
+10/1/2019,Missouri,34
+10/1/2019,Mississippi,10
+10/1/2019,Montana,5
+10/1/2019,Nebraska,3
+10/1/2019,North Carolina,59
+10/1/2019,North Dakota,1
+10/1/2019,New Hampshire,2
+10/1/2019,New Jersey,26
+10/1/2019,New Mexico,12
+10/1/2019,Nevada,8
+10/1/2019,New York,50
+10/1/2019,Ohio,47
+10/1/2019,Oklahoma,26
+10/1/2019,Oregon,4
+10/1/2019,Pennsylvania,67
+10/1/2019,Rhode Island,3
+10/1/2019,South Carolina,46
+10/1/2019,South Dakota,3
+10/1/2019,Tennessee,52
+10/1/2019,Texas,110
+10/1/2019,Utah,6
+10/1/2019,Virginia,34
+10/1/2019,Vermont,2
+10/1/2019,Washington,13
+10/1/2019,Wisconsin,17
+10/1/2019,West Virginia,4
+10/1/2019,Wyoming,4
+11/1/2019,Alaska,14
+11/1/2019,Alabama,1
+11/1/2019,Arkansas,22
+11/1/2019,Arizona,28
+11/1/2019,California,109
+11/1/2019,Colorado,25
+11/1/2019,Connecticut,10
+11/1/2019,District of Columbia,13
+11/1/2019,Delaware,2
+11/1/2019,Florida,0
+11/1/2019,Georgia,20
+11/1/2019,Hawaii,3
+11/1/2019,Iowa,6
+11/1/2019,Idaho,1
+11/1/2019,Illinois,50
+11/1/2019,Indiana,29
+11/1/2019,Kansas,11
+11/1/2019,Kentucky,17
+11/1/2019,Louisiana,56
+11/1/2019,Massachusetts,13
+11/1/2019,Maryland,41
+11/1/2019,Maine,2
+11/1/2019,Michigan,61
+11/1/2019,Minnesota,11
+11/1/2019,Missouri,55
+11/1/2019,Mississippi,12
+11/1/2019,Montana,6
+11/1/2019,Nebraska,4
+11/1/2019,North Carolina,41
+11/1/2019,North Dakota,4
+11/1/2019,New Hampshire,2
+11/1/2019,New Jersey,20
+11/1/2019,New Mexico,16
+11/1/2019,Nevada,10
+11/1/2019,New York,34
+11/1/2019,Ohio,43
+11/1/2019,Oklahoma,24
+11/1/2019,Oregon,9
+11/1/2019,Pennsylvania,55
+11/1/2019,Rhode Island,0
+11/1/2019,South Carolina,36
+11/1/2019,South Dakota,0
+11/1/2019,Tennessee,42
+11/1/2019,Texas,126
+11/1/2019,Utah,8
+11/1/2019,Virginia,34
+11/1/2019,Vermont,2
+11/1/2019,Washington,16
+11/1/2019,Wisconsin,13
+11/1/2019,West Virginia,16
+11/1/2019,Wyoming,1
+12/1/2019,Alaska,7
+12/1/2019,Alabama,1
+12/1/2019,Arkansas,12
+12/1/2019,Arizona,40
+12/1/2019,California,128
+12/1/2019,Colorado,20
+12/1/2019,Connecticut,10
+12/1/2019,District of Columbia,10
+12/1/2019,Delaware,6
+12/1/2019,Florida,0
+12/1/2019,Georgia,15
+12/1/2019,Hawaii,2
+12/1/2019,Iowa,10
+12/1/2019,Idaho,2
+12/1/2019,Illinois,72
+12/1/2019,Indiana,31
+12/1/2019,Kansas,17
+12/1/2019,Kentucky,20
+12/1/2019,Louisiana,65
+12/1/2019,Massachusetts,10
+12/1/2019,Maryland,53
+12/1/2019,Maine,1
+12/1/2019,Michigan,40
+12/1/2019,Minnesota,12
+12/1/2019,Missouri,52
+12/1/2019,Mississippi,18
+12/1/2019,Montana,7
+12/1/2019,Nebraska,7
+12/1/2019,North Carolina,55
+12/1/2019,North Dakota,1
+12/1/2019,New Hampshire,4
+12/1/2019,New Jersey,29
+12/1/2019,New Mexico,17
+12/1/2019,Nevada,12
+12/1/2019,New York,37
+12/1/2019,Ohio,50
+12/1/2019,Oklahoma,21
+12/1/2019,Oregon,9
+12/1/2019,Pennsylvania,55
+12/1/2019,Rhode Island,2
+12/1/2019,South Carolina,53
+12/1/2019,South Dakota,2
+12/1/2019,Tennessee,57
+12/1/2019,Texas,137
+12/1/2019,Utah,2
+12/1/2019,Virginia,39
+12/1/2019,Vermont,1
+12/1/2019,Washington,14
+12/1/2019,Wisconsin,14
+12/1/2019,West Virginia,6
+12/1/2019,Wyoming,0
+1/1/2020,Alaska,4
+1/1/2020,Alabama,3
+1/1/2020,Arkansas,23
+1/1/2020,Arizona,40
+1/1/2020,California,149
+1/1/2020,Colorado,23
+1/1/2020,Connecticut,6
+1/1/2020,District of Columbia,15
+1/1/2020,Delaware,2
+1/1/2020,Florida,0
+1/1/2020,Georgia,37
+1/1/2020,Hawaii,7
+1/1/2020,Iowa,10
+1/1/2020,Idaho,2
+1/1/2020,Illinois,22
+1/1/2020,Indiana,39
+1/1/2020,Kansas,11
+1/1/2020,Kentucky,21
+1/1/2020,Louisiana,54
+1/1/2020,Massachusetts,15
+1/1/2020,Maryland,43
+1/1/2020,Maine,2
+1/1/2020,Michigan,47
+1/1/2020,Minnesota,10
+1/1/2020,Missouri,35
+1/1/2020,Mississippi,14
+1/1/2020,Montana,2
+1/1/2020,Nebraska,2
+1/1/2020,North Carolina,54
+1/1/2020,North Dakota,4
+1/1/2020,New Hampshire,0
+1/1/2020,New Jersey,15
+1/1/2020,New Mexico,11
+1/1/2020,Nevada,13
+1/1/2020,New York,52
+1/1/2020,Ohio,42
+1/1/2020,Oklahoma,17
+1/1/2020,Oregon,8
+1/1/2020,Pennsylvania,56
+1/1/2020,Rhode Island,2
+1/1/2020,South Carolina,49
+1/1/2020,South Dakota,4
+1/1/2020,Tennessee,45
+1/1/2020,Texas,151
+1/1/2020,Utah,7
+1/1/2020,Virginia,44
+1/1/2020,Vermont,0
+1/1/2020,Washington,20
+1/1/2020,Wisconsin,17
+1/1/2020,West Virginia,2
+1/1/2020,Wyoming,3
+2/1/2020,Alaska,2
+2/1/2020,Alabama,4
+2/1/2020,Arkansas,19
+2/1/2020,Arizona,29
+2/1/2020,California,121
+2/1/2020,Colorado,20
+2/1/2020,Connecticut,7
+2/1/2020,District of Columbia,11
+2/1/2020,Delaware,7
+2/1/2020,Florida,0
+2/1/2020,Georgia,30
+2/1/2020,Hawaii,5
+2/1/2020,Iowa,6
+2/1/2020,Idaho,2
+2/1/2020,Illinois,51
+2/1/2020,Indiana,39
+2/1/2020,Kansas,9
+2/1/2020,Kentucky,18
+2/1/2020,Louisiana,38
+2/1/2020,Massachusetts,13
+2/1/2020,Maryland,37
+2/1/2020,Maine,4
+2/1/2020,Michigan,31
+2/1/2020,Minnesota,13
+2/1/2020,Missouri,31
+2/1/2020,Mississippi,22
+2/1/2020,Montana,1
+2/1/2020,Nebraska,2
+2/1/2020,North Carolina,49
+2/1/2020,North Dakota,0
+2/1/2020,New Hampshire,2
+2/1/2020,New Jersey,15
+2/1/2020,New Mexico,10
+2/1/2020,Nevada,7
+2/1/2020,New York,37
+2/1/2020,Ohio,41
+2/1/2020,Oklahoma,27
+2/1/2020,Oregon,1
+2/1/2020,Pennsylvania,38
+2/1/2020,Rhode Island,1
+2/1/2020,South Carolina,40
+2/1/2020,South Dakota,2
+2/1/2020,Tennessee,27
+2/1/2020,Texas,119
+2/1/2020,Utah,8
+2/1/2020,Virginia,30
+2/1/2020,Vermont,0
+2/1/2020,Washington,20
+2/1/2020,Wisconsin,30
+2/1/2020,West Virginia,8
+2/1/2020,Wyoming,2
+3/1/2020,Alaska,4
+3/1/2020,Alabama,7
+3/1/2020,Arkansas,29
+3/1/2020,Arizona,33
+3/1/2020,California,145
+3/1/2020,Colorado,16
+3/1/2020,Connecticut,13
+3/1/2020,District of Columbia,11
+3/1/2020,Delaware,2
+3/1/2020,Florida,0
+3/1/2020,Georgia,43
+3/1/2020,Hawaii,2
+3/1/2020,Iowa,6
+3/1/2020,Idaho,4
+3/1/2020,Illinois,45
+3/1/2020,Indiana,25
+3/1/2020,Kansas,10
+3/1/2020,Kentucky,18
+3/1/2020,Louisiana,37
+3/1/2020,Massachusetts,10
+3/1/2020,Maryland,32
+3/1/2020,Maine,1
+3/1/2020,Michigan,48
+3/1/2020,Minnesota,7
+3/1/2020,Missouri,38
+3/1/2020,Mississippi,12
+3/1/2020,Montana,6
+3/1/2020,Nebraska,3
+3/1/2020,North Carolina,70
+3/1/2020,North Dakota,2
+3/1/2020,New Hampshire,1
+3/1/2020,New Jersey,16
+3/1/2020,New Mexico,6
+3/1/2020,Nevada,16
+3/1/2020,New York,53
+3/1/2020,Ohio,58
+3/1/2020,Oklahoma,26
+3/1/2020,Oregon,7
+3/1/2020,Pennsylvania,59
+3/1/2020,Rhode Island,1
+3/1/2020,South Carolina,51
+3/1/2020,South Dakota,4
+3/1/2020,Tennessee,49
+3/1/2020,Texas,159
+3/1/2020,Utah,8
+3/1/2020,Virginia,36
+3/1/2020,Vermont,3
+3/1/2020,Washington,28
+3/1/2020,Wisconsin,21
+3/1/2020,West Virginia,9
+3/1/2020,Wyoming,5
+4/1/2020,Alaska,2
+4/1/2020,Alabama,7
+4/1/2020,Arkansas,24
+4/1/2020,Arizona,36
+4/1/2020,California,149
+4/1/2020,Colorado,18
+4/1/2020,Connecticut,6
+4/1/2020,District of Columbia,11
+4/1/2020,Delaware,4
+4/1/2020,Florida,0
+4/1/2020,Georgia,32
+4/1/2020,Hawaii,3
+4/1/2020,Iowa,9
+4/1/2020,Idaho,4
+4/1/2020,Illinois,82
+4/1/2020,Indiana,28
+4/1/2020,Kansas,11
+4/1/2020,Kentucky,18
+4/1/2020,Louisiana,56
+4/1/2020,Massachusetts,4
+4/1/2020,Maryland,38
+4/1/2020,Maine,0
+4/1/2020,Michigan,45
+4/1/2020,Minnesota,17
+4/1/2020,Missouri,46
+4/1/2020,Mississippi,14
+4/1/2020,Montana,3
+4/1/2020,Nebraska,6
+4/1/2020,North Carolina,42
+4/1/2020,North Dakota,0
+4/1/2020,New Hampshire,1
+4/1/2020,New Jersey,25
+4/1/2020,New Mexico,11
+4/1/2020,Nevada,5
+4/1/2020,New York,65
+4/1/2020,Ohio,60
+4/1/2020,Oklahoma,26
+4/1/2020,Oregon,8
+4/1/2020,Pennsylvania,52
+4/1/2020,Rhode Island,2
+4/1/2020,South Carolina,52
+4/1/2020,South Dakota,1
+4/1/2020,Tennessee,55
+4/1/2020,Texas,151
+4/1/2020,Utah,6
+4/1/2020,Virginia,35
+4/1/2020,Vermont,1
+4/1/2020,Washington,31
+4/1/2020,Wisconsin,22
+4/1/2020,West Virginia,10
+4/1/2020,Wyoming,0
+5/1/2020,Alaska,3
+5/1/2020,Alabama,8
+5/1/2020,Arkansas,21
+5/1/2020,Arizona,45
+5/1/2020,California,169
+5/1/2020,Colorado,27
+5/1/2020,Connecticut,12
+5/1/2020,District of Columbia,17
+5/1/2020,Delaware,2
+5/1/2020,Florida,0
+5/1/2020,Georgia,51
+5/1/2020,Hawaii,2
+5/1/2020,Iowa,13
+5/1/2020,Idaho,4
+5/1/2020,Illinois,115
+5/1/2020,Indiana,42
+5/1/2020,Kansas,8
+5/1/2020,Kentucky,25
+5/1/2020,Louisiana,49
+5/1/2020,Massachusetts,15
+5/1/2020,Maryland,60
+5/1/2020,Maine,0
+5/1/2020,Michigan,61
+5/1/2020,Minnesota,14
+5/1/2020,Missouri,64
+5/1/2020,Mississippi,18
+5/1/2020,Montana,7
+5/1/2020,Nebraska,7
+5/1/2020,North Carolina,68
+5/1/2020,North Dakota,8
+5/1/2020,New Hampshire,0
+5/1/2020,New Jersey,26
+5/1/2020,New Mexico,14
+5/1/2020,Nevada,14
+5/1/2020,New York,69
+5/1/2020,Ohio,56
+5/1/2020,Oklahoma,27
+5/1/2020,Oregon,5
+5/1/2020,Pennsylvania,54
+5/1/2020,Rhode Island,2
+5/1/2020,South Carolina,45
+5/1/2020,South Dakota,3
+5/1/2020,Tennessee,56
+5/1/2020,Texas,154
+5/1/2020,Utah,10
+5/1/2020,Virginia,40
+5/1/2020,Vermont,2
+5/1/2020,Washington,35
+5/1/2020,Wisconsin,25
+5/1/2020,West Virginia,9
+5/1/2020,Wyoming,2
+6/1/2020,Alaska,5
+6/1/2020,Alabama,2
+6/1/2020,Arkansas,39
+6/1/2020,Arizona,37
+6/1/2020,California,179
+6/1/2020,Colorado,34
+6/1/2020,Connecticut,17
+6/1/2020,District of Columbia,16
+6/1/2020,Delaware,7
+6/1/2020,Florida,0
+6/1/2020,Georgia,46
+6/1/2020,Hawaii,5
+6/1/2020,Iowa,15
+6/1/2020,Idaho,2
+6/1/2020,Illinois,126
+6/1/2020,Indiana,34
+6/1/2020,Kansas,11
+6/1/2020,Kentucky,27
+6/1/2020,Louisiana,75
+6/1/2020,Massachusetts,15
+6/1/2020,Maryland,51
+6/1/2020,Maine,3
+6/1/2020,Michigan,84
+6/1/2020,Minnesota,17
+6/1/2020,Missouri,92
+6/1/2020,Mississippi,17
+6/1/2020,Montana,9
+6/1/2020,Nebraska,9
+6/1/2020,North Carolina,85
+6/1/2020,North Dakota,3
+6/1/2020,New Hampshire,0
+6/1/2020,New Jersey,29
+6/1/2020,New Mexico,11
+6/1/2020,Nevada,17
+6/1/2020,New York,81
+6/1/2020,Ohio,81
+6/1/2020,Oklahoma,29
+6/1/2020,Oregon,13
+6/1/2020,Pennsylvania,70
+6/1/2020,Rhode Island,3
+6/1/2020,South Carolina,54
+6/1/2020,South Dakota,7
+6/1/2020,Tennessee,64
+6/1/2020,Texas,165
+6/1/2020,Utah,8
+6/1/2020,Virginia,50
+6/1/2020,Vermont,1
+6/1/2020,Washington,28
+6/1/2020,Wisconsin,29
+6/1/2020,West Virginia,9
+6/1/2020,Wyoming,0
+7/1/2020,Alaska,4
+7/1/2020,Alabama,4
+7/1/2020,Arkansas,25
+7/1/2020,Arizona,33
+7/1/2020,California,199
+7/1/2020,Colorado,30
+7/1/2020,Connecticut,20
+7/1/2020,District of Columbia,29
+7/1/2020,Delaware,8
+7/1/2020,Florida,1
+7/1/2020,Georgia,57
+7/1/2020,Hawaii,10
+7/1/2020,Iowa,11
+7/1/2020,Idaho,1
+7/1/2020,Illinois,141
+7/1/2020,Indiana,50
+7/1/2020,Kansas,10
+7/1/2020,Kentucky,42
+7/1/2020,Louisiana,77
+7/1/2020,Massachusetts,31
+7/1/2020,Maryland,58
+7/1/2020,Maine,1
+7/1/2020,Michigan,82
+7/1/2020,Minnesota,16
+7/1/2020,Missouri,68
+7/1/2020,Mississippi,27
+7/1/2020,Montana,4
+7/1/2020,Nebraska,7
+7/1/2020,North Carolina,85
+7/1/2020,North Dakota,0
+7/1/2020,New Hampshire,3
+7/1/2020,New Jersey,33
+7/1/2020,New Mexico,17
+7/1/2020,Nevada,16
+7/1/2020,New York,92
+7/1/2020,Ohio,80
+7/1/2020,Oklahoma,25
+7/1/2020,Oregon,21
+7/1/2020,Pennsylvania,74
+7/1/2020,Rhode Island,1
+7/1/2020,South Carolina,57
+7/1/2020,South Dakota,3
+7/1/2020,Tennessee,64
+7/1/2020,Texas,160
+7/1/2020,Utah,6
+7/1/2020,Virginia,44
+7/1/2020,Vermont,2
+7/1/2020,Washington,27
+7/1/2020,Wisconsin,28
+7/1/2020,West Virginia,10
+7/1/2020,Wyoming,1
+8/1/2020,Alaska,2
+8/1/2020,Alabama,4
+8/1/2020,Arkansas,33
+8/1/2020,Arizona,41
+8/1/2020,California,201
+8/1/2020,Colorado,36
+8/1/2020,Connecticut,18
+8/1/2020,District of Columbia,16
+8/1/2020,Delaware,5
+8/1/2020,Florida,0
+8/1/2020,Georgia,41
+8/1/2020,Hawaii,8
+8/1/2020,Iowa,8
+8/1/2020,Idaho,5
+8/1/2020,Illinois,99
+8/1/2020,Indiana,44
+8/1/2020,Kansas,8
+8/1/2020,Kentucky,44
+8/1/2020,Louisiana,67
+8/1/2020,Massachusetts,14
+8/1/2020,Maryland,43
+8/1/2020,Maine,4
+8/1/2020,Michigan,66
+8/1/2020,Minnesota,26
+8/1/2020,Missouri,78
+8/1/2020,Mississippi,22
+8/1/2020,Montana,3
+8/1/2020,Nebraska,5
+8/1/2020,North Carolina,74
+8/1/2020,North Dakota,5
+8/1/2020,New Hampshire,2
+8/1/2020,New Jersey,37
+8/1/2020,New Mexico,17
+8/1/2020,Nevada,17
+8/1/2020,New York,97
+8/1/2020,Ohio,86
+8/1/2020,Oklahoma,22
+8/1/2020,Oregon,14
+8/1/2020,Pennsylvania,80
+8/1/2020,Rhode Island,6
+8/1/2020,South Carolina,37
+8/1/2020,South Dakota,11
+8/1/2020,Tennessee,71
+8/1/2020,Texas,170
+8/1/2020,Utah,10
+8/1/2020,Virginia,47
+8/1/2020,Vermont,1
+8/1/2020,Washington,28
+8/1/2020,Wisconsin,35
+8/1/2020,West Virginia,12
+8/1/2020,Wyoming,0
+9/1/2020,Alaska,3
+9/1/2020,Alabama,10
+9/1/2020,Arkansas,22
+9/1/2020,Arizona,39
+9/1/2020,California,224
+9/1/2020,Colorado,32
+9/1/2020,Connecticut,10
+9/1/2020,District of Columbia,17
+9/1/2020,Delaware,11
+9/1/2020,Florida,2
+9/1/2020,Georgia,46
+9/1/2020,Hawaii,1
+9/1/2020,Iowa,8
+9/1/2020,Idaho,6
+9/1/2020,Illinois,108
+9/1/2020,Indiana,42
+9/1/2020,Kansas,8
+9/1/2020,Kentucky,37
+9/1/2020,Louisiana,64
+9/1/2020,Massachusetts,11
+9/1/2020,Maryland,57
+9/1/2020,Maine,0
+9/1/2020,Michigan,78
+9/1/2020,Minnesota,11
+9/1/2020,Missouri,31
+9/1/2020,Mississippi,26
+9/1/2020,Montana,3
+9/1/2020,Nebraska,5
+9/1/2020,North Carolina,60
+9/1/2020,North Dakota,1
+9/1/2020,New Hampshire,1
+9/1/2020,New Jersey,29
+9/1/2020,New Mexico,13
+9/1/2020,Nevada,17
+9/1/2020,New York,99
+9/1/2020,Ohio,78
+9/1/2020,Oklahoma,25
+9/1/2020,Oregon,13
+9/1/2020,Pennsylvania,70
+9/1/2020,Rhode Island,4
+9/1/2020,South Carolina,43
+9/1/2020,South Dakota,3
+9/1/2020,Tennessee,56
+9/1/2020,Texas,148
+9/1/2020,Utah,7
+9/1/2020,Virginia,54
+9/1/2020,Vermont,0
+9/1/2020,Washington,26
+9/1/2020,Wisconsin,29
+9/1/2020,West Virginia,10
+9/1/2020,Wyoming,0
+10/1/2020,Alaska,5
+10/1/2020,Alabama,4
+10/1/2020,Arkansas,30
+10/1/2020,Arizona,48
+10/1/2020,California,237
+10/1/2020,Colorado,19
+10/1/2020,Connecticut,18
+10/1/2020,District of Columbia,22
+10/1/2020,Delaware,10
+10/1/2020,Florida,1
+10/1/2020,Georgia,71
+10/1/2020,Hawaii,1
+10/1/2020,Iowa,6
+10/1/2020,Idaho,6
+10/1/2020,Illinois,86
+10/1/2020,Indiana,64
+10/1/2020,Kansas,15
+10/1/2020,Kentucky,34
+10/1/2020,Louisiana,72
+10/1/2020,Massachusetts,12
+10/1/2020,Maryland,58
+10/1/2020,Maine,7
+10/1/2020,Michigan,75
+10/1/2020,Minnesota,12
+10/1/2020,Missouri,26
+10/1/2020,Mississippi,26
+10/1/2020,Montana,4
+10/1/2020,Nebraska,5
+10/1/2020,North Carolina,83
+10/1/2020,North Dakota,1
+10/1/2020,New Hampshire,0
+10/1/2020,New Jersey,50
+10/1/2020,New Mexico,12
+10/1/2020,Nevada,22
+10/1/2020,New York,66
+10/1/2020,Ohio,81
+10/1/2020,Oklahoma,33
+10/1/2020,Oregon,15
+10/1/2020,Pennsylvania,101
+10/1/2020,Rhode Island,5
+10/1/2020,South Carolina,44
+10/1/2020,South Dakota,4
+10/1/2020,Tennessee,64
+10/1/2020,Texas,193
+10/1/2020,Utah,7
+10/1/2020,Virginia,58
+10/1/2020,Vermont,2
+10/1/2020,Washington,22
+10/1/2020,Wisconsin,30
+10/1/2020,West Virginia,5
+10/1/2020,Wyoming,0
+11/1/2020,Alaska,13
+11/1/2020,Alabama,3
+11/1/2020,Arkansas,20
+11/1/2020,Arizona,29
+11/1/2020,California,199
+11/1/2020,Colorado,25
+11/1/2020,Connecticut,8
+11/1/2020,District of Columbia,20
+11/1/2020,Delaware,6
+11/1/2020,Florida,1
+11/1/2020,Georgia,99
+11/1/2020,Hawaii,0
+11/1/2020,Iowa,12
+11/1/2020,Idaho,1
+11/1/2020,Illinois,82
+11/1/2020,Indiana,40
+11/1/2020,Kansas,8
+11/1/2020,Kentucky,27
+11/1/2020,Louisiana,69
+11/1/2020,Massachusetts,7
+11/1/2020,Maryland,41
+11/1/2020,Maine,0
+11/1/2020,Michigan,75
+11/1/2020,Minnesota,20
+11/1/2020,Missouri,32
+11/1/2020,Mississippi,19
+11/1/2020,Montana,6
+11/1/2020,Nebraska,9
+11/1/2020,North Carolina,66
+11/1/2020,North Dakota,2
+11/1/2020,New Hampshire,0
+11/1/2020,New Jersey,34
+11/1/2020,New Mexico,12
+11/1/2020,Nevada,23
+11/1/2020,New York,58
+11/1/2020,Ohio,78
+11/1/2020,Oklahoma,29
+11/1/2020,Oregon,10
+11/1/2020,Pennsylvania,64
+11/1/2020,Rhode Island,2
+11/1/2020,South Carolina,52
+11/1/2020,South Dakota,3
+11/1/2020,Tennessee,62
+11/1/2020,Texas,191
+11/1/2020,Utah,10
+11/1/2020,Virginia,59
+11/1/2020,Vermont,1
+11/1/2020,Washington,19
+11/1/2020,Wisconsin,26
+11/1/2020,West Virginia,16
+11/1/2020,Wyoming,0
+12/1/2020,Alaska,1
+12/1/2020,Alabama,4
+12/1/2020,Arkansas,31
+12/1/2020,Arizona,31
+12/1/2020,California,230
+12/1/2020,Colorado,18
+12/1/2020,Connecticut,15
+12/1/2020,District of Columbia,16
+12/1/2020,Delaware,9
+12/1/2020,Florida,0
+12/1/2020,Georgia,69
+12/1/2020,Hawaii,2
+12/1/2020,Iowa,8
+12/1/2020,Idaho,5
+12/1/2020,Illinois,79
+12/1/2020,Indiana,46
+12/1/2020,Kansas,7
+12/1/2020,Kentucky,37
+12/1/2020,Louisiana,53
+12/1/2020,Massachusetts,15
+12/1/2020,Maryland,54
+12/1/2020,Maine,1
+12/1/2020,Michigan,69
+12/1/2020,Minnesota,12
+12/1/2020,Missouri,43
+12/1/2020,Mississippi,10
+12/1/2020,Montana,5
+12/1/2020,Nebraska,5
+12/1/2020,North Carolina,82
+12/1/2020,North Dakota,6
+12/1/2020,New Hampshire,2
+12/1/2020,New Jersey,21
+12/1/2020,New Mexico,11
+12/1/2020,Nevada,11
+12/1/2020,New York,60
+12/1/2020,Ohio,82
+12/1/2020,Oklahoma,14
+12/1/2020,Oregon,15
+12/1/2020,Pennsylvania,79
+12/1/2020,Rhode Island,2
+12/1/2020,South Carolina,42
+12/1/2020,South Dakota,4
+12/1/2020,Tennessee,88
+12/1/2020,Texas,192
+12/1/2020,Utah,10
+12/1/2020,Virginia,42
+12/1/2020,Vermont,1
+12/1/2020,Washington,22
+12/1/2020,Wisconsin,19
+12/1/2020,West Virginia,24
+12/1/2020,Wyoming,1
+1/1/2021,Alaska,5
+1/1/2021,Alabama,30
+1/1/2021,Arkansas,23
+1/1/2021,Arizona,17
+1/1/2021,California,25
+1/1/2021,Colorado,30
+1/1/2021,Connecticut,14
+1/1/2021,District of Columbia,0
+1/1/2021,Delaware,8
+1/1/2021,Florida,26
+1/1/2021,Georgia,70
+1/1/2021,Hawaii,1
+1/1/2021,Iowa,4
+1/1/2021,Idaho,2
+1/1/2021,Illinois,13
+1/1/2021,Indiana,36
+1/1/2021,Kansas,9
+1/1/2021,Kentucky,34
+1/1/2021,Louisiana,46
+1/1/2021,Massachusetts,11
+1/1/2021,Maryland,27
+1/1/2021,Maine,1
+1/1/2021,Michigan,61
+1/1/2021,Minnesota,15
+1/1/2021,Missouri,60
+1/1/2021,Mississippi,15
+1/1/2021,Montana,3
+1/1/2021,Nebraska,2
+1/1/2021,North Carolina,78
+1/1/2021,North Dakota,0
+1/1/2021,New Hampshire,1
+1/1/2021,New Jersey,10
+1/1/2021,New Mexico,24
+1/1/2021,Nevada,14
+1/1/2021,New York,13
+1/1/2021,Ohio,71
+1/1/2021,Oklahoma,21
+1/1/2021,Oregon,18
+1/1/2021,Pennsylvania,59
+1/1/2021,Rhode Island,3
+1/1/2021,South Carolina,48
+1/1/2021,South Dakota,3
+1/1/2021,Tennessee,71
+1/1/2021,Texas,174
+1/1/2021,Utah,5
+1/1/2021,Virginia,32
+1/1/2021,Vermont,1
+1/1/2021,Washington,31
+1/1/2021,Wisconsin,26
+1/1/2021,West Virginia,12
+1/1/2021,Wyoming,0
+2/1/2021,Alaska,1
+2/1/2021,Alabama,22
+2/1/2021,Arkansas,21
+2/1/2021,Arizona,9
+2/1/2021,California,26
+2/1/2021,Colorado,28
+2/1/2021,Connecticut,3
+2/1/2021,District of Columbia,0
+2/1/2021,Delaware,7
+2/1/2021,Florida,29
+2/1/2021,Georgia,63
+2/1/2021,Hawaii,2
+2/1/2021,Iowa,9
+2/1/2021,Idaho,5
+2/1/2021,Illinois,12
+2/1/2021,Indiana,31
+2/1/2021,Kansas,12
+2/1/2021,Kentucky,18
+2/1/2021,Louisiana,38
+2/1/2021,Massachusetts,12
+2/1/2021,Maryland,13
+2/1/2021,Maine,2
+2/1/2021,Michigan,51
+2/1/2021,Minnesota,15
+2/1/2021,Missouri,56
+2/1/2021,Mississippi,20
+2/1/2021,Montana,2
+2/1/2021,Nebraska,3
+2/1/2021,North Carolina,55
+2/1/2021,North Dakota,0
+2/1/2021,New Hampshire,1
+2/1/2021,New Jersey,15
+2/1/2021,New Mexico,16
+2/1/2021,Nevada,17
+2/1/2021,New York,12
+2/1/2021,Ohio,62
+2/1/2021,Oklahoma,29
+2/1/2021,Oregon,23
+2/1/2021,Pennsylvania,40
+2/1/2021,Rhode Island,2
+2/1/2021,South Carolina,31
+2/1/2021,South Dakota,2
+2/1/2021,Tennessee,63
+2/1/2021,Texas,165
+2/1/2021,Utah,1
+2/1/2021,Virginia,38
+2/1/2021,Vermont,0
+2/1/2021,Washington,15
+2/1/2021,Wisconsin,16
+2/1/2021,West Virginia,6
+2/1/2021,Wyoming,1
+3/1/2021,Alaska,1
+3/1/2021,Alabama,30
+3/1/2021,Arkansas,24
+3/1/2021,Arizona,17
+3/1/2021,California,25
+3/1/2021,Colorado,29
+3/1/2021,Connecticut,12
+3/1/2021,District of Columbia,0
+3/1/2021,Delaware,3
+3/1/2021,Florida,19
+3/1/2021,Georgia,62
+3/1/2021,Hawaii,5
+3/1/2021,Iowa,6
+3/1/2021,Idaho,1
+3/1/2021,Illinois,10
+3/1/2021,Indiana,33
+3/1/2021,Kansas,10
+3/1/2021,Kentucky,31
+3/1/2021,Louisiana,34
+3/1/2021,Massachusetts,9
+3/1/2021,Maryland,22
+3/1/2021,Maine,1
+3/1/2021,Michigan,50
+3/1/2021,Minnesota,11
+3/1/2021,Missouri,54
+3/1/2021,Mississippi,11
+3/1/2021,Montana,2
+3/1/2021,Nebraska,2
+3/1/2021,North Carolina,61
+3/1/2021,North Dakota,1
+3/1/2021,New Hampshire,0
+3/1/2021,New Jersey,12
+3/1/2021,New Mexico,18
+3/1/2021,Nevada,22
+3/1/2021,New York,21
+3/1/2021,Ohio,65
+3/1/2021,Oklahoma,23
+3/1/2021,Oregon,26
+3/1/2021,Pennsylvania,46
+3/1/2021,Rhode Island,1
+3/1/2021,South Carolina,37
+3/1/2021,South Dakota,1
+3/1/2021,Tennessee,41
+3/1/2021,Texas,146
+3/1/2021,Utah,6
+3/1/2021,Virginia,35
+3/1/2021,Vermont,0
+3/1/2021,Washington,22
+3/1/2021,Wisconsin,22
+3/1/2021,West Virginia,9
+3/1/2021,Wyoming,2
+4/1/2021,Alaska,3
+4/1/2021,Alabama,32
+4/1/2021,Arkansas,30
+4/1/2021,Arizona,19
+4/1/2021,California,34
+4/1/2021,Colorado,20
+4/1/2021,Connecticut,10
+4/1/2021,District of Columbia,0
+4/1/2021,Delaware,13
+4/1/2021,Florida,24
+4/1/2021,Georgia,59
+4/1/2021,Hawaii,1
+4/1/2021,Iowa,8
+4/1/2021,Idaho,5
+4/1/2021,Illinois,13
+4/1/2021,Indiana,35
+4/1/2021,Kansas,11
+4/1/2021,Kentucky,23
+4/1/2021,Louisiana,26
+4/1/2021,Massachusetts,5
+4/1/2021,Maryland,16
+4/1/2021,Maine,0
+4/1/2021,Michigan,74
+4/1/2021,Minnesota,14
+4/1/2021,Missouri,53
+4/1/2021,Mississippi,9
+4/1/2021,Montana,3
+4/1/2021,Nebraska,0
+4/1/2021,North Carolina,92
+4/1/2021,North Dakota,0
+4/1/2021,New Hampshire,1
+4/1/2021,New Jersey,24
+4/1/2021,New Mexico,29
+4/1/2021,Nevada,13
+4/1/2021,New York,22
+4/1/2021,Ohio,67
+4/1/2021,Oklahoma,25
+4/1/2021,Oregon,11
+4/1/2021,Pennsylvania,60
+4/1/2021,Rhode Island,5
+4/1/2021,South Carolina,40
+4/1/2021,South Dakota,2
+4/1/2021,Tennessee,52
+4/1/2021,Texas,169
+4/1/2021,Utah,5
+4/1/2021,Virginia,45
+4/1/2021,Vermont,1
+4/1/2021,Washington,24
+4/1/2021,Wisconsin,33
+4/1/2021,West Virginia,6
+4/1/2021,Wyoming,2
+5/1/2021,Alaska,5
+5/1/2021,Alabama,34
+5/1/2021,Arkansas,36
+5/1/2021,Arizona,21
+5/1/2021,California,28
+5/1/2021,Colorado,30
+5/1/2021,Connecticut,26
+5/1/2021,District of Columbia,0
+5/1/2021,Delaware,7
+5/1/2021,Florida,26
+5/1/2021,Georgia,77
+5/1/2021,Hawaii,2
+5/1/2021,Iowa,5
+5/1/2021,Idaho,3
+5/1/2021,Illinois,17
+5/1/2021,Indiana,36
+5/1/2021,Kansas,18
+5/1/2021,Kentucky,39
+5/1/2021,Louisiana,45
+5/1/2021,Massachusetts,16
+5/1/2021,Maryland,20
+5/1/2021,Maine,1
+5/1/2021,Michigan,63
+5/1/2021,Minnesota,18
+5/1/2021,Missouri,55
+5/1/2021,Mississippi,11
+5/1/2021,Montana,2
+5/1/2021,Nebraska,4
+5/1/2021,North Carolina,72
+5/1/2021,North Dakota,1
+5/1/2021,New Hampshire,1
+5/1/2021,New Jersey,36
+5/1/2021,New Mexico,18
+5/1/2021,Nevada,24
+5/1/2021,New York,28
+5/1/2021,Ohio,84
+5/1/2021,Oklahoma,20
+5/1/2021,Oregon,19
+5/1/2021,Pennsylvania,60
+5/1/2021,Rhode Island,6
+5/1/2021,South Carolina,68
+5/1/2021,South Dakota,1
+5/1/2021,Tennessee,65
+5/1/2021,Texas,196
+5/1/2021,Utah,11
+5/1/2021,Virginia,45
+5/1/2021,Vermont,1
+5/1/2021,Washington,25
+5/1/2021,Wisconsin,33
+5/1/2021,West Virginia,14
+5/1/2021,Wyoming,1
+6/1/2021,Alaska,1
+6/1/2021,Alabama,27
+6/1/2021,Arkansas,28
+6/1/2021,Arizona,20
+6/1/2021,California,35
+6/1/2021,Colorado,30
+6/1/2021,Connecticut,20
+6/1/2021,District of Columbia,0
+6/1/2021,Delaware,9
+6/1/2021,Florida,17
+6/1/2021,Georgia,63
+6/1/2021,Hawaii,4
+6/1/2021,Iowa,7
+6/1/2021,Idaho,0
+6/1/2021,Illinois,15
+6/1/2021,Indiana,38
+6/1/2021,Kansas,7
+6/1/2021,Kentucky,40
+6/1/2021,Louisiana,53
+6/1/2021,Massachusetts,9
+6/1/2021,Maryland,19
+6/1/2021,Maine,7
+6/1/2021,Michigan,68
+6/1/2021,Minnesota,25
+6/1/2021,Missouri,51
+6/1/2021,Mississippi,12
+6/1/2021,Montana,4
+6/1/2021,Nebraska,2
+6/1/2021,North Carolina,118
+6/1/2021,North Dakota,3
+6/1/2021,New Hampshire,1
+6/1/2021,New Jersey,24
+6/1/2021,New Mexico,16
+6/1/2021,Nevada,17
+6/1/2021,New York,29
+6/1/2021,Ohio,79
+6/1/2021,Oklahoma,18
+6/1/2021,Oregon,15
+6/1/2021,Pennsylvania,70
+6/1/2021,Rhode Island,5
+6/1/2021,South Carolina,54
+6/1/2021,South Dakota,1
+6/1/2021,Tennessee,66
+6/1/2021,Texas,182
+6/1/2021,Utah,13
+6/1/2021,Virginia,49
+6/1/2021,Vermont,0
+6/1/2021,Washington,28
+6/1/2021,Wisconsin,21
+6/1/2021,West Virginia,9
+6/1/2021,Wyoming,0
+7/1/2021,Alaska,0
+7/1/2021,Alabama,46
+7/1/2021,Arkansas,34
+7/1/2021,Arizona,15
+7/1/2021,California,51
+7/1/2021,Colorado,21
+7/1/2021,Connecticut,15
+7/1/2021,District of Columbia,0
+7/1/2021,Delaware,9
+7/1/2021,Florida,29
+7/1/2021,Georgia,75
+7/1/2021,Hawaii,3
+7/1/2021,Iowa,6
+7/1/2021,Idaho,3
+7/1/2021,Illinois,94
+7/1/2021,Indiana,51
+7/1/2021,Kansas,10
+7/1/2021,Kentucky,31
+7/1/2021,Louisiana,56
+7/1/2021,Massachusetts,8
+7/1/2021,Maryland,50
+7/1/2021,Maine,0
+7/1/2021,Michigan,78
+7/1/2021,Minnesota,17
+7/1/2021,Missouri,51
+7/1/2021,Mississippi,20
+7/1/2021,Montana,4
+7/1/2021,Nebraska,2
+7/1/2021,North Carolina,87
+7/1/2021,North Dakota,3
+7/1/2021,New Hampshire,0
+7/1/2021,New Jersey,32
+7/1/2021,New Mexico,19
+7/1/2021,Nevada,28
+7/1/2021,New York,17
+7/1/2021,Ohio,100
+7/1/2021,Oklahoma,28
+7/1/2021,Oregon,19
+7/1/2021,Pennsylvania,75
+7/1/2021,Rhode Island,2
+7/1/2021,South Carolina,55
+7/1/2021,South Dakota,1
+7/1/2021,Tennessee,45
+7/1/2021,Texas,169
+7/1/2021,Utah,8
+7/1/2021,Virginia,77
+7/1/2021,Vermont,0
+7/1/2021,Washington,40
+7/1/2021,Wisconsin,37
+7/1/2021,West Virginia,3
+7/1/2021,Wyoming,3
+8/1/2021,Alaska,0
+8/1/2021,Alabama,34
+8/1/2021,Arkansas,26
+8/1/2021,Arizona,20
+8/1/2021,California,30
+8/1/2021,Colorado,33
+8/1/2021,Connecticut,17
+8/1/2021,District of Columbia,26
+8/1/2021,Delaware,11
+8/1/2021,Florida,21
+8/1/2021,Georgia,70
+8/1/2021,Hawaii,5
+8/1/2021,Iowa,7
+8/1/2021,Idaho,3
+8/1/2021,Illinois,87
+8/1/2021,Indiana,33
+8/1/2021,Kansas,13
+8/1/2021,Kentucky,37
+8/1/2021,Louisiana,34
+8/1/2021,Massachusetts,15
+8/1/2021,Maryland,44
+8/1/2021,Maine,0
+8/1/2021,Michigan,70
+8/1/2021,Minnesota,22
+8/1/2021,Missouri,48
+8/1/2021,Mississippi,10
+8/1/2021,Montana,3
+8/1/2021,Nebraska,3
+8/1/2021,North Carolina,81
+8/1/2021,North Dakota,3
+8/1/2021,New Hampshire,4
+8/1/2021,New Jersey,31
+8/1/2021,New Mexico,16
+8/1/2021,Nevada,27
+8/1/2021,New York,17
+8/1/2021,Ohio,71
+8/1/2021,Oklahoma,29
+8/1/2021,Oregon,17
+8/1/2021,Pennsylvania,47
+8/1/2021,Rhode Island,5
+8/1/2021,South Carolina,45
+8/1/2021,South Dakota,3
+8/1/2021,Tennessee,48
+8/1/2021,Texas,163
+8/1/2021,Utah,8
+8/1/2021,Virginia,46
+8/1/2021,Vermont,1
+8/1/2021,Washington,40
+8/1/2021,Wisconsin,28
+8/1/2021,West Virginia,15
+8/1/2021,Wyoming,4
+9/1/2021,Alaska,0
+9/1/2021,Alabama,32
+9/1/2021,Arkansas,20
+9/1/2021,Arizona,21
+9/1/2021,California,30
+9/1/2021,Colorado,30
+9/1/2021,Connecticut,12
+9/1/2021,District of Columbia,22
+9/1/2021,Delaware,5
+9/1/2021,Florida,28
+9/1/2021,Georgia,66
+9/1/2021,Hawaii,1
+9/1/2021,Iowa,3
+9/1/2021,Idaho,7
+9/1/2021,Illinois,103
+9/1/2021,Indiana,29
+9/1/2021,Kansas,13
+9/1/2021,Kentucky,36
+9/1/2021,Louisiana,41
+9/1/2021,Massachusetts,7
+9/1/2021,Maryland,49
+9/1/2021,Maine,2
+9/1/2021,Michigan,65
+9/1/2021,Minnesota,26
+9/1/2021,Missouri,59
+9/1/2021,Mississippi,11
+9/1/2021,Montana,2
+9/1/2021,Nebraska,1
+9/1/2021,North Carolina,78
+9/1/2021,North Dakota,1
+9/1/2021,New Hampshire,0
+9/1/2021,New Jersey,18
+9/1/2021,New Mexico,14
+9/1/2021,Nevada,23
+9/1/2021,New York,16
+9/1/2021,Ohio,85
+9/1/2021,Oklahoma,33
+9/1/2021,Oregon,11
+9/1/2021,Pennsylvania,73
+9/1/2021,Rhode Island,3
+9/1/2021,South Carolina,59
+9/1/2021,South Dakota,1
+9/1/2021,Tennessee,73
+9/1/2021,Texas,198
+9/1/2021,Utah,8
+9/1/2021,Virginia,49
+9/1/2021,Vermont,1
+9/1/2021,Washington,29
+9/1/2021,Wisconsin,37
+9/1/2021,West Virginia,8
+9/1/2021,Wyoming,1
+10/1/2021,Alaska,3
+10/1/2021,Alabama,35
+10/1/2021,Arkansas,30
+10/1/2021,Arizona,13
+10/1/2021,California,34
+10/1/2021,Colorado,35
+10/1/2021,Connecticut,10
+10/1/2021,District of Columbia,31
+10/1/2021,Delaware,9
+10/1/2021,Florida,37
+10/1/2021,Georgia,80
+10/1/2021,Hawaii,1
+10/1/2021,Iowa,10
+10/1/2021,Idaho,9
+10/1/2021,Illinois,80
+10/1/2021,Indiana,54
+10/1/2021,Kansas,11
+10/1/2021,Kentucky,34
+10/1/2021,Louisiana,39
+10/1/2021,Massachusetts,12
+10/1/2021,Maryland,50
+10/1/2021,Maine,2
+10/1/2021,Michigan,61
+10/1/2021,Minnesota,16
+10/1/2021,Missouri,52
+10/1/2021,Mississippi,11
+10/1/2021,Montana,3
+10/1/2021,Nebraska,5
+10/1/2021,North Carolina,91
+10/1/2021,North Dakota,0
+10/1/2021,New Hampshire,2
+10/1/2021,New Jersey,31
+10/1/2021,New Mexico,20
+10/1/2021,Nevada,22
+10/1/2021,New York,19
+10/1/2021,Ohio,67
+10/1/2021,Oklahoma,28
+10/1/2021,Oregon,13
+10/1/2021,Pennsylvania,60
+10/1/2021,Rhode Island,2
+10/1/2021,South Carolina,47
+10/1/2021,South Dakota,4
+10/1/2021,Tennessee,74
+10/1/2021,Texas,195
+10/1/2021,Utah,6
+10/1/2021,Virginia,48
+10/1/2021,Vermont,2
+10/1/2021,Washington,29
+10/1/2021,Wisconsin,34
+10/1/2021,West Virginia,15
+10/1/2021,Wyoming,0
+11/1/2021,Alaska,2
+11/1/2021,Alabama,44
+11/1/2021,Arkansas,30
+11/1/2021,Arizona,16
+11/1/2021,California,34
+11/1/2021,Colorado,38
+11/1/2021,Connecticut,9
+11/1/2021,District of Columbia,18
+11/1/2021,Delaware,7
+11/1/2021,Florida,25
+11/1/2021,Georgia,71
+11/1/2021,Hawaii,1
+11/1/2021,Iowa,6
+11/1/2021,Idaho,2
+11/1/2021,Illinois,66
+11/1/2021,Indiana,45
+11/1/2021,Kansas,11
+11/1/2021,Kentucky,33
+11/1/2021,Louisiana,31
+11/1/2021,Massachusetts,12
+11/1/2021,Maryland,47
+11/1/2021,Maine,3
+11/1/2021,Michigan,59
+11/1/2021,Minnesota,11
+11/1/2021,Missouri,35
+11/1/2021,Mississippi,9
+11/1/2021,Montana,6
+11/1/2021,Nebraska,2
+11/1/2021,North Carolina,76
+11/1/2021,North Dakota,2
+11/1/2021,New Hampshire,2
+11/1/2021,New Jersey,29
+11/1/2021,New Mexico,16
+11/1/2021,Nevada,20
+11/1/2021,New York,17
+11/1/2021,Ohio,60
+11/1/2021,Oklahoma,26
+11/1/2021,Oregon,12
+11/1/2021,Pennsylvania,78
+11/1/2021,Rhode Island,1
+11/1/2021,South Carolina,56
+11/1/2021,South Dakota,6
+11/1/2021,Tennessee,55
+11/1/2021,Texas,161
+11/1/2021,Utah,5
+11/1/2021,Virginia,56
+11/1/2021,Vermont,2
+11/1/2021,Washington,26
+11/1/2021,Wisconsin,27
+11/1/2021,West Virginia,6
+11/1/2021,Wyoming,0
+12/1/2021,Alaska,2
+12/1/2021,Alabama,43
+12/1/2021,Arkansas,24
+12/1/2021,Arizona,16
+12/1/2021,California,40
+12/1/2021,Colorado,32
+12/1/2021,Connecticut,10
+12/1/2021,District of Columbia,18
+12/1/2021,Delaware,9
+12/1/2021,Florida,24
+12/1/2021,Georgia,52
+12/1/2021,Hawaii,2
+12/1/2021,Iowa,3
+12/1/2021,Idaho,3
+12/1/2021,Illinois,72
+12/1/2021,Indiana,43
+12/1/2021,Kansas,12
+12/1/2021,Kentucky,23
+12/1/2021,Louisiana,54
+12/1/2021,Massachusetts,17
+12/1/2021,Maryland,47
+12/1/2021,Maine,1
+12/1/2021,Michigan,57
+12/1/2021,Minnesota,15
+12/1/2021,Missouri,55
+12/1/2021,Mississippi,20
+12/1/2021,Montana,3
+12/1/2021,Nebraska,2
+12/1/2021,North Carolina,71
+12/1/2021,North Dakota,0
+12/1/2021,New Hampshire,0
+12/1/2021,New Jersey,27
+12/1/2021,New Mexico,20
+12/1/2021,Nevada,16
+12/1/2021,New York,11
+12/1/2021,Ohio,57
+12/1/2021,Oklahoma,18
+12/1/2021,Oregon,20
+12/1/2021,Pennsylvania,71
+12/1/2021,Rhode Island,2
+12/1/2021,South Carolina,45
+12/1/2021,South Dakota,2
+12/1/2021,Tennessee,59
+12/1/2021,Texas,146
+12/1/2021,Utah,5
+12/1/2021,Virginia,57
+12/1/2021,Vermont,0
+12/1/2021,Washington,22
+12/1/2021,Wisconsin,18
+12/1/2021,West Virginia,5
+12/1/2021,Wyoming,0
+1/1/2022,Alaska,4
+1/1/2022,Alabama,41
+1/1/2022,Arkansas,20
+1/1/2022,Arizona,31
+1/1/2022,California,185
+1/1/2022,Colorado,31
+1/1/2022,Connecticut,11
+1/1/2022,District of Columbia,15
+1/1/2022,Delaware,3
+1/1/2022,Florida,37
+1/1/2022,Georgia,63
+1/1/2022,Hawaii,2
+1/1/2022,Iowa,5
+1/1/2022,Idaho,6
+1/1/2022,Illinois,71
+1/1/2022,Indiana,24
+1/1/2022,Kansas,14
+1/1/2022,Kentucky,22
+1/1/2022,Louisiana,34
+1/1/2022,Massachusetts,9
+1/1/2022,Maryland,69
+1/1/2022,Maine,2
+1/1/2022,Michigan,55
+1/1/2022,Minnesota,13
+1/1/2022,Missouri,54
+1/1/2022,Mississippi,4
+1/1/2022,Montana,12
+1/1/2022,Nebraska,3
+1/1/2022,North Carolina,67
+1/1/2022,North Dakota,0
+1/1/2022,New Hampshire,0
+1/1/2022,New Jersey,21
+1/1/2022,New Mexico,23
+1/1/2022,Nevada,19
+1/1/2022,New York,59
+1/1/2022,Ohio,54
+1/1/2022,Oklahoma,25
+1/1/2022,Oregon,17
+1/1/2022,Pennsylvania,62
+1/1/2022,Rhode Island,4
+1/1/2022,South Carolina,34
+1/1/2022,South Dakota,6
+1/1/2022,Tennessee,56
+1/1/2022,Texas,198
+1/1/2022,Utah,4
+1/1/2022,Virginia,51
+1/1/2022,Vermont,0
+1/1/2022,Washington,27
+1/1/2022,Wisconsin,30
+1/1/2022,West Virginia,3
+1/1/2022,Wyoming,1
+2/1/2022,Alaska,6
+2/1/2022,Alabama,39
+2/1/2022,Arkansas,21
+2/1/2022,Arizona,44
+2/1/2022,California,181
+2/1/2022,Colorado,19
+2/1/2022,Connecticut,7
+2/1/2022,District of Columbia,13
+2/1/2022,Delaware,7
+2/1/2022,Florida,31
+2/1/2022,Georgia,60
+2/1/2022,Hawaii,6
+2/1/2022,Iowa,2
+2/1/2022,Idaho,4
+2/1/2022,Illinois,54
+2/1/2022,Indiana,31
+2/1/2022,Kansas,15
+2/1/2022,Kentucky,20
+2/1/2022,Louisiana,42
+2/1/2022,Massachusetts,6
+2/1/2022,Maryland,43
+2/1/2022,Maine,3
+2/1/2022,Michigan,51
+2/1/2022,Minnesota,14
+2/1/2022,Missouri,46
+2/1/2022,Mississippi,7
+2/1/2022,Montana,1
+2/1/2022,Nebraska,1
+2/1/2022,North Carolina,57
+2/1/2022,North Dakota,2
+2/1/2022,New Hampshire,0
+2/1/2022,New Jersey,19
+2/1/2022,New Mexico,21
+2/1/2022,Nevada,13
+2/1/2022,New York,61
+2/1/2022,Ohio,42
+2/1/2022,Oklahoma,19
+2/1/2022,Oregon,20
+2/1/2022,Pennsylvania,57
+2/1/2022,Rhode Island,3
+2/1/2022,South Carolina,30
+2/1/2022,South Dakota,5
+2/1/2022,Tennessee,44
+2/1/2022,Texas,163
+2/1/2022,Utah,5
+2/1/2022,Virginia,43
+2/1/2022,Vermont,2
+2/1/2022,Washington,29
+2/1/2022,Wisconsin,24
+2/1/2022,West Virginia,4
+2/1/2022,Wyoming,0
+3/1/2022,Alaska,7
+3/1/2022,Alabama,43
+3/1/2022,Arkansas,27
+3/1/2022,Arizona,41
+3/1/2022,California,177
+3/1/2022,Colorado,26
+3/1/2022,Connecticut,14
+3/1/2022,District of Columbia,16
+3/1/2022,Delaware,4
+3/1/2022,Florida,39
+3/1/2022,Georgia,70
+3/1/2022,Hawaii,2
+3/1/2022,Iowa,6
+3/1/2022,Idaho,4
+3/1/2022,Illinois,55
+3/1/2022,Indiana,23
+3/1/2022,Kansas,9
+3/1/2022,Kentucky,37
+3/1/2022,Louisiana,38
+3/1/2022,Massachusetts,10
+3/1/2022,Maryland,53
+3/1/2022,Maine,1
+3/1/2022,Michigan,59
+3/1/2022,Minnesota,14
+3/1/2022,Missouri,47
+3/1/2022,Mississippi,6
+3/1/2022,Montana,1
+3/1/2022,Nebraska,0
+3/1/2022,North Carolina,72
+3/1/2022,North Dakota,2
+3/1/2022,New Hampshire,0
+3/1/2022,New Jersey,27
+3/1/2022,New Mexico,18
+3/1/2022,Nevada,26
+3/1/2022,New York,64
+3/1/2022,Ohio,54
+3/1/2022,Oklahoma,24
+3/1/2022,Oregon,13
+3/1/2022,Pennsylvania,94
+3/1/2022,Rhode Island,1
+3/1/2022,South Carolina,39
+3/1/2022,South Dakota,3
+3/1/2022,Tennessee,49
+3/1/2022,Texas,162
+3/1/2022,Utah,3
+3/1/2022,Virginia,49
+3/1/2022,Vermont,0
+3/1/2022,Washington,33
+3/1/2022,Wisconsin,27
+3/1/2022,West Virginia,13
+3/1/2022,Wyoming,0
+4/1/2022,Alaska,9
+4/1/2022,Alabama,38
+4/1/2022,Arkansas,35
+4/1/2022,Arizona,47
+4/1/2022,California,192
+4/1/2022,Colorado,32
+4/1/2022,Connecticut,7
+4/1/2022,District of Columbia,15
+4/1/2022,Delaware,5
+4/1/2022,Florida,45
+4/1/2022,Georgia,79
+4/1/2022,Hawaii,2
+4/1/2022,Iowa,4
+4/1/2022,Idaho,1
+4/1/2022,Illinois,79
+4/1/2022,Indiana,52
+4/1/2022,Kansas,6
+4/1/2022,Kentucky,22
+4/1/2022,Louisiana,46
+4/1/2022,Massachusetts,12
+4/1/2022,Maryland,46
+4/1/2022,Maine,3
+4/1/2022,Michigan,44
+4/1/2022,Minnesota,22
+4/1/2022,Missouri,54
+4/1/2022,Mississippi,15
+4/1/2022,Montana,3
+4/1/2022,Nebraska,1
+4/1/2022,North Carolina,69
+4/1/2022,North Dakota,1
+4/1/2022,New Hampshire,4
+4/1/2022,New Jersey,14
+4/1/2022,New Mexico,13
+4/1/2022,Nevada,18
+4/1/2022,New York,58
+4/1/2022,Ohio,51
+4/1/2022,Oklahoma,26
+4/1/2022,Oregon,19
+4/1/2022,Pennsylvania,71
+4/1/2022,Rhode Island,2
+4/1/2022,South Carolina,50
+4/1/2022,South Dakota,0
+4/1/2022,Tennessee,60
+4/1/2022,Texas,165
+4/1/2022,Utah,9
+4/1/2022,Virginia,52
+4/1/2022,Vermont,1
+4/1/2022,Washington,29
+4/1/2022,Wisconsin,21
+4/1/2022,West Virginia,6
+4/1/2022,Wyoming,1
+5/1/2022,Alaska,2
+5/1/2022,Alabama,36
+5/1/2022,Arkansas,35
+5/1/2022,Arizona,35
+5/1/2022,California,173
+5/1/2022,Colorado,30
+5/1/2022,Connecticut,16
+5/1/2022,District of Columbia,24
+5/1/2022,Delaware,2
+5/1/2022,Florida,41
+5/1/2022,Georgia,83
+5/1/2022,Hawaii,2
+5/1/2022,Iowa,4
+5/1/2022,Idaho,7
+5/1/2022,Illinois,80
+5/1/2022,Indiana,31
+5/1/2022,Kansas,14
+5/1/2022,Kentucky,36
+5/1/2022,Louisiana,41
+5/1/2022,Massachusetts,16
+5/1/2022,Maryland,45
+5/1/2022,Maine,3
+5/1/2022,Michigan,64
+5/1/2022,Minnesota,18
+5/1/2022,Missouri,63
+5/1/2022,Mississippi,17
+5/1/2022,Montana,8
+5/1/2022,Nebraska,6
+5/1/2022,North Carolina,73
+5/1/2022,North Dakota,3
+5/1/2022,New Hampshire,2
+5/1/2022,New Jersey,22
+5/1/2022,New Mexico,22
+5/1/2022,Nevada,11
+5/1/2022,New York,86
+5/1/2022,Ohio,92
+5/1/2022,Oklahoma,21
+5/1/2022,Oregon,20
+5/1/2022,Pennsylvania,94
+5/1/2022,Rhode Island,0
+5/1/2022,South Carolina,55
+5/1/2022,South Dakota,2
+5/1/2022,Tennessee,57
+5/1/2022,Texas,210
+5/1/2022,Utah,14
+5/1/2022,Virginia,60
+5/1/2022,Vermont,1
+5/1/2022,Washington,32
+5/1/2022,Wisconsin,28
+5/1/2022,West Virginia,12
+5/1/2022,Wyoming,4
+6/1/2022,Alaska,8
+6/1/2022,Alabama,45
+6/1/2022,Arkansas,23
+6/1/2022,Arizona,36
+6/1/2022,California,183
+6/1/2022,Colorado,29
+6/1/2022,Connecticut,9
+6/1/2022,District of Columbia,19
+6/1/2022,Delaware,2
+6/1/2022,Florida,28
+6/1/2022,Georgia,75
+6/1/2022,Hawaii,1
+6/1/2022,Iowa,6
+6/1/2022,Idaho,6
+6/1/2022,Illinois,81
+6/1/2022,Indiana,46
+6/1/2022,Kansas,11
+6/1/2022,Kentucky,29
+6/1/2022,Louisiana,29
+6/1/2022,Massachusetts,9
+6/1/2022,Maryland,58
+6/1/2022,Maine,3
+6/1/2022,Michigan,66
+6/1/2022,Minnesota,15
+6/1/2022,Missouri,47
+6/1/2022,Mississippi,10
+6/1/2022,Montana,0
+6/1/2022,Nebraska,2
+6/1/2022,North Carolina,87
+6/1/2022,North Dakota,1
+6/1/2022,New Hampshire,4
+6/1/2022,New Jersey,19
+6/1/2022,New Mexico,20
+6/1/2022,Nevada,16
+6/1/2022,New York,68
+6/1/2022,Ohio,61
+6/1/2022,Oklahoma,19
+6/1/2022,Oregon,10
+6/1/2022,Pennsylvania,87
+6/1/2022,Rhode Island,1
+6/1/2022,South Carolina,47
+6/1/2022,South Dakota,3
+6/1/2022,Tennessee,57
+6/1/2022,Texas,249
+6/1/2022,Utah,5
+6/1/2022,Virginia,69
+6/1/2022,Vermont,2
+6/1/2022,Washington,37
+6/1/2022,Wisconsin,27
+6/1/2022,West Virginia,2
+6/1/2022,Wyoming,3
+7/1/2022,Alaska,6
+7/1/2022,Alabama,55
+7/1/2022,Arkansas,29
+7/1/2022,Arizona,41
+7/1/2022,California,221
+7/1/2022,Colorado,41
+7/1/2022,Connecticut,14
+7/1/2022,District of Columbia,22
+7/1/2022,Delaware,4
+7/1/2022,Florida,35
+7/1/2022,Georgia,68
+7/1/2022,Hawaii,4
+7/1/2022,Iowa,9
+7/1/2022,Idaho,2
+7/1/2022,Illinois,93
+7/1/2022,Indiana,56
+7/1/2022,Kansas,11
+7/1/2022,Kentucky,30
+7/1/2022,Louisiana,38
+7/1/2022,Massachusetts,19
+7/1/2022,Maryland,48
+7/1/2022,Maine,5
+7/1/2022,Michigan,75
+7/1/2022,Minnesota,19
+7/1/2022,Missouri,54
+7/1/2022,Mississippi,11
+7/1/2022,Montana,6
+7/1/2022,Nebraska,1
+7/1/2022,North Carolina,76
+7/1/2022,North Dakota,1
+7/1/2022,New Hampshire,4
+7/1/2022,New Jersey,34
+7/1/2022,New Mexico,22
+7/1/2022,Nevada,18
+7/1/2022,New York,91
+7/1/2022,Ohio,84
+7/1/2022,Oklahoma,31
+7/1/2022,Oregon,18
+7/1/2022,Pennsylvania,88
+7/1/2022,Rhode Island,1
+7/1/2022,South Carolina,98
+7/1/2022,South Dakota,7
+7/1/2022,Tennessee,53
+7/1/2022,Texas,181
+7/1/2022,Utah,7
+7/1/2022,Virginia,54
+7/1/2022,Vermont,3
+7/1/2022,Washington,43
+7/1/2022,Wisconsin,36
+7/1/2022,West Virginia,11
+7/1/2022,Wyoming,0
+8/1/2022,Alaska,7
+8/1/2022,Alabama,37
+8/1/2022,Arkansas,27
+8/1/2022,Arizona,31
+8/1/2022,California,219
+8/1/2022,Colorado,30
+8/1/2022,Connecticut,14
+8/1/2022,District of Columbia,15
+8/1/2022,Delaware,5
+8/1/2022,Florida,38
+8/1/2022,Georgia,71
+8/1/2022,Hawaii,3
+8/1/2022,Iowa,11
+8/1/2022,Idaho,5
+8/1/2022,Illinois,91
+8/1/2022,Indiana,42
+8/1/2022,Kansas,11
+8/1/2022,Kentucky,30
+8/1/2022,Louisiana,27
+8/1/2022,Massachusetts,14
+8/1/2022,Maryland,61
+8/1/2022,Maine,1
+8/1/2022,Michigan,65
+8/1/2022,Minnesota,15
+8/1/2022,Missouri,71
+8/1/2022,Mississippi,10
+8/1/2022,Montana,4
+8/1/2022,Nebraska,8
+8/1/2022,North Carolina,79
+8/1/2022,North Dakota,5
+8/1/2022,New Hampshire,5
+8/1/2022,New Jersey,32
+8/1/2022,New Mexico,21
+8/1/2022,Nevada,23
+8/1/2022,New York,65
+8/1/2022,Ohio,59
+8/1/2022,Oklahoma,28
+8/1/2022,Oregon,20
+8/1/2022,Pennsylvania,84
+8/1/2022,Rhode Island,0
+8/1/2022,South Carolina,42
+8/1/2022,South Dakota,7
+8/1/2022,Tennessee,60
+8/1/2022,Texas,162
+8/1/2022,Utah,5
+8/1/2022,Virginia,48
+8/1/2022,Vermont,3
+8/1/2022,Washington,45
+8/1/2022,Wisconsin,29
+8/1/2022,West Virginia,10
+8/1/2022,Wyoming,5
+9/1/2022,Alaska,9
+9/1/2022,Alabama,52
+9/1/2022,Arkansas,20
+9/1/2022,Arizona,38
+9/1/2022,California,202
+9/1/2022,Colorado,20
+9/1/2022,Connecticut,8
+9/1/2022,District of Columbia,18
+9/1/2022,Delaware,4
+9/1/2022,Florida,42
+9/1/2022,Georgia,62
+9/1/2022,Hawaii,1
+9/1/2022,Iowa,3
+9/1/2022,Idaho,4
+9/1/2022,Illinois,86
+9/1/2022,Indiana,41
+9/1/2022,Kansas,9
+9/1/2022,Kentucky,37
+9/1/2022,Louisiana,39
+9/1/2022,Massachusetts,13
+9/1/2022,Maryland,41
+9/1/2022,Maine,1
+9/1/2022,Michigan,44
+9/1/2022,Minnesota,13
+9/1/2022,Missouri,45
+9/1/2022,Mississippi,10
+9/1/2022,Montana,4
+9/1/2022,Nebraska,5
+9/1/2022,North Carolina,62
+9/1/2022,North Dakota,5
+9/1/2022,New Hampshire,1
+9/1/2022,New Jersey,29
+9/1/2022,New Mexico,18
+9/1/2022,Nevada,20
+9/1/2022,New York,81
+9/1/2022,Ohio,56
+9/1/2022,Oklahoma,23
+9/1/2022,Oregon,17
+9/1/2022,Pennsylvania,67
+9/1/2022,Rhode Island,2
+9/1/2022,South Carolina,46
+9/1/2022,South Dakota,3
+9/1/2022,Tennessee,47
+9/1/2022,Texas,138
+9/1/2022,Utah,8
+9/1/2022,Virginia,53
+9/1/2022,Vermont,2
+9/1/2022,Washington,35
+9/1/2022,Wisconsin,25
+9/1/2022,West Virginia,8
+9/1/2022,Wyoming,0
+10/1/2022,Alaska,0
+10/1/2022,Alabama,39
+10/1/2022,Arkansas,24
+10/1/2022,Arizona,35
+10/1/2022,California,185
+10/1/2022,Colorado,37
+10/1/2022,Connecticut,17
+10/1/2022,District of Columbia,21
+10/1/2022,Delaware,4
+10/1/2022,Florida,50
+10/1/2022,Georgia,79
+10/1/2022,Hawaii,2
+10/1/2022,Iowa,2
+10/1/2022,Idaho,6
+10/1/2022,Illinois,74
+10/1/2022,Indiana,56
+10/1/2022,Kansas,7
+10/1/2022,Kentucky,12
+10/1/2022,Louisiana,26
+10/1/2022,Massachusetts,14
+10/1/2022,Maryland,43
+10/1/2022,Maine,3
+10/1/2022,Michigan,69
+10/1/2022,Minnesota,13
+10/1/2022,Missouri,62
+10/1/2022,Mississippi,17
+10/1/2022,Montana,7
+10/1/2022,Nebraska,1
+10/1/2022,North Carolina,79
+10/1/2022,North Dakota,3
+10/1/2022,New Hampshire,2
+10/1/2022,New Jersey,24
+10/1/2022,New Mexico,13
+10/1/2022,Nevada,27
+10/1/2022,New York,55
+10/1/2022,Ohio,72
+10/1/2022,Oklahoma,33
+10/1/2022,Oregon,16
+10/1/2022,Pennsylvania,66
+10/1/2022,Rhode Island,0
+10/1/2022,South Carolina,53
+10/1/2022,South Dakota,1
+10/1/2022,Tennessee,56
+10/1/2022,Texas,162
+10/1/2022,Utah,5
+10/1/2022,Virginia,50
+10/1/2022,Vermont,3
+10/1/2022,Washington,36
+10/1/2022,Wisconsin,26
+10/1/2022,West Virginia,10
+10/1/2022,Wyoming,0
+11/1/2022,Alaska,8
+11/1/2022,Alabama,39
+11/1/2022,Arkansas,25
+11/1/2022,Arizona,50
+11/1/2022,California,142
+11/1/2022,Colorado,29
+11/1/2022,Connecticut,11
+11/1/2022,District of Columbia,13
+11/1/2022,Delaware,4
+11/1/2022,Florida,47
+11/1/2022,Georgia,67
+11/1/2022,Hawaii,0
+11/1/2022,Iowa,5
+11/1/2022,Idaho,8
+11/1/2022,Illinois,69
+11/1/2022,Indiana,33
+11/1/2022,Kansas,8
+11/1/2022,Kentucky,24
+11/1/2022,Louisiana,31
+11/1/2022,Massachusetts,16
+11/1/2022,Maryland,51
+11/1/2022,Maine,3
+11/1/2022,Michigan,45
+11/1/2022,Minnesota,11
+11/1/2022,Missouri,47
+11/1/2022,Mississippi,6
+11/1/2022,Montana,2
+11/1/2022,Nebraska,2
+11/1/2022,North Carolina,62
+11/1/2022,North Dakota,2
+11/1/2022,New Hampshire,3
+11/1/2022,New Jersey,24
+11/1/2022,New Mexico,10
+11/1/2022,Nevada,15
+11/1/2022,New York,52
+11/1/2022,Ohio,53
+11/1/2022,Oklahoma,15
+11/1/2022,Oregon,19
+11/1/2022,Pennsylvania,50
+11/1/2022,Rhode Island,2
+11/1/2022,South Carolina,23
+11/1/2022,South Dakota,3
+11/1/2022,Tennessee,47
+11/1/2022,Texas,136
+11/1/2022,Utah,9
+11/1/2022,Virginia,65
+11/1/2022,Vermont,2
+11/1/2022,Washington,32
+11/1/2022,Wisconsin,25
+11/1/2022,West Virginia,9
+11/1/2022,Wyoming,0
+12/1/2022,Alaska,4
+12/1/2022,Alabama,41
+12/1/2022,Arkansas,24
+12/1/2022,Arizona,37
+12/1/2022,California,160
+12/1/2022,Colorado,48
+12/1/2022,Connecticut,8
+12/1/2022,District of Columbia,13
+12/1/2022,Delaware,5
+12/1/2022,Florida,46
+12/1/2022,Georgia,75
+12/1/2022,Hawaii,3
+12/1/2022,Iowa,3
+12/1/2022,Idaho,0
+12/1/2022,Illinois,63
+12/1/2022,Indiana,25
+12/1/2022,Kansas,18
+12/1/2022,Kentucky,29
+12/1/2022,Louisiana,31
+12/1/2022,Massachusetts,12
+12/1/2022,Maryland,49
+12/1/2022,Maine,2
+12/1/2022,Michigan,57
+12/1/2022,Minnesota,16
+12/1/2022,Missouri,41
+12/1/2022,Mississippi,20
+12/1/2022,Montana,3
+12/1/2022,Nebraska,1
+12/1/2022,North Carolina,64
+12/1/2022,North Dakota,4
+12/1/2022,New Hampshire,2
+12/1/2022,New Jersey,18
+12/1/2022,New Mexico,15
+12/1/2022,Nevada,19
+12/1/2022,New York,54
+12/1/2022,Ohio,49
+12/1/2022,Oklahoma,16
+12/1/2022,Oregon,12
+12/1/2022,Pennsylvania,68
+12/1/2022,Rhode Island,2
+12/1/2022,South Carolina,42
+12/1/2022,South Dakota,0
+12/1/2022,Tennessee,61
+12/1/2022,Texas,143
+12/1/2022,Utah,1
+12/1/2022,Virginia,46
+12/1/2022,Vermont,3
+12/1/2022,Washington,21
+12/1/2022,Wisconsin,24
+12/1/2022,West Virginia,4
+12/1/2022,Wyoming,0
+1/1/2023,Alaska,4
+1/1/2023,Alabama,41
+1/1/2023,Arkansas,35
+1/1/2023,Arizona,42
+1/1/2023,California,191
+1/1/2023,Colorado,26
+1/1/2023,Connecticut,12
+1/1/2023,District of Columbia,16
+1/1/2023,Delaware,2
+1/1/2023,Florida,39
+1/1/2023,Georgia,56
+1/1/2023,Hawaii,1
+1/1/2023,Iowa,15
+1/1/2023,Idaho,3
+1/1/2023,Illinois,59
+1/1/2023,Indiana,27
+1/1/2023,Kansas,18
+1/1/2023,Kentucky,27
+1/1/2023,Louisiana,30
+1/1/2023,Massachusetts,12
+1/1/2023,Maryland,41
+1/1/2023,Maine,6
+1/1/2023,Michigan,39
+1/1/2023,Minnesota,11
+1/1/2023,Missouri,45
+1/1/2023,Mississippi,6
+1/1/2023,Montana,4
+1/1/2023,Nebraska,3
+1/1/2023,North Carolina,77
+1/1/2023,North Dakota,2
+1/1/2023,New Hampshire,2
+1/1/2023,New Jersey,25
+1/1/2023,New Mexico,16
+1/1/2023,Nevada,22
+1/1/2023,New York,57
+1/1/2023,Ohio,61
+1/1/2023,Oklahoma,21
+1/1/2023,Oregon,17
+1/1/2023,Pennsylvania,64
+1/1/2023,Rhode Island,1
+1/1/2023,South Carolina,42
+1/1/2023,South Dakota,1
+1/1/2023,Tennessee,60
+1/1/2023,Texas,163
+1/1/2023,Utah,12
+1/1/2023,Virginia,53
+1/1/2023,Vermont,1
+1/1/2023,Washington,35
+1/1/2023,Wisconsin,26
+1/1/2023,West Virginia,7
+1/1/2023,Wyoming,4
+2/1/2023,Alaska,3
+2/1/2023,Alabama,40
+2/1/2023,Arkansas,25
+2/1/2023,Arizona,37
+2/1/2023,California,121
+2/1/2023,Colorado,14
+2/1/2023,Connecticut,6
+2/1/2023,District of Columbia,22
+2/1/2023,Delaware,8
+2/1/2023,Florida,32
+2/1/2023,Georgia,56
+2/1/2023,Hawaii,3
+2/1/2023,Iowa,10
+2/1/2023,Idaho,2
+2/1/2023,Illinois,52
+2/1/2023,Indiana,29
+2/1/2023,Kansas,5
+2/1/2023,Kentucky,25
+2/1/2023,Louisiana,31
+2/1/2023,Massachusetts,9
+2/1/2023,Maryland,40
+2/1/2023,Maine,3
+2/1/2023,Michigan,46
+2/1/2023,Minnesota,15
+2/1/2023,Missouri,37
+2/1/2023,Mississippi,7
+2/1/2023,Montana,3
+2/1/2023,Nebraska,2
+2/1/2023,North Carolina,60
+2/1/2023,North Dakota,1
+2/1/2023,New Hampshire,2
+2/1/2023,New Jersey,18
+2/1/2023,New Mexico,11
+2/1/2023,Nevada,22
+2/1/2023,New York,39
+2/1/2023,Ohio,45
+2/1/2023,Oklahoma,8
+2/1/2023,Oregon,15
+2/1/2023,Pennsylvania,55
+2/1/2023,Rhode Island,2
+2/1/2023,South Carolina,53
+2/1/2023,South Dakota,1
+2/1/2023,Tennessee,52
+2/1/2023,Texas,136
+2/1/2023,Utah,5
+2/1/2023,Virginia,51
+2/1/2023,Vermont,1
+2/1/2023,Washington,25
+2/1/2023,Wisconsin,19
+2/1/2023,West Virginia,5
+2/1/2023,Wyoming,1
+3/1/2023,Alaska,10
+3/1/2023,Alabama,45
+3/1/2023,Arkansas,23
+3/1/2023,Arizona,51
+3/1/2023,California,155
+3/1/2023,Colorado,29
+3/1/2023,Connecticut,11
+3/1/2023,District of Columbia,19
+3/1/2023,Delaware,4
+3/1/2023,Florida,43
+3/1/2023,Georgia,54
+3/1/2023,Hawaii,0
+3/1/2023,Iowa,8
+3/1/2023,Idaho,5
+3/1/2023,Illinois,54
+3/1/2023,Indiana,32
+3/1/2023,Kansas,12
+3/1/2023,Kentucky,16
+3/1/2023,Louisiana,27
+3/1/2023,Massachusetts,12
+3/1/2023,Maryland,37
+3/1/2023,Maine,1
+3/1/2023,Michigan,45
+3/1/2023,Minnesota,15
+3/1/2023,Missouri,52
+3/1/2023,Mississippi,11
+3/1/2023,Montana,2
+3/1/2023,Nebraska,6
+3/1/2023,North Carolina,58
+3/1/2023,North Dakota,2
+3/1/2023,New Hampshire,1
+3/1/2023,New Jersey,21
+3/1/2023,New Mexico,14
+3/1/2023,Nevada,16
+3/1/2023,New York,39
+3/1/2023,Ohio,39
+3/1/2023,Oklahoma,26
+3/1/2023,Oregon,18
+3/1/2023,Pennsylvania,74
+3/1/2023,Rhode Island,1
+3/1/2023,South Carolina,42
+3/1/2023,South Dakota,2
+3/1/2023,Tennessee,73
+3/1/2023,Texas,151
+3/1/2023,Utah,4
+3/1/2023,Virginia,36
+3/1/2023,Vermont,2
+3/1/2023,Washington,34
+3/1/2023,Wisconsin,34
+3/1/2023,West Virginia,6
+3/1/2023,Wyoming,3
+4/1/2023,Alaska,6
+4/1/2023,Alabama,35
+4/1/2023,Arkansas,23
+4/1/2023,Arizona,37
+4/1/2023,California,163
+4/1/2023,Colorado,26
+4/1/2023,Connecticut,14
+4/1/2023,District of Columbia,14
+4/1/2023,Delaware,3
+4/1/2023,Florida,32
+4/1/2023,Georgia,63
+4/1/2023,Hawaii,2
+4/1/2023,Iowa,6
+4/1/2023,Idaho,2
+4/1/2023,Illinois,65
+4/1/2023,Indiana,22
+4/1/2023,Kansas,11
+4/1/2023,Kentucky,33
+4/1/2023,Louisiana,38
+4/1/2023,Massachusetts,10
+4/1/2023,Maryland,43
+4/1/2023,Maine,5
+4/1/2023,Michigan,44
+4/1/2023,Minnesota,14
+4/1/2023,Missouri,48
+4/1/2023,Mississippi,13
+4/1/2023,Montana,2
+4/1/2023,Nebraska,0
+4/1/2023,North Carolina,61
+4/1/2023,North Dakota,1
+4/1/2023,New Hampshire,1
+4/1/2023,New Jersey,12
+4/1/2023,New Mexico,19
+4/1/2023,Nevada,20
+4/1/2023,New York,48
+4/1/2023,Ohio,57
+4/1/2023,Oklahoma,31
+4/1/2023,Oregon,18
+4/1/2023,Pennsylvania,56
+4/1/2023,Rhode Island,3
+4/1/2023,South Carolina,49
+4/1/2023,South Dakota,4
+4/1/2023,Tennessee,45
+4/1/2023,Texas,149
+4/1/2023,Utah,7
+4/1/2023,Virginia,47
+4/1/2023,Vermont,1
+4/1/2023,Washington,36
+4/1/2023,Wisconsin,14
+4/1/2023,West Virginia,7
+4/1/2023,Wyoming,1
+5/1/2023,Alaska,5
+5/1/2023,Alabama,37
+5/1/2023,Arkansas,35
+5/1/2023,Arizona,51
+5/1/2023,California,126
+5/1/2023,Colorado,21
+5/1/2023,Connecticut,14
+5/1/2023,District of Columbia,25
+5/1/2023,Delaware,3
+5/1/2023,Florida,30
+5/1/2023,Georgia,65
+5/1/2023,Hawaii,0
+5/1/2023,Iowa,10
+5/1/2023,Idaho,3
+5/1/2023,Illinois,94
+5/1/2023,Indiana,28
+5/1/2023,Kansas,7
+5/1/2023,Kentucky,24
+5/1/2023,Louisiana,29
+5/1/2023,Massachusetts,9
+5/1/2023,Maryland,57
+5/1/2023,Maine,1
+5/1/2023,Michigan,54
+5/1/2023,Minnesota,14
+5/1/2023,Missouri,66
+5/1/2023,Mississippi,11
+5/1/2023,Montana,4
+5/1/2023,Nebraska,2
+5/1/2023,North Carolina,58
+5/1/2023,North Dakota,6
+5/1/2023,New Hampshire,3
+5/1/2023,New Jersey,31
+5/1/2023,New Mexico,20
+5/1/2023,Nevada,12
+5/1/2023,New York,69
+5/1/2023,Ohio,61
+5/1/2023,Oklahoma,30
+5/1/2023,Oregon,15
+5/1/2023,Pennsylvania,83
+5/1/2023,Rhode Island,4
+5/1/2023,South Carolina,39
+5/1/2023,South Dakota,2
+5/1/2023,Tennessee,53
+5/1/2023,Texas,153
+5/1/2023,Utah,6
+5/1/2023,Virginia,45
+5/1/2023,Vermont,1
+5/1/2023,Washington,32
+5/1/2023,Wisconsin,22
+5/1/2023,West Virginia,7
+5/1/2023,Wyoming,2
+6/1/2023,Alaska,6
+6/1/2023,Alabama,39
+6/1/2023,Arkansas,15
+6/1/2023,Arizona,39
+6/1/2023,California,177
+6/1/2023,Colorado,23
+6/1/2023,Connecticut,9
+6/1/2023,District of Columbia,24
+6/1/2023,Delaware,3
+6/1/2023,Florida,49
+6/1/2023,Georgia,64
+6/1/2023,Hawaii,0
+6/1/2023,Iowa,5
+6/1/2023,Idaho,12
+6/1/2023,Illinois,88
+6/1/2023,Indiana,37
+6/1/2023,Kansas,9
+6/1/2023,Kentucky,23
+6/1/2023,Louisiana,36
+6/1/2023,Massachusetts,13
+6/1/2023,Maryland,52
+6/1/2023,Maine,4
+6/1/2023,Michigan,57
+6/1/2023,Minnesota,19
+6/1/2023,Missouri,58
+6/1/2023,Mississippi,15
+6/1/2023,Montana,1
+6/1/2023,Nebraska,2
+6/1/2023,North Carolina,67
+6/1/2023,North Dakota,1
+6/1/2023,New Hampshire,4
+6/1/2023,New Jersey,29
+6/1/2023,New Mexico,25
+6/1/2023,Nevada,21
+6/1/2023,New York,57
+6/1/2023,Ohio,51
+6/1/2023,Oklahoma,17
+6/1/2023,Oregon,16
+6/1/2023,Pennsylvania,68
+6/1/2023,Rhode Island,3
+6/1/2023,South Carolina,29
+6/1/2023,South Dakota,2
+6/1/2023,Tennessee,65
+6/1/2023,Texas,160
+6/1/2023,Utah,4
+6/1/2023,Virginia,49
+6/1/2023,Vermont,1
+6/1/2023,Washington,31
+6/1/2023,Wisconsin,29
+6/1/2023,West Virginia,7
+6/1/2023,Wyoming,1
+7/1/2023,Alaska,8
+7/1/2023,Alabama,33
+7/1/2023,Arkansas,38
+7/1/2023,Arizona,31
+7/1/2023,California,183
+7/1/2023,Colorado,27
+7/1/2023,Connecticut,20
+7/1/2023,District of Columbia,29
+7/1/2023,Delaware,2
+7/1/2023,Florida,46
+7/1/2023,Georgia,63
+7/1/2023,Hawaii,1
+7/1/2023,Iowa,7
+7/1/2023,Idaho,2
+7/1/2023,Illinois,79
+7/1/2023,Indiana,35
+7/1/2023,Kansas,13
+7/1/2023,Kentucky,24
+7/1/2023,Louisiana,33
+7/1/2023,Massachusetts,20
+7/1/2023,Maryland,43
+7/1/2023,Maine,6
+7/1/2023,Michigan,73
+7/1/2023,Minnesota,17
+7/1/2023,Missouri,45
+7/1/2023,Mississippi,13
+7/1/2023,Montana,1
+7/1/2023,Nebraska,2
+7/1/2023,North Carolina,90
+7/1/2023,North Dakota,2
+7/1/2023,New Hampshire,2
+7/1/2023,New Jersey,21
+7/1/2023,New Mexico,21
+7/1/2023,Nevada,17
+7/1/2023,New York,63
+7/1/2023,Ohio,64
+7/1/2023,Oklahoma,29
+7/1/2023,Oregon,17
+7/1/2023,Pennsylvania,69
+7/1/2023,Rhode Island,5
+7/1/2023,South Carolina,44
+7/1/2023,South Dakota,3
+7/1/2023,Tennessee,73
+7/1/2023,Texas,175
+7/1/2023,Utah,5
+7/1/2023,Virginia,48
+7/1/2023,Vermont,2
+7/1/2023,Washington,28
+7/1/2023,Wisconsin,28
+7/1/2023,West Virginia,7
+7/1/2023,Wyoming,1
+8/1/2023,Alaska,7
+8/1/2023,Alabama,32
+8/1/2023,Arkansas,19
+8/1/2023,Arizona,26
+8/1/2023,California,185
+8/1/2023,Colorado,31
+8/1/2023,Connecticut,12
+8/1/2023,District of Columbia,33
+8/1/2023,Delaware,4
+8/1/2023,Florida,32
+8/1/2023,Georgia,58
+8/1/2023,Hawaii,1
+8/1/2023,Iowa,1
+8/1/2023,Idaho,6
+8/1/2023,Illinois,71
+8/1/2023,Indiana,29
+8/1/2023,Kansas,13
+8/1/2023,Kentucky,25
+8/1/2023,Louisiana,16
+8/1/2023,Massachusetts,13
+8/1/2023,Maryland,54
+8/1/2023,Maine,0
+8/1/2023,Michigan,62
+8/1/2023,Minnesota,13
+8/1/2023,Missouri,47
+8/1/2023,Mississippi,6
+8/1/2023,Montana,2
+8/1/2023,Nebraska,5
+8/1/2023,North Carolina,57
+8/1/2023,North Dakota,2
+8/1/2023,New Hampshire,2
+8/1/2023,New Jersey,20
+8/1/2023,New Mexico,16
+8/1/2023,Nevada,22
+8/1/2023,New York,58
+8/1/2023,Ohio,68
+8/1/2023,Oklahoma,21
+8/1/2023,Oregon,11
+8/1/2023,Pennsylvania,76
+8/1/2023,Rhode Island,2
+8/1/2023,South Carolina,37
+8/1/2023,South Dakota,2
+8/1/2023,Tennessee,51
+8/1/2023,Texas,146
+8/1/2023,Utah,5
+8/1/2023,Virginia,54
+8/1/2023,Vermont,1
+8/1/2023,Washington,38
+8/1/2023,Wisconsin,24
+8/1/2023,West Virginia,4
+8/1/2023,Wyoming,2
+9/1/2023,Alaska,0
+9/1/2023,Alabama,39
+9/1/2023,Arkansas,14
+9/1/2023,Arizona,29
+9/1/2023,California,138
+9/1/2023,Colorado,30
+9/1/2023,Connecticut,8
+9/1/2023,District of Columbia,23
+9/1/2023,Delaware,8
+9/1/2023,Florida,49
+9/1/2023,Georgia,46
+9/1/2023,Hawaii,2
+9/1/2023,Iowa,2
+9/1/2023,Idaho,2
+9/1/2023,Illinois,62
+9/1/2023,Indiana,36
+9/1/2023,Kansas,16
+9/1/2023,Kentucky,27
+9/1/2023,Louisiana,14
+9/1/2023,Massachusetts,10
+9/1/2023,Maryland,43
+9/1/2023,Maine,2
+9/1/2023,Michigan,41
+9/1/2023,Minnesota,13
+9/1/2023,Missouri,49
+9/1/2023,Mississippi,8
+9/1/2023,Montana,1
+9/1/2023,Nebraska,0
+9/1/2023,North Carolina,64
+9/1/2023,North Dakota,4
+9/1/2023,New Hampshire,1
+9/1/2023,New Jersey,13
+9/1/2023,New Mexico,17
+9/1/2023,Nevada,16
+9/1/2023,New York,54
+9/1/2023,Ohio,50
+9/1/2023,Oklahoma,17
+9/1/2023,Oregon,10
+9/1/2023,Pennsylvania,67
+9/1/2023,Rhode Island,3
+9/1/2023,South Carolina,42
+9/1/2023,South Dakota,3
+9/1/2023,Tennessee,57
+9/1/2023,Texas,173
+9/1/2023,Utah,9
+9/1/2023,Virginia,45
+9/1/2023,Vermont,3
+9/1/2023,Washington,34
+9/1/2023,Wisconsin,25
+9/1/2023,West Virginia,6
+9/1/2023,Wyoming,0
+10/1/2023,Alaska,4
+10/1/2023,Alabama,45
+10/1/2023,Arkansas,15
+10/1/2023,Arizona,34
+10/1/2023,California,170
+10/1/2023,Colorado,25
+10/1/2023,Connecticut,12
+10/1/2023,District of Columbia,16
+10/1/2023,Delaware,2
+10/1/2023,Florida,41
+10/1/2023,Georgia,67
+10/1/2023,Hawaii,0
+10/1/2023,Iowa,8
+10/1/2023,Idaho,0
+10/1/2023,Illinois,62
+10/1/2023,Indiana,36
+10/1/2023,Kansas,16
+10/1/2023,Kentucky,17
+10/1/2023,Louisiana,29
+10/1/2023,Massachusetts,10
+10/1/2023,Maryland,41
+10/1/2023,Maine,19
+10/1/2023,Michigan,40
+10/1/2023,Minnesota,16
+10/1/2023,Missouri,38
+10/1/2023,Mississippi,10
+10/1/2023,Montana,3
+10/1/2023,Nebraska,3
+10/1/2023,North Carolina,92
+10/1/2023,North Dakota,2
+10/1/2023,New Hampshire,0
+10/1/2023,New Jersey,23
+10/1/2023,New Mexico,22
+10/1/2023,Nevada,17
+10/1/2023,New York,31
+10/1/2023,Ohio,54
+10/1/2023,Oklahoma,15
+10/1/2023,Oregon,16
+10/1/2023,Pennsylvania,58
+10/1/2023,Rhode Island,0
+10/1/2023,South Carolina,39
+10/1/2023,South Dakota,0
+10/1/2023,Tennessee,61
+10/1/2023,Texas,149
+10/1/2023,Utah,4
+10/1/2023,Virginia,43
+10/1/2023,Vermont,3
+10/1/2023,Washington,32
+10/1/2023,Wisconsin,25
+10/1/2023,West Virginia,3
+10/1/2023,Wyoming,0
+11/1/2023,Alaska,6
+11/1/2023,Alabama,35
+11/1/2023,Arkansas,17
+11/1/2023,Arizona,30
+11/1/2023,California,142
+11/1/2023,Colorado,35
+11/1/2023,Connecticut,7
+11/1/2023,District of Columbia,20
+11/1/2023,Delaware,2
+11/1/2023,Florida,36
+11/1/2023,Georgia,46
+11/1/2023,Hawaii,0
+11/1/2023,Iowa,3
+11/1/2023,Idaho,4
+11/1/2023,Illinois,65
+11/1/2023,Indiana,36
+11/1/2023,Kansas,3
+11/1/2023,Kentucky,19
+11/1/2023,Louisiana,18
+11/1/2023,Massachusetts,12
+11/1/2023,Maryland,33
+11/1/2023,Maine,10
+11/1/2023,Michigan,37
+11/1/2023,Minnesota,13
+11/1/2023,Missouri,42
+11/1/2023,Mississippi,9
+11/1/2023,Montana,6
+11/1/2023,Nebraska,9
+11/1/2023,North Carolina,61
+11/1/2023,North Dakota,1
+11/1/2023,New Hampshire,4
+11/1/2023,New Jersey,21
+11/1/2023,New Mexico,16
+11/1/2023,Nevada,16
+11/1/2023,New York,37
+11/1/2023,Ohio,48
+11/1/2023,Oklahoma,15
+11/1/2023,Oregon,15
+11/1/2023,Pennsylvania,45
+11/1/2023,Rhode Island,0
+11/1/2023,South Carolina,31
+11/1/2023,South Dakota,4
+11/1/2023,Tennessee,55
+11/1/2023,Texas,131
+11/1/2023,Utah,1
+11/1/2023,Virginia,29
+11/1/2023,Vermont,0
+11/1/2023,Washington,23
+11/1/2023,Wisconsin,13
+11/1/2023,West Virginia,6
+11/1/2023,Wyoming,0
+12/1/2023,Alaska,3
+12/1/2023,Alabama,39
+12/1/2023,Arkansas,25
+12/1/2023,Arizona,30
+12/1/2023,California,141
+12/1/2023,Colorado,26
+12/1/2023,Connecticut,10
+12/1/2023,District of Columbia,24
+12/1/2023,Delaware,5
+12/1/2023,Florida,37
+12/1/2023,Georgia,38
+12/1/2023,Hawaii,0
+12/1/2023,Iowa,3
+12/1/2023,Idaho,5
+12/1/2023,Illinois,49
+12/1/2023,Indiana,30
+12/1/2023,Kansas,8
+12/1/2023,Kentucky,15
+12/1/2023,Louisiana,26
+12/1/2023,Massachusetts,13
+12/1/2023,Maryland,30
+12/1/2023,Maine,3
+12/1/2023,Michigan,48
+12/1/2023,Minnesota,20
+12/1/2023,Missouri,37
+12/1/2023,Mississippi,4
+12/1/2023,Montana,3
+12/1/2023,Nebraska,8
+12/1/2023,North Carolina,67
+12/1/2023,North Dakota,2
+12/1/2023,New Hampshire,4
+12/1/2023,New Jersey,18
+12/1/2023,New Mexico,26
+12/1/2023,Nevada,17
+12/1/2023,New York,28
+12/1/2023,Ohio,33
+12/1/2023,Oklahoma,17
+12/1/2023,Oregon,20
+12/1/2023,Pennsylvania,50
+12/1/2023,Rhode Island,4
+12/1/2023,South Carolina,30
+12/1/2023,South Dakota,3
+12/1/2023,Tennessee,55
+12/1/2023,Texas,161
+12/1/2023,Utah,6
+12/1/2023,Virginia,20
+12/1/2023,Vermont,0
+12/1/2023,Washington,24
+12/1/2023,Wisconsin,24
+12/1/2023,West Virginia,18
+12/1/2023,Wyoming,2
