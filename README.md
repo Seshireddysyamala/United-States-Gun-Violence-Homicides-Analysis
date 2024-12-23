@@ -1,4 +1,4 @@
-# United-States-Gun-Violence-Homicides-Analysis
+# United-States-Gun-Violence-Homicides-Demographical-Analysis
 This repository contains the complete analysis of gun violence homicides across the United States. The project leverages advanced data visualization and analytical techniques to uncover trends, demographic disparities, and correlations between gun ownership, socioeconomic factors, and homicide rates. 
 
 ## Project Overview
