@@ -49,4 +49,4 @@ The analysis utilizes multiple authoritative datasets, including:
 - **Datasets**: Publicly available data from FBI, Johns Hopkins, World Population Review, and Visual Capitalist.
 
 ## Tableau Dashboard
-Explore the interactive dashboards on Tableau Public: [United States Gun Violence Homicides Analysis Dashboard](https://public.tableau.com/shared/NZQBKHW5Y?:display_count=n&:origin=viz_share_link)
+Explore the interactive dashboards on Tableau Public: [United States Gun Violence Homicides Demographical Analysis Dashboard](https://public.tableau.com/shared/NZQBKHW5Y?:display_count=n&:origin=viz_share_link)
