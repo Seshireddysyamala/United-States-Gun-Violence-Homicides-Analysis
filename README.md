@@ -1,6 +1,7 @@
 # United-States-Gun-Violence-Homicides-Demographical-Analysis
 This repository contains the complete analysis of gun violence homicides across the United States. The project leverages advanced data visualization and analytical techniques to uncover trends, demographic disparities, and correlations between gun ownership, socioeconomic factors, and homicide rates. 
 
+## Dashboard Link : https://shorturl.at/ZXliV
 ## Project Overview
 Gun violence is a pressing issue in the United States. This project aims to provide actionable insights by analyzing homicide data through multiple dimensions, including age, race, state policies, and socioeconomic factors. The results are presented using interactive dashboards created in Tableau, enabling data-driven decision-making for policymakers and community leaders.
 
